@@ -11,7 +11,13 @@ on working towards the collective ***goal***.
 
 ### _Public_?
 
-From a "commercial" perspective
+From a "commercial" perspective making our
+Product Roadmap `public` _can_ be viewed as
+"_**giving away** all our **secrets**_" by those who follow
+_traditional_ (_competition-focussed_) "_capitalism_".
+
+We don't like to think we are "_competing_" with anyone,
+rather we
 
 because being why wouldn't you make your company's product roadmap Public on GitHub?
 
@@ -26,27 +32,31 @@ to solve a _specific_ set of ***universal human needs***:
 
 > _**Most companies**/organisations are **deliberately** "**guarded**"
 with their Product Roadmap for a **number** of **reasons**_:
-+ _**Uncertainty** about the **future** of their **product/industry**_
-(_committing to a long-range map implies a fixed/inflexible destination_)
+
 + _**Fear** that a "**competitor**" will "**steal**" their **ideas**_
 (_and get to "**market**" **faster** thus "capturing" the "**users**".
 In **some cases** this **fear** is **justified** e.g: where the innovation
 is easy to replicate and difficult to differentiate,
 but we **hypothesize** that being **open** and **transparent**
 with our roadmap will foster a more **collaborative culture**_)
+
 + _**Fear** that members of their **own team** will leave
 and "**steal**" their **secrets**; this happens more
 [often](http://mashable.com/2017/05/20/uber-vs-google-waymo-self-driving-car-wars-get-nasty)
 people realise_.
+
++ _**Uncertainty** about the **future** of their **product/industry**_
+(_committing to a long-range map implies a fixed/inflexible destination_)
+
 + _**Doubt** in their **own ability** to **deliver** the plan_.
 
 
 ## _Who_?
 
 + _Everyone_ is _free_ to use the dwyl application.
-+ All Source Code is and _always_ will be Open available.
 + _Everyone_ is welcome to _contribute_ to the various project(s)
 (_provided the contribution guidelines/workflow is respected/followed_).
++
 
 ### _Who NOT_?
 
@@ -64,13 +74,18 @@ Anyone who:
 ## When?
 
 We started a laying the groundwork for building the dwyl app _while_ ago ...
-The app is undergoing constant/ongoing improvement
+The app is undergoing constant/ongoing improvement,
 We don't expect the app to be "_finished_" because
 there are _so many_ useful features we want to build.
 
-Get involved and Help us prioritize which features get built next!
+_**Get involved today** and **help us prioritize**
+which **features** get built **next**_!
 
 ## How?
+
+This list _will_ evolve over time. <br />
+We will insert links to specific features
+and check them off this list as we go.
 
 + [ ] Security First - ensuring the security of both the people
 using the Application(s) and the (_personal_) Data in the system
@@ -79,12 +94,13 @@ and needs to be addressed _first_ on any checklist.
   + https://github.com/dwyl/learn-security
   + https://github.com/dwyl/ISO-27001-2013-information-technology-security
 
-+ [ ] Offline First - everything we build needs to work offline first.
++ [ ] **Offline _First_** - the network might
+feel reliable in major Cities, but go outside
+in the "wild" it's _consistenly unreliable_;
+everything we build needs to work offline first
+and be _frual_ with bandwidth.
 
-
-  +
-+ [ ] Mobile First
-
++ [ ] Mobile First - hopefully this is fairly obvious by now.
   + [ ] Progressive Web App
     + https://github.com/dwyl/learn-progressive-web-apps
   + [ ] iOS Native App for iDevices (Non-PWA)
