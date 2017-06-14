@@ -16,29 +16,33 @@ Product Roadmap `public` _can_ be viewed as
 "_**giving away** all our **secrets**_" by those who follow
 _traditional_ (_competition-focussed_) "_capitalism_".
 
-We don't like to think we are "_competing_" with anyone,
-rather we
+We don't think we are "_competing_" with anyone,
+rather we are trying to _serve_ the people
+using our app and listen to their feedback.
 
-because being why wouldn't you make your company's product roadmap Public on GitHub?
+Only time will tell if making our product roadmap
+Public on GitHub is a good or bad idea, we think it's
+worth the _experiment_ just to discover the outcome.
 
-## _What_?
+### Why Do So _Few_ Companies Make Their "Road Map" Public?
 
-In "Phase One" of dwyl we are building a software application
-to solve a _specific_ set of ***universal human needs***:
 
-+ **Communication**
-+ **Time Management**
-+ ***Self-Actualisation***
-
-> _**Most companies**/organisations are **deliberately** "**guarded**"
-with their Product Roadmap for a **number** of **reasons**_:
+_**Most companies**/organisations are
+**deliberately** "**guarded**" with
+their Product Roadmap for a **number** of **reasons**
+that boil down to
+["FUD"](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt)_:
 
 + _**Fear** that a "**competitor**" will "**steal**" their **ideas**_
-(_and get to "**market**" **faster** thus "capturing" the "**users**".
-In **some cases** this **fear** is **justified** e.g: where the innovation
-is easy to replicate and difficult to differentiate,
-but we **hypothesize** that being **open** and **transparent**
-with our roadmap will foster a more **collaborative culture**_)
+(_and get to "**market**" **faster** thus "capturing" the "**users**"_)
+
+> _**Note**: In **some cases** this **fear**
+is **justified** e.g: where an innovation
+is easy to replicate and difficult to differentiate.<br />
+However we **hypothesize** that
+being **open** and **transparent**
+with our roadmap will foster
+a more **collaborative culture**_)
 
 + _**Fear** that members of their **own team** will leave
 and "**steal**" their **secrets**; this happens more
@@ -51,31 +55,60 @@ people realise_.
 + _**Doubt** in their **own ability** to **deliver** the plan_.
 
 
+
+## _What_?
+
+In "Phase One" of dwyl we are building
+a software application to solve a _specific_ set
+of ***7 Universal Human Needs***:
+
+1. **Communication**
+2. **_Personal_ Time Management**
+3. **Teamwork**
+4. **Life-long Learning**
+5. **Nutrition, Health and Fitness**
+6. **Personal Finance Management**
+7. [***Self-Actualisation***](https://en.wikipedia.org/wiki/Self-actualization)
+
+> _**Note**: we don't expect **one** app to "**solve**"
+all of these problems, and we are **not** going
+to "tackle" all the problems at **once**;
+we may end up only having time/resources to solve **one**
+of these challenges.
+This list is intended as a guide not a "gospel"._
+
+
 ## _Who_?
 
-+ _Everyone_ is _free_ to use the dwyl application.
-+ _Everyone_ is welcome to _contribute_ to the various project(s)
-(_provided the contribution guidelines/workflow is respected/followed_).
-+
+Who is this product roadmap intended for?
 
-### _Who NOT_?
++ _Everyone_ ***using*** the dwyl application.
++ _Everyone_ ***contributing*** to
+the various project(s) that make up the dwyl app.
+
+(_provided the **contribution guidelines/workflow** is **respected/followed** to **avoid chaos**_).
+
+#### _Who NOT_?
 
 Who should *not* be reading this product roadmap?
 
 Anyone who:
-+ believes the World "_cannot be improved_.
-+ thinks the problem of communication or time management is "_already solved_".
-+ is not _obsessed_ by working on solving this _problem_ with every waking hour.
-+ does **not _want_ to _learn_** what is required to build something great.
++ believes the World (_or themself_) "_cannot be improved_.
++ thinks the challenges listed above are "_already solved_"
+by "XYZ Company" ...
++ is not _obsessed_ by working on solving a
+_problem_ that benefits all of humanity.
++ does **not _want_ to _learn_** the skills required
+to build something great.
 + is not prepared to
 ["_**work hard every waking hour**_"](https://youtu.be/NU7W7qe2R0A)
 
-
 ## When?
 
-We started a laying the groundwork for building the dwyl app _while_ ago ...
+We started a laying the groundwork for
+building the dwyl app _while_ ago ... <br />
 The app is undergoing constant/ongoing improvement,
-We don't expect the app to be "_finished_" because
+we don't expect the app to be "_finished_" because
 there are _so many_ useful features we want to build.
 
 _**Get involved today** and **help us prioritize**
