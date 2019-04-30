@@ -19,6 +19,15 @@ _traditional_ (_competition-focussed_) "_capitalism_".
 We don't think we are "_competing_" with anyone,
 rather we are trying to _serve_ the people
 using our app and listen to their feedback.
+If there are other people/teams/companies
+trying to solve the same problem as us
+and they are _not_ open-sourcing their code
+and/or guarding the user-feedback,
+they are _stuck_ in the _old_ mindset.
+
+We believe that _radical_ transparency and openness
+both in _what_ we do and _how_ we do it
+is _essential_ for succeeding in our _mission_.
 
 Only time will tell if making our product roadmap
 Public on GitHub is a good or bad idea, we think it's
@@ -30,8 +39,8 @@ worth the _experiment_ just to discover the outcome.
 _**Most companies**/organisations are
 **deliberately** "**guarded**" with
 their Product Roadmap for a **number** of **reasons**
-that boil down to
-["FUD"](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt)_:
+that all boil down to_
+["***FUD***"](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt):
 
 + _**Fear** that a "**competitor**" will "**steal**" their **ideas**_
 (_and get to "**market**" **faster** thus "capturing" the "**users**"_)
@@ -70,12 +79,19 @@ of ***7 Universal Human Needs***:
 6. **Personal Finance Management**
 7. [***Self-Actualisation***](https://en.wikipedia.org/wiki/Self-actualization)
 
-> _**Note**: we don't expect **one** app to "**solve**"
+> _**Note**: we don't expect a **single** app to magically "**solve**"
 all of these problems, and we are **not** going
 to "tackle" all the problems at **once**;
 we may end up only having time/resources to solve **one**
 of these challenges.
 This list is intended as a guide not a "gospel"._
+
+Our immediate plan is to build a **_single_ app**
+that satisfies _several_ human needs
+by focussing on "personal effectiveness".
+We will build simple UI/UX that helps people
+achieve _all_ of their personal goals: Checklists.
+GOTO: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
 
 
 ## _Who_?
