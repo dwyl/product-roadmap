@@ -1,6 +1,12 @@
-# Checklists
+<div align="center">
+    <a href="https://github.com/dwyl/product-roadmap">
+        <img src="https://user-images.githubusercontent.com/194400/57011570-34013080-6bfa-11e9-8773-f01bb2c7b932.png">
+    </a>
+</div>
+<br />
 
-## Intro
+
+## The Checklist Manifesto
 
 In 2009<sup>1</sup> [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande)
 wrote a _superb_ book titled
@@ -10,6 +16,10 @@ for anyone interested in _effectiveness_
 both on a _personal_ level and in _any_ field of work.
 The concepts in the book are simple,
 both to understand and explain;
+checklists help us to not forget important steps in tasks,
+they dramatically reduce errors (_which all humans are prone to_)
+and can be used safely speed up execution
+without loss of quality/effectiveness.
 
 > “under conditions of complexity, not only are checklists a help, they are required for success.” ~ Atul Gawande, The Checklist Manifesto: How to Get Things Right
 
@@ -44,22 +54,14 @@ construction,
 finance,
 medicine,
 etc.
+Without checklists we would not have an aviation industry
+with such a high safety track record.
+see: https://en.wikipedia.org/wiki/Aviation_safety#Evolution
+The same goes for civil engineering where fewer than 1 in 50k
+buildings suffer a failure resulting in death.
 
 
-A good checklist is:
-+ Practical -
-+ Concise - focus on the important parts of the task
-+ Speedy - it should not add "overhead" to the task/activity.
-+ 5–9 items (_though they can be longer when necessary,
-  see WHO checklist below_)
-+ 1 page max -
-+ A clear "Pause Point" where you stop during the completion
-+ _Supplement_ existing knowledge and expertise not _replace_ it.
-+ Uses Upper- & Lowercase
-+ _Field-Tested_ in the real world, not theoretical.
-
-
-Ten years later it remains a "`#1` Best Seller"
+Ten years later the book remains a "`#1` Best Seller"
 in "Hospital Administration",
 "Health Care Administration"
 and "Family Practice Medicine".
@@ -187,6 +189,20 @@ is his attempt to make the benefits of checklists
 more widespread in more areas of life and society.
 
 
+A good checklist is:
++ Practical -
++ Concise - focus on the important parts of the task
++ Speedy - it should not add "overhead" to the task/activity.
++ 5–9 items (_though they can be longer when necessary,
+  see WHO checklist below_)
++ 1 page max -
++ A clear "Pause Point" where you stop during the completion
++ _Supplement_ existing knowledge and expertise not _replace_ it.
++ Uses Upper- & Lowercase
++ _Field-Tested_ in the real world, not theoretical.
+
+
+
 ## Why do _we_ care about checklists?
 
 We care about checklists because
@@ -252,8 +268,8 @@ Our _basic_ Todo List
 
 This is the Post-it Prototype of my "Morning Routine" checklist
 that I follow each morning:
-![nelson-mourning-routine-checklist-postit-prototype](https://user-images.githubusercontent.com/194400/57008492-7f124800-6be8-11e9-82a4-1ead63ecc2b3.JPG)
+![nelson-mourning-routine-checklist-postit-prototype-min](https://user-images.githubusercontent.com/194400/57009925-99045880-6bf1-11e9-97f9-83cad0cfe2aa.JPG)
 
 It has served as an "OK" reminder of the list of things
 I do in the morning, but has zero data collection
-so I cannot reflect on it. 
+so I cannot reflect on it.
