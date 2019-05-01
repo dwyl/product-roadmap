@@ -9,12 +9,14 @@ which is a _must-read_
 for anyone interested in _effectiveness_
 both on a _personal_ level and in _any_ field of work.
 The concepts in the book are simple,
-both to understand and explain.
+both to understand and explain;
+
+> “under conditions of complexity, not only are checklists a help, they are required for success.” ~ Atul Gawande, The Checklist Manifesto: How to Get Things Right
+
 Atul does a excellent job of explaining
 how several industries/sectors/professions
-use checklists to perform complex high-stakes tasks
+develop and use checklists to perform complex high-stakes tasks
 precisely, repeatably and virtually error-free.
-
 
 There are several good reviews/summaries of the book online.
 One of my favourite summaries is by Nathan Lorenzo (Productivity Game):
@@ -22,16 +24,17 @@ One of my favourite summaries is by Nathan Lorenzo (Productivity Game):
 [![checklist-manifesto-summary](https://user-images.githubusercontent.com/194400/56947637-b1a73c80-6b25-11e9-9262-9b1d9e851900.png)](https://youtu.be/18ns58FyPmY)
 https://youtu.be/18ns58FyPmY
 
+> Further Reading/Watching on this: <br />
 > "How do we heal medicine?"" | Atul Gawande's TED Talk:
 https://youtu.be/L3QkaS249Bc <br />
 > Extended book review/summary: https://youtu.be/KUv1o-d1m40 <br />
 > NPR "Checklist For Surgery Success":
 https://www.npr.org/templates/story/story.php?storyId=122226184 <br />
 > Praise form several high profile leaders
-[Vinod Khosla](https://twitter.com/vkhosla/status/222469073806700544),
-[Bill Gates](https://www.gatesnotes.com/Books/Checklist-Manifesto),
 [Shane Parrish](https://fs.blog/2014/02/the-checklist-manifesto),
-[Malcolm Gladwell](http://atulgawande.com/book/the-checklist-manifesto), etc.
+[Malcolm Gladwell](http://atulgawande.com/book/the-checklist-manifesto),
+[Vinod Khosla](https://twitter.com/vkhosla/status/222469073806700544),
+[Bill Gates](https://www.gatesnotes.com/Books/Checklist-Manifesto), etc.
 
 The book details how checklists were developed independently in
 several industries:
@@ -42,16 +45,18 @@ finance,
 medicine,
 etc.
 
+
 A good checklist is:
-+ Practical -  
++ Practical -
 + Concise - focus on the important parts of the task
 + Speedy - it should not add "overhead" to the task/activity.
-+ 5–9 items (_though they can be longer when necessary, see below_)
++ 5–9 items (_though they can be longer when necessary,
+  see WHO checklist below_)
 + 1 page max -
 + A clear "Pause Point" where you stop during the completion
 + _Supplement_ existing knowledge and expertise not _replace_ it.
 + Uses Upper- & Lowercase
-+ _Field-Tested_ in the real world
++ _Field-Tested_ in the real world, not theoretical.
 
 
 Ten years later it remains a "`#1` Best Seller"
@@ -242,3 +247,13 @@ about solving the challenge(s)/problem(s)
 we are on a mission to solve.
 
 Our _basic_ Todo List
+
+## Paper (Post-it) Prototype
+
+This is the Post-it Prototype of my "Morning Routine" checklist
+that I follow each morning:
+![nelson-mourning-routine-checklist-postit-prototype](https://user-images.githubusercontent.com/194400/57008492-7f124800-6be8-11e9-82a4-1ead63ecc2b3.JPG)
+
+It has served as an "OK" reminder of the list of things
+I do in the morning, but has zero data collection
+so I cannot reflect on it. 
