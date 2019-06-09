@@ -5,6 +5,16 @@
 </div>
 <br />
 
+# Checklists?
+
+A checklist is the most effective way of
+keeping track of the list of things to be done
+and ensuring that nothing is missed.
+
+https://www.google.com/search?q=checklist
+![image](https://user-images.githubusercontent.com/194400/59164503-85f47a80-8b05-11e9-9799-26446f8aff0c.png)
+> "_a list of items required, things to be done,
+or points to be considered, used as a reminder._"
 
 ## The Checklist Manifesto
 
@@ -16,12 +26,14 @@ for anyone interested in _effectiveness_
 both on a _personal_ level and in _any_ field of work.
 The concepts in the book are simple,
 both to understand and explain;
-checklists help us to not forget important steps in tasks,
-they dramatically reduce errors (_which all humans are prone to_)
-and can be used safely speed up execution
+checklists help us to not forget important steps in tasks.
+They dramatically reduce errors (_which all humans are prone to_)
+and can be used to safely speed up execution
 without loss of quality/effectiveness.
 
-> “under conditions of complexity, not only are checklists a help, they are required for success.” ~ Atul Gawande, The Checklist Manifesto: How to Get Things Right
+> “_under conditions of complexity, not only are checklists a help,
+they are required for success._” <br />
+~ Atul Gawande, The Checklist Manifesto: How to Get Things Right
 
 Atul does a excellent job of explaining
 how several industries/sectors/professions
@@ -206,7 +218,7 @@ A good checklist is:
 ## Why do _we_ care about checklists?
 
 We care about checklists because
-they are the _single_ most effective way of achieving _any_ objective.
+they are the _single_ most effective way of achieving _any_ objective
 
 Anything from giving a housekeeper instructions
 for how to use the
@@ -273,3 +285,9 @@ that I follow each morning:
 It has served as an "OK" reminder of the list of things
 I do in the morning, but has zero data collection
 so I cannot reflect on it.
+
+
+GOTO: https://github.com/dwyl/checklist
+
+> If you have questions please comment on the issues:
+https://github.com/dwyl/checklist/issues
