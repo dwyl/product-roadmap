@@ -97,7 +97,7 @@ the numbers_.
 
 # _Why?_
 
-## Why does this _matter_?
+## Why does this _matter_?
 
 If it's _obvious_ to you why Atul's book
 and checklists in general _matter_,
