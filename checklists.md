@@ -16,7 +16,7 @@ https://www.google.com/search?q=checklist
 > "_a list of items required, things to be done,
 or points to be considered, used as a reminder._"
 
-## The Checklist Manifesto
+## The Checklist Manifesto
 
 In 2009<sup>1</sup> [Atul Gawande](https://en.wikipedia.org/wiki/Atul_Gawande)
 wrote a _superb_ book titled
