@@ -238,8 +238,9 @@ for creating, sharing and performing repeatable checklists.
 
 And in doing this we will _systematically_:
 1. Build a tool that we will use ourselves to:
-  1. maximise our _personal_ effectiveness
-  2.
+  1. maximise our _personal_ effectiveness.
+  2. optimise the communication in our family, team and community
+  by having 100% clarity.
 2. Help _everyone_ around the world who wants to achieve the same,
 do with minimal effort/overhead while securely storing their data
 in a _reliable_ application.
