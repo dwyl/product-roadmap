@@ -5,25 +5,25 @@
 
 ## _Why_?
 
-Having a **_clear_ Product Roadmap** is ***essential*** for
-ensuring ***everyone*** is ***focussed***
-on working towards the collective ***goal***.
+Having a _clear_ **Product Roadmap** is ***essential***
+to help ***everyone*** _focus_
+on our collective **goal**.
 
 ### _Public_?
 
 From a "commercial" perspective making our
 Product Roadmap `public` _can_ be viewed as
 "_**giving away** all our **secrets**_" by those who follow
-_traditional_ (_competition-focussed_) "_capitalism_".
+_traditional_ (_competition-focussed_) _capitalism_.
 
 We don't think we are "_competing_" with anyone,
 rather we are trying to _serve_ the people
 using our app and listen to their feedback.
 If there are other people/teams/companies
-trying to solve the same problem as us
+trying to solve the same challenge as us
 and they are _not_ open-sourcing their code
 and/or guarding the user-feedback,
-they are _stuck_ in the _old_ mindset.
+they are _stuck_ in a _fixed_ mindset.
 
 We believe that _radical_ transparency and openness
 both in _what_ we do and _how_ we do it
@@ -86,12 +86,50 @@ we may end up only having time/resources to solve **one**
 of these challenges.
 This list is intended as a guide not a "gospel"._
 
+
 Our immediate plan is to build a **_single_ app**
 that satisfies _several_ human needs
-by focussing on "personal effectiveness".
-We will build simple UI/UX that helps people
-achieve _all_ of their personal goals: Checklists.
-GOTO: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
+by focussing on "***personal effectiveness***".
+
+The App will be a "_hybrid_"
+and contain several features
+that together help the individual achieve _all_ of their personal goals.
+In some cases the features and UX we are building
+may appear _familiar_
+because several other people/teams/companies
+have _attempted_ to solve this challenge before.
+
+### USP: What is _different_ about the @dwyl App?
+
+A valid/relevant **question** is: what makes the @dwyl App unique? <br />
+The **answer** is: _initially_ it may _appear_ that our App
+does not have much different
+from existing apps that _partially_ solve the personal effectiveness challenge.
+The _major_ differences will become apparent in due course:
+1. We are an
+
+
+The @dwyl App Will have the following workflow:
+
+1. ***Capture*** - capture everything that is on your mind in a "brain dump".
+2. ***Categorise*** - split out the text
+  into distinct items and _categorise_ them.
+  a) What type of info/item is it?
+  e.g: Todo Item, Reading list item, shopping list, random thought, bucket list?
+  b) Do you have an _existing_ category/tag for the item or is it **`new`**
+  c) Add any additional detail you can think of at the time.
+3. Complete
+  a) Add any relevant detail required to complete the task.
+  e.g: acceptance criteria, deadline, dependencies
+  b) Delegate if necessary/possible
+  c) Track progress of the task
+  d) ***Confirm*** it was completed to expected standard.
+  e) ***Reflect*** on
+
+  We will build simple UI/UX that helps people
+  achieve _all_ of their personal goals:
+  Checklists.
+  GOTO: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
 
 
 ## _Who_?
