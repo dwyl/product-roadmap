@@ -43,7 +43,8 @@ that all boil down to_
 ["***FUD***"](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt):
 
 + _**Fear** that a "**competitor**" will "**steal**" their **ideas**_
-(_and get to "**market**" **faster** thus "capturing" the "**users**"_)
+(_and get to "**market**" **faster**
+thus "capturing" the "**users**" and market share_)
 
 > _**Note**: In **some cases** this **fear**
 is **justified** e.g: where an innovation
@@ -89,7 +90,7 @@ This list is intended as a guide not a "gospel"._
 
 Our immediate plan is to build a **_single_ app**
 that satisfies _several_ human needs
-by focussing on "***personal effectiveness***".
+while focussing on "***personal effectiveness***".
 
 The App will be a "_hybrid_"
 and contain several features
@@ -98,6 +99,76 @@ In some cases the features and UX we are building
 may appear _familiar_
 because several other people/teams/companies
 have _attempted_ to solve this challenge before.
+If you are well-versed in _existing_ software/apps,
+you might recognise features as being "_note input similar to Evernote_",
+"_collaborative editing like Google Docs_" or "_offline reading like Pocket_".
+In _most_ cases the app(s) that _already_ has/have a certain feature(s)
+(_e.g. Photo text OCR. collaborative editing
+  or offline distraction-free reading_)
+did not _invent_ the feature,
+they merely have a memorable _implementation_ of it.
+Our intention is _never_ to "copy"
+the feature/UX of another App.
+
+
+
+
+The @dwyl App Will have the following workflow:
+
+1. ***Capture*** - capture everything that is on your mind in a "brain dump".
+2. ***Categorise*** - split out the text
+  into distinct items and _categorise_ them. <br />
+  **a)** What type of info/item is it?
+  e.g: Todo Item, Reading list item, shopping list,
+  random thought, bucket list? <br />
+  **b)** Do you have an _existing_ category/tag for the item
+  or is it **`new`**? <br />
+  **c)** Contextualise the item in terms of time/space:
+  a shopping list item context could be "grocery store"
+  whereas a reading list item could be "daily commute"<br />
+  **d)** **Add** any additional ***detail*** you can think of at the time.
+  e.g: acceptance criteria, deadline, dependencies <br />
+  **d)** If the item is a task that has sub-tasks, create and link them.
+3. ***Complete*** - do the work to _complete_ the item/task.<br />
+  **a)** Re-read the original description
+  and determine if you have everything you need to start the task.
+  If not, write down what is missing. <br />
+  **b)** ***Delegate*** if necessary/possible <br />
+  **c)** ***Track progress*** of the task. <br />
+  **d)** ***Confirm*** it was completed to expected standard. <br />
+  **e)** ***Review*** & ***Reflect*** - confirm the task was completed
+  and all the original criteria were met by the assignee.
+  Leave a brief feedback comment with any thoughts.
+  Check the item off as "Done" if appropriate.
+
+For the first step (***Capture***),
+we will build a simple interface
+to allow a person to
++
+Once the text input is working,
+we will iterate and improve it
+
+Further down the line
+we will add additional methods
+to help people "capture" information:
++ Photo/image uploads
+  + Optical Character Recognition (OCR)
+  + Image/object recognition
++ Voice/audio recording
+  + Speech transcription and indexing
+
+
+For the _second_ step (***Categorise***),
+we will need a tagging system that allows people
+to apply textual
+We will build simple UI/UX that helps people
+achieve _all_ of their personal goals:
+Checklists.
+GOTO: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
+
+
+
+
 
 ### USP: What is _different_ about the @dwyl App?
 
@@ -106,30 +177,12 @@ The **answer** is: _initially_ it may _appear_ that our App
 does not have much different
 from existing apps that _partially_ solve the personal effectiveness challenge.
 The _major_ differences will become apparent in due course:
-1. We are an
-
-
-The @dwyl App Will have the following workflow:
-
-1. ***Capture*** - capture everything that is on your mind in a "brain dump".
-2. ***Categorise*** - split out the text
-  into distinct items and _categorise_ them.
-  a) What type of info/item is it?
-  e.g: Todo Item, Reading list item, shopping list, random thought, bucket list?
-  b) Do you have an _existing_ category/tag for the item or is it **`new`**
-  c) Add any additional detail you can think of at the time.
-3. Complete
-  a) Add any relevant detail required to complete the task.
-  e.g: acceptance criteria, deadline, dependencies
-  b) Delegate if necessary/possible
-  c) Track progress of the task
-  d) ***Confirm*** it was completed to expected standard.
-  e) ***Reflect*** on
-
-  We will build simple UI/UX that helps people
-  achieve _all_ of their personal goals:
-  Checklists.
-  GOTO: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
+1.
+1. We are building a robust and reliable app with a focus end-to-end testing
+to ensure a consistent UX.
+There shouldn't be any surprises or inconsistent UX (_bugs_),
+and if there are, they can be reported and fixed _fast_.
+2. **Progressive UI** -
 
 
 ## _Who_?
