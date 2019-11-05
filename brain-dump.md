@@ -1,10 +1,15 @@
 # Brain Dump
 
-The _first_ step in creating a systematic list of any kind
-(_and thus a process for accomplishing the things on the list_)
-is to empty one's mind (_specifically working memory_)
-of everything that is occupying space and processing power.
+The **_first_ step** in creating
+a **systematic list** of _any_ kind
+(_and thus a process for completing the things on the list_)
+is to create a means to help people
+input _everything_ on their mind.
+Emptying one's mind (_specifically working memory_)
+of everything that is occupying space and processing power
+is essential for allowing a person to focus.
 This step is often referred to as a brain dump.
+
 
 ![brain-dump-before-after](https://user-images.githubusercontent.com/194400/68108635-3497be00-fee0-11e9-83f0-6a56ecc99623.jpg "Brain Dump Diagram - Credit: Annie Mueller")
 <!-- this diagram is borrowed from https://anniemueller.com/brain-dump-noun-1
@@ -18,6 +23,8 @@ and to clear your brain to **focus** on **one thing**
 instead of being distracted by many things.
 https://anniemueller.com/brain-dump-noun-1
 
+## Free Text Input
+
 The first feature we need to build
 is a way of capturing all thoughts
 on one's mind.
@@ -25,9 +32,19 @@ Thankfully this is just a matter
 of capturing free text (_using a **`textarea`** element_)
 and safely storing it as **`text`** in Postgres.
 
+Figma wireframe: https://www.figma.com/proto/WrpkKGJNYZbeCzMRDVtvQLbC/dwyl-app
+![image](https://user-images.githubusercontent.com/194400/68241788-3c05b700-0007-11ea-941b-0fd58962ad03.png)
+
+We can/will evolve this text input
+to have autocompletion and natural language processing
+(_to detect the kinds of items being typed_).
 
 
-## Existing (_Incomplete_) Approaches
+Please see: https://github.com/dwyl/product-roadmap/issues/12
+for Acceptance Criteria
+
+
+## Existing (_Incomplete_) Tech-based Approaches
 
 There are several tools that can be used for an _initial_ brain dump.
 They each have their strengths and weaknesses.
@@ -43,7 +60,11 @@ Our MVP _could_ be achieved
 simply by using one of these
 _existing_ Apps
 and then focussing on the _next_ step
-in the
+in the workflow.
+However we feel there is still
+a _lot_ of work to do in the **Capture** stage
+and the UX is an _integral_ part of the "on-boarding" for our App,
+so we feel that _building_ it from scratch is _essential_.
 
 ### Can't We Just Use Sticky Notes?
 
