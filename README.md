@@ -68,17 +68,22 @@ people realise_.
 
 ## _What_?
 
+<!--
 In "Phase One" of dwyl we are building
 a software application to solve a _specific_ set
 of ***7 Universal Human Needs***:
 
 1. **Communication**
-2. **_Personal_ Time Management**
+2. **_Personal_ Effectiveness** through **Task and Time Management**
 3. **Teamwork**
+4. [***Self-Actualisation***](https://en.wikipedia.org/wiki/Self-actualization)
+
+Later, once we have an _excellent_ UX for our core app,
+we will strategically expand our app
+to cover other areas including:
 4. **Life-long Learning**
 5. **Nutrition, Health and Fitness**
 6. **Personal Finance Management**
-7. [***Self-Actualisation***](https://en.wikipedia.org/wiki/Self-actualization)
 
 > _**Note**: we don't expect a **single** app to magically "**solve**"
 all of these problems, and we are **not** going
@@ -86,29 +91,36 @@ to "tackle" all the problems at **once**;
 we may end up only having time/resources to solve **one**
 of these challenges.
 This list is intended as a guide not a "gospel"._
-
+-->
 
 Our immediate plan is to build a **_single_ app**
 that satisfies _several_ human needs
-while focussing on "***personal effectiveness***".
+while focussing on the theme of "***personal effectiveness***".
 
 The App will be a "_hybrid_"
 and contain several features
-that together help the individual achieve _all_ of their personal goals.
+that together help the individual
+achieve _all_ of their personal goals.
 In some cases the features and UX we are building
 may appear _familiar_
 because several other people/teams/companies
 have _attempted_ to solve this challenge before.
-If you are well-versed in _existing_ software/apps,
-you might recognise features as being "_note input similar to Evernote_",
-"_collaborative editing like Google Docs_" or "_offline reading like Pocket_".
-In _most_ cases the app(s) that _already_ has/have a certain feature(s)
-(_e.g. Photo text OCR. collaborative editing
+If you are well-versed in _existing_ software/apps
+or curious about UI/Design in general,
+you _might_ find certain features familiar.
+You may think:
+"_note-taking similar to Evernote_",
+"_collaborative editing like Google Docs_"
+or "_offline reading like Pocket_".
+In _most_ cases the app(s)
+that _already_ has/have a certain feature(s)
+(_e.g. nested note-taking, collaborative editing
   or offline distraction-free reading_)
 did not _invent_ the feature,
 they merely have a memorable _implementation_ of it.
 Our intention is _never_ to "copy"
-the feature/UX of another App.
+the feature/UX of another App,
+but we will draw inspiration from _many_ sources.
 
 
 
@@ -148,10 +160,12 @@ to allow a person to
 input palintext
 and save it to a backend as `text`.
 
-
+For details, please see:
+[`brain-dump.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
 
 Once the text input is working,
 we will iterate and improve it
+in several interesting and innovative ways.
 
 Further down the line
 we will add additional methods
@@ -168,16 +182,18 @@ So in order to make progress with them,
 we will need to _significantly_ leverage
 the Open Source work of many brilliant people.
 
-
+But we are getting ahead of ourselves;
+we need to _first_ focus
+on creating "MVP" versions
+of each step in the workflow.
 
 For the _second_ step (***Categorise***),
 we will need a tagging system that allows people
 to apply textual labels to items.
 
-We will build simple UI/UX that helps people
-achieve _all_ of their personal goals:
-Checklists.
-GOTO: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
+And finally for the MVP of the _third_ step,
+we will build a simply checklist system.
+See: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
 
 
 

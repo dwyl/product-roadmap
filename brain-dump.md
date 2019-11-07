@@ -2,12 +2,14 @@
 
 The **_first_ step** in creating
 a **systematic list** of _any_ kind
-(_and thus a process for completing the things on the list_)
+(_and thus a process for completing
+  the items on the list_)
 is to create a means to help people
 input _everything_ on their mind.
 Emptying one's mind (_specifically working memory_)
 of everything that is occupying space and processing power
-is essential for allowing a person to focus.
+is _essential_ for allowing a person to focus
+on their _one_ most important priority.
 This step is often referred to as a brain dump.
 
 
@@ -38,6 +40,7 @@ Figma wireframe: https://www.figma.com/proto/WrpkKGJNYZbeCzMRDVtvQLbC/dwyl-app
 We can/will evolve this text input
 to have autocompletion and natural language processing
 (_to detect the kinds of items being typed_).
+First we need to have an ultra-basic MVP working.
 
 
 Please see: https://github.com/dwyl/product-roadmap/issues/12
