@@ -113,7 +113,8 @@ the feature/UX of another App.
 
 
 
-The @dwyl App Will have the following workflow:
+The @dwyl App Will have the following basic workflow:
+***Capture, Categorise Complete***.
 
 1. ***Capture*** - capture everything that is on your mind in a "brain dump".
 2. ***Categorise*** - split out the text
@@ -142,9 +143,13 @@ The @dwyl App Will have the following workflow:
   Check the item off as "Done" if appropriate.
 
 For the first step (***Capture***),
-we will build a simple interface
+we will build an ultra-simple interface
 to allow a person to
-+
+input palintext
+and save it to a backend as `text`.
+
+
+
 Once the text input is working,
 we will iterate and improve it
 
@@ -157,10 +162,18 @@ to help people "capture" information:
 + Voice/audio recording
   + Speech transcription and indexing
 
+These are complex features
+that have formed the basis for entire companies.
+So in order to make progress with them,
+we will need to _significantly_ leverage
+the Open Source work of many brilliant people.
+
+
 
 For the _second_ step (***Categorise***),
 we will need a tagging system that allows people
-to apply textual
+to apply textual labels to items.
+
 We will build simple UI/UX that helps people
 achieve _all_ of their personal goals:
 Checklists.
@@ -177,12 +190,37 @@ The **answer** is: _initially_ it may _appear_ that our App
 does not have much different
 from existing apps that _partially_ solve the personal effectiveness challenge.
 The _major_ differences will become apparent in due course:
-1.
+1. We are playing an
+["***infinite game***"](https://github.com/dwyl/start-here/issues/190)
+to help people
+"_maximise their personal effectiveness, creativity and happiness_."
+See:
+[What is dwyl's mission?](https://github.com/dwyl/start-here/blob/master/mission.md#what-is-dwyls-mission) <br />
+We will not _rest_ until we have created a system/app
+that is _universally accessible_ to every human being
+that allows _everyone_ a fair opportunity to live their best life.
+Our goal is to _cooperate_ with many people/organisations
+to build a comprehensive solution that _anyone_ can use.
+2. All of our code will _always_ be ***Open Source***.
+That means anyone is free to modify/extend/improve it.
+And if people feel we are not doing a good enough job
+of stewarding the App/community, they can _tell_ us!
+Of the _many_ "productivity" apps out there,
+almost _none_ are Open Source.
+This means that your usage is locked-in to their system for better or worse.
+Your data is bound by their "terms and conditions"
+(_including being visible to 3<sup>rd</sup> party "analytics" providers
+i.e. Google_)
+and you are a _hostage_ to their whims.
+If they decide to have a UI re-write
+that _completely_ changes how you interact with the App,
+you have _no control_ and are _forced_ to use the "new version";
+their way or the highway.
+2. **Progressive UI** -
 1. We are building a robust and reliable app with a focus end-to-end testing
 to ensure a consistent UX.
 There shouldn't be any surprises or inconsistent UX (_bugs_),
 and if there are, they can be reported and fixed _fast_.
-2. **Progressive UI** -
 
 
 ## _Who_?
