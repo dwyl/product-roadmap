@@ -3,15 +3,18 @@
 The **_first_ step** in creating
 a **system** of for personal effectiveness
 is to help people ***capture***
-_everything_ on their mind.
+_everything_ on their mind. <br />
 Emptying one's mind (_specifically working memory_)
 of everything that is occupying space and processing power
 is _essential_ for gaining focus
 on the _one_ most important priority.
 This step is often referred to as a "brain dump".
 
-
-![brain-dump-before-after](https://user-images.githubusercontent.com/194400/68108635-3497be00-fee0-11e9-83f0-6a56ecc99623.jpg "Brain Dump Diagram - Credit: Annie Mueller")
+<div align="center">
+    <a href="https://github.com/dwyl/product-roadmap/issues/12">
+        <img src="https://user-images.githubusercontent.com/194400/68108635-3497be00-fee0-11e9-83f0-6a56ecc99623.jpg" width="500">
+    </a>
+</div>
 <!-- this diagram is borrowed from https://anniemueller.com/brain-dump-noun-1
 we definitely need a better one. If you want to help with this,
 please open an issue: github.com/dwyl/product-roadmap/issues/new -->
