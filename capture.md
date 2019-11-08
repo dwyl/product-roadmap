@@ -1,16 +1,14 @@
-# Brain Dump
+# _Capture_
 
 The **_first_ step** in creating
-a **systematic list** of _any_ kind
-(_and thus a process for completing
-  the items on the list_)
-is to create a means to help people
-input _everything_ on their mind.
+a **system** of for personal effectiveness
+is to help people ***capture***
+_everything_ on their mind.
 Emptying one's mind (_specifically working memory_)
 of everything that is occupying space and processing power
-is _essential_ for allowing a person to focus
-on their _one_ most important priority.
-This step is often referred to as a brain dump.
+is _essential_ for gaining focus
+on the _one_ most important priority.
+This step is often referred to as a "brain dump".
 
 
 ![brain-dump-before-after](https://user-images.githubusercontent.com/194400/68108635-3497be00-fee0-11e9-83f0-6a56ecc99623.jpg "Brain Dump Diagram - Credit: Annie Mueller")
@@ -35,7 +33,8 @@ of capturing free text (_using a **`textarea`** element_)
 and safely storing it as **`text`** in Postgres.
 
 Figma wireframe: https://www.figma.com/proto/WrpkKGJNYZbeCzMRDVtvQLbC/dwyl-app
-![image](https://user-images.githubusercontent.com/194400/68241788-3c05b700-0007-11ea-941b-0fd58962ad03.png)
+
+![capture-plaintext](https://user-images.githubusercontent.com/194400/68241788-3c05b700-0007-11ea-941b-0fd58962ad03.png)
 
 We can/will evolve this text input
 to have autocompletion and natural language processing
@@ -44,7 +43,7 @@ First we need to have an ultra-basic MVP working.
 
 
 Please see: https://github.com/dwyl/product-roadmap/issues/12
-for Acceptance Criteria
+for detail and acceptance criteria.
 
 
 ## Existing (_Incomplete_) Tech-based Approaches
