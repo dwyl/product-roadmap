@@ -24,7 +24,6 @@ trying to solve the same challenge as us
 and they are _not_ open-sourcing their code
 and/or guarding the user-feedback,
 they are _stuck_ in a _fixed_ mindset.
-
 We believe that _radical_ transparency and openness
 both in _what_ we do and _how_ we do it
 is _essential_ for succeeding in our _mission_.
@@ -52,15 +51,16 @@ is easy to replicate and difficult to differentiate.<br />
 However we **hypothesize** that
 being **open** and **transparent**
 with our roadmap will foster
-a more **collaborative culture**_)
+a more **collaborative culture**_.
 
 + _**Fear** that members of their **own team** will leave
-and "**steal**" their **secrets**; this happens more
-[often](http://mashable.com/2017/05/20/uber-vs-google-waymo-self-driving-car-wars-get-nasty)
-people realise_.
+and "**steal**" their **secrets**; <br />
+this does
+[happen](http://mashable.com/2017/05/20/uber-vs-google-waymo-self-driving-car-wars-get-nasty)
+but only because the knowledge is **not** shared openly_.
 
-+ _**Uncertainty** about the **future** of their **product/industry**_
-(_committing to a long-range map implies a fixed/inflexible destination_)
++ _**Uncertainty** about the **future** of their **product/industry**._ <br />
+_Committing to a long-range map implies a fixed/inflexible destination._
 
 + _**Doubt** in their **own ability** to **deliver** the plan_.
 
@@ -97,39 +97,17 @@ Our immediate plan is to build a **_single_ app**
 that satisfies _several_ human needs
 while focussing on the theme of "***personal effectiveness***".
 
-The App will be a "_hybrid_"
-and contain several features
+The @dwyl App will be a "_hybrid_"
+containing several features
 that together help the individual
-achieve _all_ of their personal goals.
-In some cases the features and UX we are building
-may appear _familiar_
-because several other people/teams/companies
-have _attempted_ to solve this challenge before.
-If you are well-versed in _existing_ software/apps
-or curious about UI/Design in general,
-you _might_ find certain features familiar.
-You may think:
-"_note-taking similar to Evernote_",
-"_collaborative editing like Google Docs_"
-or "_offline reading like Pocket_".
-In _most_ cases the app(s)
-that _already_ has/have a certain feature(s)
-(_e.g. nested note-taking, collaborative editing
-  or offline distraction-free reading_)
-did not _invent_ the feature,
-they merely have a memorable _implementation_ of it.
-Our intention is _never_ to "copy"
-the feature/UX of another App,
-but we will draw inspiration from _many_ sources.
-
-
-
+achieve _all_ of their personal goals
+through a systematic workflow.
 
 The @dwyl App Will have the following basic workflow:
 ***Capture, Categorise Complete***.
 
 1. ***Capture*** - capture everything that is on your mind in a "brain dump".
-2. ***Categorise*** - split out the text
+2. ***Categorise*** - split out blocks of text
   into distinct items and _categorise_ them. <br />
   **a)** What type of info/item is it?
   e.g: Todo Item, Reading list item, shopping list,
@@ -159,17 +137,16 @@ we will build an ultra-simple interface
 to allow a person to
 input palintext
 and save it to a backend as `text`.
-
 For details, please see:
 [`brain-dump.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
 
 Once the text input is working,
 we will iterate and improve it
-in several interesting and innovative ways.
-
-Further down the line
-we will add additional methods
-to help people "capture" information:
+in several interesting and innovative ways. <br />
+We will add additional methods
+to help people "capture" information.
+e.g:
++ Linking to external sources of information.
 + Photo/image uploads
   + Optical Character Recognition (OCR)
   + Image/object recognition
@@ -181,7 +158,6 @@ that have formed the basis for entire companies.
 So in order to make progress with them,
 we will need to _significantly_ leverage
 the Open Source work of many brilliant people.
-
 But we are getting ahead of ourselves;
 we need to _first_ focus
 on creating "MVP" versions
@@ -190,9 +166,13 @@ of each step in the workflow.
 For the _second_ step (***Categorise***),
 we will need a tagging system that allows people
 to apply textual labels to items.
+The UX for this is still "TBD".
+We will need to sketch it out ahead of sprint planning.
+See: https://github.com/dwyl/product-roadmap/issues/15
 
-And finally for the MVP of the _third_ step,
-we will build a simply checklist system.
+
+And finally for the _third_ step,
+we will build a simple checklist system.
 See: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
 
 
@@ -237,6 +217,31 @@ their way or the highway.
 to ensure a consistent UX.
 There shouldn't be any surprises or inconsistent UX (_bugs_),
 and if there are, they can be reported and fixed _fast_.
+
+
+#### Familiar UX?
+
+In some cases the features and UX we are building
+may appear _familiar_
+because several other people/teams/companies
+have _attempted_ to solve this challenge before.
+If you are well-versed in _existing_ software/apps
+or curious about UI/Design in general,
+you _might_ find certain features familiar.
+You may think:
+"_note-taking similar to Evernote_",
+"_collaborative editing like Google Docs_"
+or "_offline reading like Pocket_".
+In _most_ cases the app(s)
+that _already_ has/have a certain feature(s)
+(_e.g. nested note-taking, collaborative editing
+  or offline distraction-free reading_)
+did not _invent_ the feature,
+they merely have a memorable _implementation_ of it.
+Our intention is _never_ to "copy"
+the feature/UX of another App,
+but we will draw inspiration from _many_ sources.
+
 
 
 ## _Who_?
