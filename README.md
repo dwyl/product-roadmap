@@ -134,15 +134,16 @@ The @dwyl App Will have the following basic workflow:
 
 For the first step (***Capture***),
 we will build an ultra-simple interface
-to allow a person to
-input palintext
-and save it to a backend as `text`.
+to allow people to
+input **`palintext`**
+and save it to a backend as **`text`**.
 For details, please see:
 [`brain-dump.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
 
 Once the text input is working,
 we will iterate and improve it
-in several interesting and innovative ways. <br />
+in several interesting and innovative ways
+in response to feedback from people _using_ the MVP. <br />
 We will add additional methods
 to help people "capture" information.
 e.g:
@@ -163,7 +164,7 @@ we need to _first_ focus
 on creating "MVP" versions
 of each step in the workflow.
 
-For the _second_ step (***Categorise***),
+For the _second_ step, ***Categorise***,
 we will need a tagging system that allows people
 to apply textual labels to items.
 The UX for this is still "TBD".
@@ -171,7 +172,7 @@ We will need to sketch it out ahead of sprint planning.
 See: https://github.com/dwyl/product-roadmap/issues/15
 
 
-And finally for the _third_ step,
+And finally for the _third_ step, ***Complete***,
 we will build a simple checklist system.
 See: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
 
@@ -181,24 +182,26 @@ See: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/check
 
 ### USP: What is _different_ about the @dwyl App?
 
-A valid/relevant **question** is: what makes the @dwyl App unique? <br />
+A valid/relevant **question** is: what makes the @dwyl App unique?
+i.e. What is our
+["unique selling point"](https://en.wikipedia.org/wiki/Unique_selling_proposition)?<br />
 The **answer** is: _initially_ it may _appear_ that our App
 does not have much different
 from existing apps that _partially_ solve the personal effectiveness challenge.
 The _major_ differences will become apparent in due course:
-1. We are playing an
+1. **People Not _Profits_** - We are playing an
 ["***infinite game***"](https://github.com/dwyl/start-here/issues/190)
-to help people
-"_maximise their personal effectiveness, creativity and happiness_."
+where our _mission_ is to
+"_Empower people to maximise effectiveness, creativity and happiness_."
 See:
-[What is dwyl's mission?](https://github.com/dwyl/start-here/blob/master/mission.md#what-is-dwyls-mission) <br />
+[What is dwyl's mission?](https://github.com/dwyl/start-here/blob/master/mission.md#what-is-dwyls-mission)
 We will not _rest_ until we have created a system/app
 that is _universally accessible_ to every human being
 that allows _everyone_ a fair opportunity to live their best life.
-Our goal is to _cooperate_ with many people/organisations
+We will _cooperate_ with _many_ people/organisations
 to build a comprehensive solution that _anyone_ can use.
-2. All of our code will _always_ be ***Open Source***.
-That means anyone is free to modify/extend/improve it.
+2. ***Open Source*** - All of our code will _always_ be ***Open Source***.
+That means anyone can modify/extend/improve it.
 And if people feel we are not doing a good enough job
 of stewarding the App/community, they can _tell_ us!
 Of the _many_ "productivity" apps out there,
@@ -209,12 +212,25 @@ Your data is bound by their "terms and conditions"
 i.e. Google_)
 and you are a _hostage_ to their whims.
 If they decide to have a UI re-write
-that _completely_ changes how you interact with the App,
+that
+[_completely_ changes](https://github.com/dwyl/product-roadmap/issues/14)
+how you interact with the App,
 you have _no control_ and are _forced_ to use the "new version";
 their way or the highway.
-2. **Progressive UI** -
-1. We are building a robust and reliable app with a focus end-to-end testing
-to ensure a consistent UX.
+We are going to _eliminate forced updates_
+by implementing a UX/UI innovation we call Progressive UI.
+3. **Progressive UX/UI** - the UX/UI for _each_ person using the app,
+will be _personalised_ to the individual
+based on the features they (_most_) _use_.
+If the person does not _use_ a particular function, they won't _see_ it.
+> Note: This is might not feel relevant during "MVP",
+but it will be an _amazing_ feature once our app has _lots_ of functionality.
+4. **Best-in-Class Engineering Practices** -
+Focus on high quality software product
+with best-in-class engineering practices.
+We are building a robust and reliable app
+with a focus end-to-end testing to ensure a consistent UX
+on as many devices as possible.
 There shouldn't be any surprises or inconsistent UX (_bugs_),
 and if there are, they can be reported and fixed _fast_.
 
