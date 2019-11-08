@@ -302,6 +302,23 @@ This list _will_ evolve over time. <br />
 We will insert links to specific features
 and check them off this list as we go.
 
+If you want to get involved in helping us with the App,
+there are 4 ways to help:
+
+1. **Use** the **_Beta_ App**!
+`[insert app link here!]`
+2. Give us ***feedback*** on the **_existing_ UX**
+`[insert feedback link here!]`
+3. **Read** the
+[issues](https://github.com/dwyl/time/issues?q=label%3A%22help+wanted%22+is%3Aissue+is%3Aopen)
+and help us answer questions if you can.
+4. Write some **`code`**!
+See: https://github.com/dwyl/technology-stack
+
+## Brain Dump of Features
+
+The following list needs to be _organised_:
+
 + [ ] Security First - ensuring the security of both the people
 using the Application(s) and the (_personal_) Data in the system
 is a ["hygiene factor"](https://en.wikipedia.org/wiki/Two-factor_theory)
