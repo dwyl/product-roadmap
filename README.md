@@ -326,7 +326,8 @@ and check them off this list as we go.
 + [ ] Simple UX to **Categorise** (Transform)
 the **`plaintex`** into actionable items. <br />
 UI/UX **`help wanted`**: https://github.com/dwyl/product-roadmap/issues/15
-+ [ ] Start working on task (_start timer_)
++ [ ] Start working on task (_start timer for item_)
+see: https://github.com/nelsonic/time-mvp-phoenix#create-schemas
 + [ ] Check a task off as done.
 
 After the MVP workflow is complete,
@@ -337,8 +338,21 @@ we will do a backlog grooming session to discuss the features/ideas list:
 
 #### Offline Support
 
-+ [ ] Create Progressive Web App
++ [ ] Create Progressive Web App using Elm.
+see:
 + [ ] Save data on device if offline.
+
+#### Image Capture
+
++ [ ] Capture (_upload_) images from mobile.
++ [ ] Categorise (_tag_) the images for findability.
+
+#### Authentication
+
++ [ ] Create accounts to allow people to own their content/items.
++ [ ] Authenticate with GitHub OAuth
+  + [ ] Associate person record with GitHub username + token.
++ [ ] Associate **`items`** with **`person`**
 
 
 
