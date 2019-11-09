@@ -298,10 +298,6 @@ which **features** get built **next**_!
 
 ## How?
 
-This list _will_ evolve over time. <br />
-We will insert links to specific features
-and check them off this list as we go.
-
 If you want to get involved in helping us with the App,
 there are 4 ways to help:
 
@@ -315,6 +311,38 @@ and help us answer questions if you can.
 4. Write some **`code`**!
 See: https://github.com/dwyl/technology-stack
 
+
+### Tech & Features Roadmap
+
+
+This list _will_ evolve over time. <br />
+We will insert links to specific features
+and check them off this list as we go.
+
+#### MVP Basic Workflow
+
++ [ ] Mobile First UI/UX to **Capture** **`plaintex`**
++ [ ] Save **`plaintex`** data to Phoenix backend
++ [ ] Simple UX to **Categorise** (Transform)
+the **`plaintex`** into actionable items. <br />
+UI/UX **`help wanted`**: https://github.com/dwyl/product-roadmap/issues/15
++ [ ] Start working on task (_start timer_)
++ [ ] Check a task off as done.
+
+After the MVP workflow is complete,
+we will hold a sprint demo to showcase the state of the App.
+The sprint demo will be recorded on our Zoom call.
+Following the sprint demo call
+we will do a backlog grooming session to discuss the features/ideas list:
+
+#### Offline Support
+
++ [ ] Create Progressive Web App
++ [ ] Save data on device if offline.
+
+
+
+<!--
 ## Brain Dump of Features
 
 The following list needs to be _organised_:
@@ -328,9 +356,9 @@ and needs to be addressed _first_ on any checklist.
 
 + [ ] **Offline _First_** - the network might
 feel reliable in major Cities, but go outside
-in the "wild" it's _consistenly unreliable_;
+in the "wild" it's _consistently unreliable_;
 everything we build needs to work offline first
-and be _frual_ with bandwidth.
+and be _frugal_ with bandwidth.
 
 + [ ] Mobile First - hopefully this is fairly obvious by now.
   + [ ] Progressive Web App
@@ -366,7 +394,7 @@ and be _frual_ with bandwidth.
 + [ ] End Task
 
 + [ ] Get "Sign-off" (_Confirmation_) / Feedback on Completed Task
-
+-->
 
 ## Further Reading
 
