@@ -85,7 +85,7 @@ The @dwyl App Will have the following basic workflow:
   whereas a reading list item could be "daily commute"<br />
   **d)** **Add** any additional ***detail*** you can think of at the time.
   e.g: acceptance criteria, deadline, dependencies <br />
-  **d)** If the item is a task that has sub-tasks, create and link them.
+  **e)** If the item is a task that has sub-tasks, create and link them.
 3. ***Complete*** - do the work to _complete_ the item/task.<br />
   **a)** Re-read the original description
   and determine if you have everything you need to start the task.
