@@ -287,10 +287,10 @@ and check them off this list as we go.
 
 #### MVP Basic Workflow
 
-+ [ ] Mobile First UI/UX to **Capture** **`plaintex`**
-+ [ ] Save **`plaintex`** data to Phoenix backend
++ [ ] Mobile First UI/UX to **Capture** **`plaintext`**
++ [ ] Save **`plaintext`** data to Phoenix backend
 + [ ] Simple UX to **Categorise** (Transform)
-the **`plaintex`** into actionable items. <br />
+the **`plaintext`** into actionable items. <br />
 UI/UX **`help wanted`**: https://github.com/dwyl/product-roadmap/issues/15
 + [ ] Start working on task (_start timer for item_)
 see: https://github.com/nelsonic/time-mvp-phoenix#create-schemas
