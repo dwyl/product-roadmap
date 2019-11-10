@@ -32,40 +32,6 @@ Only time will tell if making our product roadmap
 Public on GitHub is a good or bad idea, we think it's
 worth the _experiment_ just to discover the outcome.
 
-### Why Do So _Few_ Companies Make Their "Road Map" Public?
-
-
-_**Most companies**/organisations are
-**deliberately** "**guarded**" with
-their Product Roadmap for a **number** of **reasons**
-that all boil down to_
-["***FUD***"](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt):
-
-+ _**Fear** that a "**competitor**" will "**steal**" their **ideas**_
-(_and get to "**market**" **faster**
-thus "capturing" the "**users**" and market share_)
-
-> _**Note**: In **some cases** this **fear**
-is **justified** e.g: where an innovation
-is easy to replicate and difficult to differentiate.<br />
-However we **hypothesize** that
-being **open** and **transparent**
-with our roadmap will foster
-a more **collaborative culture**_.
-
-+ _**Fear** that members of their **own team** will leave
-and "**steal**" their **secrets**; <br />
-this does
-[happen](http://mashable.com/2017/05/20/uber-vs-google-waymo-self-driving-car-wars-get-nasty)
-but only because the knowledge is **not** shared openly_.
-
-+ _**Uncertainty** about the **future** of their **product/industry**._ <br />
-_Committing to a long-range map implies a fixed/inflexible destination._
-
-+ _**Doubt** in their **own ability** to **deliver** the plan_.
-
-
-
 ## _What_?
 
 <!--
@@ -415,3 +381,39 @@ and be _frugal_ with bandwidth.
 + "How we built a product vision and roadmap":
 https://wildbit.com/blog/2016/05/11/how-we-built-a-product-vision-and-roadmap
 (_a really good read! also image credit!_)
+
+
+<hr />
+
+
+### Why Do So _Few_ Companies Make Their "Road Map" Public?
+
+
+_**Most companies**/organisations are
+**deliberately** "**guarded**" with
+their Product Roadmap for a **number** of **reasons**
+that all boil down to_
+["***FUD***"](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt):
+
++ _**Fear** that a "**competitor**" will "**steal**" their **ideas**_
+(_and get to "**market**" **faster**
+thus "capturing" the "**users**" and market share_)
+
+> _**Note**: In **some cases** this **fear**
+is **justified** e.g: where an innovation
+is easy to replicate and difficult to differentiate.<br />
+However we **hypothesize** that
+being **open** and **transparent**
+with our roadmap will foster
+a more **collaborative culture**_.
+
++ _**Fear** that members of their **own team** will leave
+and "**steal**" their **secrets**; <br />
+this does
+[happen](http://mashable.com/2017/05/20/uber-vs-google-waymo-self-driving-car-wars-get-nasty)
+but only because the knowledge is **not** shared openly_.
+
++ _**Uncertainty** about the **future** of their **product/industry**._ <br />
+_Committing to a long-range map implies a fixed/inflexible destination._
+
++ _**Doubt** in their **own ability** to **deliver** the plan_.
