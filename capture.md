@@ -45,7 +45,7 @@ to have autocompletion and natural language processing
 First we need to have an ultra-basic MVP working.
 
 
-Please see: https://github.com/dwyl/product-roadmap/issues/12
+Please see: https://github.com/dwyl/app/issues/234
 for detail and acceptance criteria.
 
 
