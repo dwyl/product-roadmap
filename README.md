@@ -249,7 +249,7 @@ _problem_ that benefits all of humanity.
 + does **not _want_ to _learn_** the skills required
 to build something great.
 + is not prepared to
-["_**work hard every waking hour**_"](https://youtu.be/NU7W7qe2R0A)
+["_**work hard every waking hour**_"](https://youtu.be/liJbB_0eCTo?t=26)
 
 ## When?
 
