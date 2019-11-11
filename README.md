@@ -101,7 +101,7 @@ The @dwyl App Will have the following basic workflow:
 For the first step (***Capture***),
 we will build an ultra-simple interface
 to allow people to
-input **`palintext`**
+input **`plaintext`**
 and save it to a backend as **`text`**.
 For details, please see:
 [`brain-dump.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
