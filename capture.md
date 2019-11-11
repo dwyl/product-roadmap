@@ -1,7 +1,7 @@
 # _Capture_
 
 The **_first_ step** in creating
-a **system** of for personal effectiveness
+a **system** for personal effectiveness
 is to help people ***capture***
 _everything_ on their mind. <br />
 Emptying one's mind (_specifically working memory_)
