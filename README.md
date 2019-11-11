@@ -291,7 +291,7 @@ and check them off this list as we go.
 + [ ] Save **`plaintext`** data to Phoenix backend
 + [ ] Simple UX to **Categorise** (Transform)
 the **`plaintext`** into actionable items. <br />
-UI/UX **`help wanted`**: https://github.com/dwyl/product-roadmap/issues/15
+UI/UX **`help wanted`**: https://github.com/dwyl/app/issues/235
 + [ ] Start working on task (_start timer for item_)
 see: https://github.com/nelsonic/time-mvp-phoenix#create-schemas
 + [ ] Check a task off as done.
