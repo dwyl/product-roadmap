@@ -272,7 +272,7 @@ there are 4 ways to help:
 2. Give us ***feedback*** on the **_existing_ UX**
 `[insert feedback link here!]`
 3. **Read** the
-[issues](https://github.com/dwyl/time/issues?q=label%3A%22help+wanted%22+is%3Aissue+is%3Aopen)
+[issues](https://github.com/dwyl/app/issues?q=label%3A%22help+wanted%22+is%3Aissue+is%3Aopen)
 and help us answer questions if you can.
 4. Write some **`code`**!
 See: https://github.com/dwyl/technology-stack
