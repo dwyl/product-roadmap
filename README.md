@@ -135,7 +135,7 @@ we will need a tagging system that allows people
 to apply textual labels to items.
 The UX for this is still "TBD".
 We will need to sketch it out ahead of sprint planning.
-See: https://github.com/dwyl/product-roadmap/issues/15
+See: https://github.com/dwyl/app/issues/235
 
 
 And finally for the _third_ step, ***Complete***,
