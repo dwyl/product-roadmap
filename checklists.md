@@ -112,14 +112,15 @@ The BBC News article is not very long, this is the _full_ text:
 
 > Deaths after surgery in Scotland have dropped by more than a third,
 research suggests.
-> A study indicated a 37% decrease since 2008,
+A study indicated a 37% decrease since 2008,
 which it attributed to the implementation of a safety checklist.
-> The 19-item list - which was created by the World Health Organization - is supposed to encourage teamwork and communication during operations.
-> The death rate fell to 0.46 per 100 procedures between 2000 and 2014, analysis of 6.8m operations showed. <br />
-> Dr Atul Gawande, who introduced the checklist and co-authored the study, published in the British Journal of Surgery, said: "Scotland's health system is to be congratulated for a multi-year effort that has produced some of the largest population-wide reductions in surgical deaths ever documented."
-> Prof Jason Leitch, NHS Scotland's national clinical director, added: "This is a significant study which highlights the reduction in surgical mortality over the last decade.
-> "While there are a number of factors that have contributed to this, it is clear from the research that the introduction of the WHO Surgical Safety Checklist in 2008 has played a key role."
-> The BBC Article is a very similar to:
+The 19-item list - which was created by the World Health Organization - is supposed to encourage teamwork and communication during operations.
+The death rate fell to 0.46 per 100 procedures between 2000 and 2014, analysis of 6.8m operations showed. <br />
+Dr Atul Gawande, who introduced the checklist and co-authored the study, published in the British Journal of Surgery, said: "Scotland's health system is to be congratulated for a multi-year effort that has produced some of the largest population-wide reductions in surgical deaths ever documented."
+Prof Jason Leitch, NHS Scotland's national clinical director, added: "This is a significant study which highlights the reduction in surgical mortality over the last decade.
+"While there are a number of factors that have contributed to this, it is clear from the research that the introduction of the WHO Surgical Safety Checklist in 2008 has played a key role."
+
+The BBC Article is a very similar to:
 https://www.eurekalert.org/pub_releases/2019-04/w-hda041719.php
 <!--
 ![surgical-mortality-checklist](https://user-images.githubusercontent.com/194400/56961132-d661db00-6b4a-11e9-8832-9416c5dcf848.png) -->
