@@ -113,7 +113,7 @@ in response to feedback from people _using_ the MVP. <br />
 We will add additional methods
 to help people "capture" information.
 e.g:
-+ Linking to external sources of information.
++ Linking to external sources of information
 + Photo/image uploads
   + Optical Character Recognition (OCR)
   + Image/object recognition
