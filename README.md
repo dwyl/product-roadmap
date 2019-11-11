@@ -189,7 +189,7 @@ by implementing a UX/UI innovation we call Progressive UI.
 will be _personalised_ to the individual
 based on the features they (_most_) _use_.
 If the person does not _use_ a particular function, they won't _see_ it.
-> Note: This is might not feel relevant during "MVP",
+> Note: This might not feel relevant during "MVP",
 but it will be an _amazing_ feature once our app has _lots_ of functionality.
 4. **Best-in-Class Engineering Practices** -
 Focus on high quality software product
