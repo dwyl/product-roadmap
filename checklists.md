@@ -56,6 +56,7 @@ https://www.npr.org/templates/story/story.php?storyId=122226184 <br />
 [Shane Parrish](https://fs.blog/2014/02/the-checklist-manifesto),
 [Malcolm Gladwell](http://atulgawande.com/book/the-checklist-manifesto),
 [Vinod Khosla](https://twitter.com/vkhosla/status/222469073806700544),
+[Bill Gates](https://www.analogue.network/book/the-checklist-manifesto-wp3t87?u=billgates)
 
 The book details how checklists were developed independently in
 several industries:
