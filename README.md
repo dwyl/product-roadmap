@@ -305,7 +305,7 @@ we will do a backlog grooming session to discuss the features/ideas list:
 #### Offline Support
 
 + [ ] Create Progressive Web App using Elm.
-see:
+see: [dwyl/learn-elm#54](https://github.com/dwyl/learn-elm/issues/54)
 + [ ] Save data on device if offline.
 
 #### Image Capture
