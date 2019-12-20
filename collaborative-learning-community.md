@@ -10,10 +10,6 @@ he asks this "contrarian question":
 as it will make you _think_
 and encourage you
 to _question_ your own _assumptions_ & _biases_.
-> + Full PDF:
-http://gsl.mit.edu/media/programs/south-africa-summer-2015/materials/0to1.pdf
- (150 pages. read it! Peter is easily one of the smartest
-   people in the world!)
 > + Summary/discussion:
 https://fs.blog/2015/11/the-single-best-interview-question-you-can-ask/
 > + Video summary (recap):
@@ -374,7 +370,7 @@ without registration and licensed as creative commons (_non-commercial_).
   the answers become.
 + Questions/Answers should be linked to learning materials.
   + it should be clear at which point in the learning material
-  the question was raised. So the Q/A is _contextual_.
+  the question was raised. So the Q/A _contextual_.
   + Wherever possible questions/answers should be self-contained
   and thus generally applicable. But if the question is _specific_
   to the learning material in question, that's fine too,
