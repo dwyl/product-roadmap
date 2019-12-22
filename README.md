@@ -142,7 +142,7 @@ And finally for the _third_ step, ***Complete***,
 we will build a simple checklist system.
 See: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
 
-### USP: What is _different_ about the @dwyl App?
+### What is _different_ about the @dwyl App?
 
 A valid/relevant **question** is: what makes the @dwyl App unique?
 i.e. What is our
@@ -258,7 +258,8 @@ there are _so many_ useful features we want to build.
 _**Get involved today** and **help us prioritize**
 which **features** get built **next**_!
 
-## How?
+
+## _How_?
 
 If you want to get involved in helping us with the App,
 there are 4 ways to help:
@@ -276,15 +277,17 @@ See: https://github.com/dwyl/technology-stack
 
 ### Tech & Features Roadmap
 
-
 This list _will_ evolve over time. <br />
 We will insert links to specific features
 and check them off this list as we go.
 
+
 #### MVP Basic Workflow
 
 + [ ] Mobile First UI/UX to **Capture** **`plaintext`**
-+ [ ] Save **`plaintext`** data to Phoenix backend
+  Our _reasoning_ for mobile-first is that
++ [x] Save **`plaintext`** data to Phoenix backend
+  see: [dwyl/app/milestone/2](https://github.com/dwyl/app/milestone/2?closed=1)
 + [ ] Simple UX to **Categorise** (Transform)
 the **`plaintext`** into actionable items. <br />
 UI/UX **`help wanted`**: https://github.com/dwyl/app/issues/235
@@ -302,6 +305,7 @@ we will do a backlog grooming session to discuss the features/ideas list:
 
 + [ ] Create Progressive Web App using Elm.
 see: [dwyl/learn-elm#54](https://github.com/dwyl/learn-elm/issues/54)
+and [dwyl/app#254](https://github.com/dwyl/app/issues/254)
 + [ ] Save data on device if offline.
 
 #### Image Capture
