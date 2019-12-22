@@ -208,7 +208,7 @@ or curious about UI/Design in general,
 you _might_ find certain features familiar.
 You may think:
 "_note-taking similar to Evernote_",
-"_collaborative editing like Google Docs_"
+"_collaborative editing like Google Docs_"x§
 or "_offline reading like Pocket_".
 In _most_ cases the app(s)
 that _already_ has/have a certain feature(s)
@@ -310,8 +310,11 @@ and [dwyl/app#254](https://github.com/dwyl/app/issues/254)
 
 #### Image Capture
 
+
+
 + [ ] Capture (_upload_) images from mobile.
-+ [ ] Categorise (_tag_) the images for findability.
++ [ ] Categorise (_tag_) the images for
+[findability](https://en.wikipedia.org/wiki/Findability).
 
 #### Authentication
 
@@ -320,6 +323,14 @@ and [dwyl/app#254](https://github.com/dwyl/app/issues/254)
   + [ ] Associate person record with GitHub username + token.
 + [ ] Associate **`items`** with **`person`**
 
+
+### Audit Logging and Record History
+
++ [ ] We need a way of preserving the history of certain records.
+Phoenix does not offer this by default.
+The Phoenix "CRUD" _overwrites_ records and **`deletes`** data _permanently_,
+this is undesirable if a person ever wants to _undo_ an action.
+See: https://github.com/dwyl/postgres-history-spike/issues/1
 
 
 <!--
