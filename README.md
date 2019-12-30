@@ -208,7 +208,7 @@ or curious about UI/Design in general,
 you _might_ find certain features familiar.
 You may think:
 "_note-taking similar to Evernote_",
-"_collaborative editing like Google Docs_"x§
+"_collaborative editing like Google Docs_"
 or "_offline reading like Pocket_".
 In _most_ cases the app(s)
 that _already_ has/have a certain feature(s)
