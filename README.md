@@ -7,30 +7,63 @@
 
 Having a _clear_ **Product Roadmap** is ***essential***
 to help ***everyone*** _focus_
-on our collective **goal**.
+on our _collective **goal**_.
 
-### _Public_?
+### _Why_ Are We Building An _App_?
 
-From a "commercial" perspective making our
-Product Roadmap `public` _can_ be viewed as
-"_**giving away** all our **secrets**_" by those who follow
-_traditional_ (_competition-focussed_) _capitalism_.
+We are building an App that solves the problem we face every day:
 
-We don't think we are "_competing_" with anyone,
-rather we are trying to _serve_ the people
-using our app and listen to their feedback.
-If there are other people/teams/companies
-trying to solve the same challenge as us
-and they are _not_ open-sourcing their code
-and/or guarding the user-feedback,
-they are _stuck_ in a _fixed_ mindset.
-We believe that _radical_ transparency and openness
-both in _what_ we do and _how_ we do it
-is _essential_ for succeeding in our _mission_.
+# "_I don't have enough time to_..."
 
-Only time will tell if making our product roadmap
-Public on GitHub is a good or bad idea, we think it's
-worth the _experiment_ just to discover the outcome.
+How many times have you heard 
+a friend or family member say the words?
+
+> I don't have enough time to **`exercise`**. <br />
+> I don't have enough time to **`read` a book**. <br />
+> I don't have enough time to **prepare `healthy` food**. <br />
+> I don't have enough time to **learn a `language`**. <br />
+> I don't have enough time to get a full night's **`sleep`**. <br />
+> I don't have enough time to **learn a `skill`** 
+that will get me the **job** I will **_love_ doing**. <br />
+> I don't have enough time to spend with all my **`family` and `friends`**. <br />
+> I don't have enough time to **meet `new people`**. <br />
+> I don't have enough time to pursue a **`creative hobby`**. <br />
+> I don't have enough time to **play a `musical instrument`**. <br />
+> I don't have enough time to go **outdoors and enjoy `nature`**. <br />
+> I don't have enough time to **`declutter` and clean**. <br />
+> I don't have enough time to **`declutter` and clean**. <br />
+> ... this list is _infinite_, these are just the **Top 13 most common** ones people cite.
+
+Even if we don't say the words out loud, 
+we have all _thought_ them at some point. <br />
+We forego doing things we _love_,
+because we feel like there isn't enough time.
+
+Each person has their own _reason_
+for not having enough time,
+but the universal fact is that
+very few people are living their _best_ lives.
+The _reason_ we are all so innefective 
+at focussing our energy on tasks that move 
+
+ are don't have adequate _systems_
+for maximising their personal effectiveness.
+
+If we are wasting time on things 
+that don't move us 
+
+
+
+https://github.com/dwyl/start-here/blob/6fac8f0e4b9a81cba929eb7e577f22a4a0eb734c/mission.md#what-is-dwyls-mission
+
+
+
+https://zenhabits.net/enough-time/
+
+
+https://www.lifehack.org/articles/productivity/10-reasons-why-some-people-feel-like-they-dont-have-enough-time.html
+
+
 
 ## _What_?
 
@@ -310,8 +343,9 @@ see:
 
 #### Image Capture
 
-+ [ ] Capture (_upload_) images from mobile.
-+ [ ] Categorise (_tag_) the images for findability.
++ [ ] Capture (_upload_) images from mobile+web
++ [ ] Categorise (_tag_) the images for
+[findability](https://en.wikipedia.org/wiki/Findability).
 
 #### Authentication
 
@@ -385,6 +419,31 @@ https://wildbit.com/blog/2016/05/11/how-we-built-a-product-vision-and-roadmap
 
 <hr />
 
+## _Public_?
+
+From a "commercial" perspective making our
+Product Roadmap `public` _can_ be viewed as
+"_**giving away** all our **secrets**_" by those who follow
+_traditional_ (_competition-focussed_) _capitalism_.
+
+We don't think we are "_competing_" with anyone,
+rather we are trying to _serve_ the people
+using our app and listen to their feedback.
+If there are other people/teams/companies
+trying to solve the same challenge as us
+and they are _not_ open-sourcing their code
+and/or guarding the user-feedback,
+they are _stuck_ in a _fixed_ mindset.
+We believe that _radical_ transparency and openness
+both in _what_ we do and _how_ we do it
+is _essential_ for succeeding in our _mission_.
+
+Only time will tell if making our product roadmap
+Public on GitHub is a good or bad idea, we think it's
+worth the _experiment_ just to discover the outcome.
+
+<br />
+
 
 ### Why Do So _Few_ Companies Make Their "Road Map" Public?
 
@@ -392,7 +451,7 @@ https://wildbit.com/blog/2016/05/11/how-we-built-a-product-vision-and-roadmap
 _**Most companies**/organisations are
 **deliberately** "**guarded**" with
 their Product Roadmap for a **number** of **reasons**
-that all boil down to_
+that can be summarised as_
 ["***FUD***"](https://en.wikipedia.org/wiki/Fear,_uncertainty_and_doubt):
 
 + _**Fear** that a "**competitor**" will "**steal**" their **ideas**_
@@ -417,3 +476,12 @@ but only because the knowledge is **not** shared openly_.
 _Committing to a long-range map implies a fixed/inflexible destination._
 
 + _**Doubt** in their **own ability** to **deliver** the plan_.
+
+<br /><hr />
+
+
+
+<!--
+[![HitCount](http://hits.dwyl.com/dwyl/product-roadmap.svg)](http://hits.dwyl.com/dwyl/product-roadmap) -->
+
+
