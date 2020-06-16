@@ -9,9 +9,13 @@ Having a _clear_ **Product Roadmap** is ***essential***
 to help ***everyone*** _focus_
 on our _collective **goal**_.
 
+<br />
+
 ### _Why_ Are We Building An _App_?
 
-We are building an App that solves the problem we face every day:
+We are building an App that 
+creates a systematic approach 
+to solve the problem we all face every day:
 
 # "_I don't have enough time to_..."
 
@@ -19,8 +23,8 @@ How many times have you heard
 a friend or family member say the words?
 
 > I don't have enough time to **`exercise`**. <br />
-> I don't have enough time to **`read` a book**. <br />
 > I don't have enough time to **prepare `healthy` food**. <br />
+> I don't have enough time to **`read` a book**. <br />
 > I don't have enough time to **learn a `language`**. <br />
 > I don't have enough time to get a full night's **`sleep`**. <br />
 > I don't have enough time to **learn a `skill`** 
@@ -32,37 +36,74 @@ that will get me the **job** I will **_love_ doing**. <br />
 > I don't have enough time to go **outdoors and enjoy `nature`**. <br />
 > I don't have enough time to **`declutter` and clean**. <br />
 > I don't have enough time to **`declutter` and clean**. <br />
-> ... this list is _infinite_, these are just the **Top 13 most common** ones people cite.
+> ... this list is _infinite_, these are just the 
+**Top 13 most common** ones people cite.
 
-Even if we don't say the words out loud, 
+Even if we don't _say_ the words out loud, 
 we have all _thought_ them at some point. <br />
 We forego doing things we _love_,
 because we feel like there isn't enough time.
 
-Each person has their own _reason_
+You may have seen the following quote online:
+
+## "_Lack of direction, not lack of time, is the problem. We all have 24-hour days._" ~ [Zig Ziglar](https://www.goodreads.com/quotes/270489-lack-of-direction-not-lack-of-time-is-the-problem)
+
+or even worse:
+
+## "_You Have The Same Amount Of Hours In A Day As Beyonce_" ~ [Instagram](https://github.com/dwyl/home/issues/29)
+
+
+The problem with the often repeated cliché motivational quotes
+plastered over social media is that they can
+make us feel _worse_ about our time-management skills 
+and don't help us move _forward_!
+
+Each person has their own _reasons_
 for not having enough time,
 but the universal fact is that
 very few people are living their _best_ lives.
-The _reason_ we are all so innefective 
-at focussing our energy on tasks that move 
+For most people it's not their _fault_.
+They have been sucked into burning time on low-value
+entertainment activities like watching TV or 
+endlessly scrolling through social media apps
+instead of working on their personal goals.
+For the single mom with 2 kids and 3 jobs to make ends meat
+who doesn't spend a single _second_ on entertainment
 
- are don't have adequate _systems_
+
+The _reason_ most people are so _innefective_
+at focussing energy on tasks that move 
+toward our goals is that we don't have adequate _systems_
 for maximising their personal effectiveness.
 
-If we are wasting time on things 
-that don't move us 
+# "_You do not rise to the level of your goals. <br /> You fall to the level of your systems._" <br />~ [James Clear](https://www.goodreads.com/quotes/9536717), Atomic Habits
+
+
+The ***system*** to help ourselves and others move towards our 
+(life/health/fitness/career/etc.) 
+goals is what we are building.
+
+Ultimately we want to be able to answer the following questions:
+
+1. What is the highest priority task 
+that I should be working on right now 
+that moves me towards one of my goals?
+2. Is there anything requiring my attention right now 
+that cannot wait until the end 
+of my current highest priority task?
+3. Who on my team needs me 
+in order to make progress 
+on their current (or next) task?
 
 
 
 https://github.com/dwyl/start-here/blob/6fac8f0e4b9a81cba929eb7e577f22a4a0eb734c/mission.md#what-is-dwyls-mission
 
 
-
-https://zenhabits.net/enough-time/
-
-
+<!-- 
+https://zenhabits.net/enough-time
 https://www.lifehack.org/articles/productivity/10-reasons-why-some-people-feel-like-they-dont-have-enough-time.html
-
+-->
 
 
 ## _What_?
