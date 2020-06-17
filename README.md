@@ -20,26 +20,25 @@ to solve the problem we all face every day:
 ### "_I don't have enough time_..."
 
 How many times have you heard 
-a friend or family member say the words?
+a friend or family member say these words?
 
 > "I don't have enough time to:" <br />
-> 1. **`exercise`**. <br />
-> 2. **prepare `healthy` food**. <br />
-> 3. get a **full night's `sleep`**. <br />
-> 4. **`read` a book**. <br />
-> 5. **learn a `language`**. <br />
+> 1. **`exercise`**
+> 2. **prepare `healthy` food**
+> 3. get a **full night's `sleep`**
+> 4. **`read` a book**
+> 5. **learn a `language`**
 > 6. **learn/practice a `skill`** 
-that will get me the **job** I will **_love_ doing**. <br />
-> 7. spend with all my **`family` and `friends`**. <br />
-> 8. **meet `new` people**. <br />
-> 9. pursue a **`creative hobby`**. <br />
-> 10. **play a `musical instrument`**. <br />
-> 11. go **outdoors and enjoy `nature`**. <br />
-> 12. **`declutter` and `clean`**. <br />
+that will get me the **job** I will **_love_ doing**
+> 7. spend with all my **`family` and `friends`**
+> 8. **meet `new` people**
+> 9. pursue a **`creative hobby`**
+> 10. **play a `musical instrument`**
+> 11. go **outdoors and enjoy `nature`**
+> 12. **`declutter` and `clean`**
 
-... this list is _infinite_. 
-These are just the 
-**Top 12** people most frequently mention.
+... this list of things we never have enough time for is _infinite_. <br />
+These are just the ones people most frequently mention.
 
 Even if we don't _say_ the words out loud, 
 we have all _thought_ them at some point. <br />
@@ -48,14 +47,15 @@ because we feel like there isn't enough time.
 
 You may have seen the following quote online:
 
-## "_Lack of direction, not lack of time, is the problem. We all have 24-hour days._" ~ [Zig Ziglar](https://www.goodreads.com/quotes/270489-lack-of-direction-not-lack-of-time-is-the-problem)
+## "_Lack of direction, not lack of time, is the problem. <br />We all have 24-hour days._" ~ [Zig Ziglar](https://www.goodreads.com/quotes/270489-lack-of-direction-not-lack-of-time-is-the-problem)
 
-or even worse:
+or even more 
+[cliché](https://en.wikipedia.org/wiki/Clich%C3%A9):
 
-## "_You Have The Same Amount Of Hours In A Day As Beyonce_" ~ [Instagram](https://github.com/dwyl/home/issues/29)
+## "_You have the same number of hours in a day as Beyonce_" ~ [Instagram](https://github.com/dwyl/home/issues/29)
 
 
-The problem with often repeated cliché motivational quotes
+The problem with often repeated motivational quotes
 plastered over social media is that they can
 make us feel _worse_ about our time-management 
 and don't actually _help_ us move _forward_!
