@@ -11,35 +11,35 @@ on our _collective **goal**_.
 
 <br />
 
-### _Why_ Are We Building An _App_?
+## _Why_ Are We Building An _App_?
 
 We are building an App that 
 creates a systematic approach 
 to solve the problem we all face every day:
 
-# "_I don't have enough time_..."
+### "_I don't have enough time_..."
 
 How many times have you heard 
 a friend or family member say the words?
 
 > "I don't have enough time to:" <br />
-> **`exercise`**. <br />
-> **prepare `healthy` food**. <br />
-> **`read` a book**. <br />
-> **learn a `language`**. <br />
-> get a full night's **`sleep`**. <br />
-> **learn a `skill`** 
+> 1. **`exercise`**. <br />
+> 2. **prepare `healthy` food**. <br />
+> 3. get a **full night's `sleep`**. <br />
+> 4. **`read` a book**. <br />
+> 5. **learn a `language`**. <br />
+> 6. **learn/practice a `skill`** 
 that will get me the **job** I will **_love_ doing**. <br />
-> spend with all my **`family` and `friends`**. <br />
-> **meet `new people`**. <br />
-> pursue a **`creative hobby`**. <br />
-> **play a `musical instrument`**. <br />
-> go **outdoors and enjoy `nature`**. <br />
-> **`declutter` and clean**. <br />
+> 7. spend with all my **`family` and `friends`**. <br />
+> 8. **meet `new` people**. <br />
+> 9. pursue a **`creative hobby`**. <br />
+> 10. **play a `musical instrument`**. <br />
+> 11. go **outdoors and enjoy `nature`**. <br />
+> 12. **`declutter` and `clean`**. <br />
 
 ... this list is _infinite_. 
 These are just the 
-**Top 13** people most frequently mention.
+**Top 12** people most frequently mention.
 
 Even if we don't _say_ the words out loud, 
 we have all _thought_ them at some point. <br />
@@ -88,17 +88,24 @@ The ***system*** to help ourselves and others move towards our
 goals is what we are building.
 The ***system*** cannot be easily summarised in a single catchy phrase.
 Instead we can describe it as a means 
-to answer the following questions:
+to answer the following **7 questions**:
 
-1. What is the highest priority task 
-that I should be working on right now 
-that moves me towards one of my goals?
-2. Is there anything requiring my attention right now 
+1. **What** are my **goals** in life? 
+(personal/professional/family/financial/fitness/etc.)
+2. Is what I'm doing **right now** 
+moving me **towards** one of my **goals**?
+3. What is the **highest priority task** 
+that I should be working on **right now**?
+4. Am I **_effectively_ communicating** what I'm working on
+with other people so they know when I am **focussing**?
+5. Is there anything **requiring my attention right now** 
 that cannot wait until the end 
 of my current highest priority task?
-3. Who on my team needs me 
+6. Who on my team needs me 
 in order to make progress 
 on their current (or next) task?
+7. What should I **_avoid_ doing** now,
+so that I can focus on my highest priority item?
 
 
 
