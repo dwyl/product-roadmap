@@ -22,7 +22,7 @@ and return to it in future, it will _definitely_ be different
 because we update it fairly regularly.
 We use a Git repo so that we (_and anyone `else` in the community_)
 can _track_ the changes/evolution as we 
-[Learn, Build and Measure](http://theleanstartup.com/principles) our progress. 
+[Learn, Build and Measure](http://theleanstartup.com/principles). 
 We welcome any/all feedback on it 
 _especially_ from people who are `new`
 to the 
@@ -40,11 +40,18 @@ Thanks! ✨
 If there was an _existing_ (Open Source Cross-platform) system 
 that allowed us to achieve everything we have in mind for the dwyl App,
 we would _use_ it without hesitation.
-Sadly, we have not found any (Open) tool 
-that has _systematic_ and unified way to _effectively_:
+Sadly, we have not found any platform 
+that has a
+[_systematic_](https://en.wikipedia.org/wiki/System), 
+[goal oriented](https://en.wikipedia.org/wiki/Goal_orientation)
+and 
+[collaborative](https://en.wikipedia.org/wiki/Collaboration)
+way to _effectively_ let individuals and/or teams:
 
-1. **Set** life **goals** that are ["SMART"](https://en.wikipedia.org/wiki/SMART_criteria)
-2. **Capture** everything on my mind to declutter my thoughts
+1. **Set** **goals** that are ["SMART"](https://en.wikipedia.org/wiki/SMART_criteria)
+either freeform or using the [OKR](https://en.wikipedia.org/wiki/OKR) framework.
+2. **Capture** everything on one's mind to declutter thoughts 
+and think more clearly/creatively
 3. **Categorise** the plaintext `items` into logical categories using tags
 (_ideally linked to specific goals_).
 4. **Transform** `items` of text into _actionable_ `items` 
@@ -53,24 +60,35 @@ such as:
 "Reminder", 
 "Calendar" (_Meeting, Date, Event, Travel, etc._), 
 "Ingredient" (Shopping list `item`), etc.
-4. ***Track*** progress on tasks and achieve goals
-5. ***Communicate*** with others what task we are working on
-6. ***Delegate*** specific tasks to people in one's family/team/organisation
+4. ***Track*** progress on tasks and achieve goals _visually_.
+5. ***Communicate*** with others what task we are focussing on
+so we can all avoid interrupting/distracting each other during 
+["Deep Work"](https://www.calnewport.com/books/deep-work)
+6. ***Delegate*** specific tasks 
+to people in one's family/team/organisation
+with built-in tracking to _eliminate_
+["status update requests"](https://en.wikipedia.org/wiki/Busy_work)
 
-There are _plenty_ of "productivity" apps that _partially_ solve this problem.
-_Most_ of the Apps you/we can list are Closed Source.
+There are _plenty_ of "productivity" apps that _partially_ solve these problems.
+_Most_ of the Apps you/we can list are Closed Source,
 which rules them out (for us) 
 for the reasons described in "Why Open Source?" (_below_).
 We have _scoured_ GitHub/GitLab/etc. to find an Open Source App/system
 we can use and nothing comes _close_ to solving the problem.
-We have _studied_ the UX of the Closed Source either have not got the workflow (UX) we want,
+We have _extensively studied_ the 
+UI/UX 
+of the Closed Source Apps 
+_none_ of them have the workflow (UX) we want
+or they focus on the wrong things!
 
+<br />
 
 ## _What Problem_ Are We _Solving_?
 
 We are building an App that 
 creates a systematic approach 
 to solve the problem we all face every day:
+
 
 ### "_I don't have enough time to_..."
 
