@@ -3,21 +3,76 @@
 ![roadmap-1152x672-flip](https://user-images.githubusercontent.com/194400/27068309-5b379538-5007-11e7-99fb-20f09369c672.jpg)
 
 
-## _Why_?
+# _Why_?
 
 Having a _clear_ **Product Roadmap** is ***essential***
 to help ***everyone*** _focus_
 on our _collective **goal**_.
 
+> **Note**: this document is a
+["work-in-progress"](https://en.wiktionary.org/wiki/work_in_progress#Noun),
+it's _definitely_ not "finished".
+A _good_ product roadmap evolves over time
+in response to _feedback_;
+by definition it's _never_ "complete".
+What you are reading right now is a _snapshot_
+of the roadmap as it is _right now_.
+If you ⭐ (bookmark) the repo 
+and return to it in future, it will _definitely_ be different
+because we update it fairly regularly.
+We use a Git repo so that we (_and anyone `else` in the community_)
+can _track_ the changes/evolution as we 
+[Learn, Build and Measure](http://theleanstartup.com/principles) our progress. 
+We welcome any/all feedback on it 
+_especially_ from people who are `new`
+to the 
+[`@dwyl`](https://github.com/dwyl/start-here#who) 
+community.
+Please 
+[open an issue](https://github.com/dwyl/product-roadmap/issues)
+if you have any ideas/questions.
+Thanks! ✨ 
+
 <br />
 
 ## _Why_ Are We Building An _App_?
+
+If there was an _existing_ (Open Source Cross-platform) system 
+that allowed us to achieve everything we have in mind for the dwyl App,
+we would _use_ it without hesitation.
+Sadly, we have not found any (Open) tool 
+that has _systematic_ and unified way to _effectively_:
+
+1. **Set** life **goals** that are ["SMART"](https://en.wikipedia.org/wiki/SMART_criteria)
+2. **Capture** everything on my mind to declutter my thoughts
+3. **Categorise** the plaintext `items` into logical categories using tags
+(_ideally linked to specific goals_).
+4. **Transform** `items` of text into _actionable_ `items` 
+such as: 
+"Task" (_with context, deadline, progress, dependencies, etc._), 
+"Reminder", 
+"Calendar" (_Meeting, Date, Event, Travel, etc._), 
+"Ingredient" (Shopping list `item`), etc.
+4. ***Track*** progress on tasks and achieve goals
+5. ***Communicate*** with others what task we are working on
+6. ***Delegate*** specific tasks to people in one's family/team/organisation
+
+There are _plenty_ of "productivity" apps that _partially_ solve this problem.
+_Most_ of the Apps you/we can list are Closed Source.
+which rules them out (for us) 
+for the reasons described in "Why Open Source?" (_below_).
+We have _scoured_ GitHub/GitLab/etc. to find an Open Source App/system
+we can use and nothing comes _close_ to solving the problem.
+We have _studied_ the UX of the Closed Source either have not got the workflow (UX) we want,
+
+
+## _What Problem_ Are We _Solving_?
 
 We are building an App that 
 creates a systematic approach 
 to solve the problem we all face every day:
 
-### "_I don't have enough time_..."
+### "_I don't have enough time to_..."
 
 How many times have you heard 
 a friend or family member say these words?
@@ -27,37 +82,50 @@ a friend or family member say these words?
 > 2. **prepare `healthy` food**
 > 3. get a **full night's `sleep`**
 > 4. **`read` a book**
+> 5. **`declutter` and `clean`**
 > 5. **learn a `language`**
 > 6. **learn/practice a `skill`** 
 that will get me the **job** I will **_love_ doing**
 > 7. spend with all my **`family` and `friends`**
 > 8. **meet `new` people**
-> 9. pursue a **`creative hobby`**
+> 9. try **`new experiences`**
+> 9. pursue a **`creative hobby`** that brings me **joy**
 > 10. **play a `musical instrument`**
 > 11. go **outdoors and enjoy `nature`**
-> 12. **`declutter` and `clean`**
+> 12. **`travel`**
 
-... this list of things we never have enough time for is _infinite_. <br />
+... the list of things we _think_ we don't have enough time for is _infinite_. <br />
 These are just the ones people most frequently mention.
 
 Even if we don't _say_ the words out loud, 
 we have all _thought_ them at some point. <br />
 We forego doing things we _love_,
-because we feel like there isn't enough time.
+because we _feel_ like there isn't enough time. <br />
+
+Whatever your mindset regarding time you have available
+to do everything you want in life, 
+one thing is certain: 
+without a _systematic_ approach
+we are _all_ ineffective with how we spend/invest our time.
 
 You may have seen the following quote online:
 
 ## "_Lack of direction, not lack of time, is the problem. <br />We all have 24-hour days._" ~ [Zig Ziglar](https://www.goodreads.com/quotes/270489-lack-of-direction-not-lack-of-time-is-the-problem)
 
-or even more 
-[cliché](https://en.wikipedia.org/wiki/Clich%C3%A9):
+or 
+
+### "_The bad news is time flies. The good news is you’re the pilot_” ~ Michael Altshuler
+
+or the most 
+[cliché](https://en.wikipedia.org/wiki/Clich%C3%A9) of all:
 
 ## "_You have the same number of hours in a day as Beyonce_" ~ [Instagram](https://github.com/dwyl/home/issues/29)
 
 
-The problem with often repeated motivational quotes
-plastered over social media is that they can
-make us feel _worse_ about our time-management 
+The problem with these "motivational" quotes
+often repeated on social media 
+is that they can make us feel _worse_ 
+about our time-management 
 and don't actually _help_ us move _forward_!
 
 Each person has their own _reasons_
@@ -65,19 +133,24 @@ for not having enough time,
 but the universal fact is that
 very few people are living their _best_ life.
 For most people it's not their fault.
-Billions of people have been lured into burning time 
+The existing _systems_ for keeping us "on track" are _fundamentally_ broken.
+Billions of people have been lured into _burning_ time 
 on low-value entertainment activities 
 such as watching TV or 
 endlessly scrolling through social media apps
 instead of working on their personal goals.
-For the single mom with 2 kids and 3 jobs to make ends meat
-who doesn't spend a single _second_ on entertainment
+
+> For the single mom with 2 kids and 3 jobs to make ends meet
+who doesn't spend a single _second_ on entertainment,
+our App will _still_ be able to help!
+In fact we have a 
 
 
-The _reason_ most people are so _innefective_
-at focussing energy on tasks that move 
-toward our goals is that we don't have adequate _systems_
-for maximising their personal effectiveness.
+The _reason_ most people are _innefective_
+at focussing their energy 
+on tasks that move them toward a specific goal
+is that they don't have adequate _systems_
+for maximising personal effectiveness.
 
 
 ## "_You do not rise to the level of your goals. <br /> You fall to the level of your systems._" <br />~ [James Clear](https://www.goodreads.com/quotes/9536717), Atomic Habits
@@ -86,9 +159,10 @@ for maximising their personal effectiveness.
 The ***system*** to help ourselves and others move towards our 
 (life/health/fitness/career/etc.) 
 goals is what we are building.
-The ***system*** cannot be easily summarised in a single catchy phrase.
-Instead we can describe it as a means 
-to answer the following **7 questions**:
+We haven't found a catchy one-line phrase
+to summarise the ***system*** we are building. ([`#HelpWanted!]())
+Instead we can describe the App as a means 
+to answer the following **10 questions**:
 
 1. **What** are my **goals** in life? 
 (personal/professional/family/financial/fitness/etc.)
@@ -96,30 +170,38 @@ to answer the following **7 questions**:
 moving me **towards** one of my **goals**?
 3. What is the **highest priority task** 
 that I should be working on **right now**?
-4. Am I **_effectively_ communicating** what I'm working on
+4. Is the **highest priority task** well defined
+5. What should I **_avoid_ doing** now,
+so that I can focus on my highest priority item?
+4. What is the **_smallest_ thing** I can **do** 
+to **make progress** toward one of my **goals**?
+5. Am I **_effectively_ communicating** what I'm working on
 with other people so they know when I am **focussing**?
-5. Is there anything **requiring my attention right now** 
+6. Is there anything **requiring my attention right now** 
 that cannot wait until the end 
 of my current highest priority task?
-6. Who on my team needs me 
+7. **Who** in my team/family needs me 
 in order to make progress 
 on their current (or next) task?
-7. What should I **_avoid_ doing** now,
-so that I can focus on my highest priority item?
+10. Which task on _my_ list can I _delegate_
+to someone else so that I can focus on 
+the item that _only_ I can do.
 
+<br />
 
+## "_The difference between successful people and really successful people is that really successful people say no to almost everything._" ~ [Warren Buffet](https://medium.com/the-ascent/you-can-do-amazing-things-but-only-if-you-have-time-to-do-them-31c07ab5b04e)
 
+What do _you_ need to (_politely_) say "***no***" to 
+so you can **focus** on your **goals**?
 
 
 <!-- 
-https://github.com/dwyl/start-here/blob/6fac8f0e4b9a81cba929eb7e577f22a4a0eb734c/mission.md#what-is-dwyls-mission
-
 https://zenhabits.net/enough-time
 https://www.lifehack.org/articles/productivity/10-reasons-why-some-people-feel-like-they-dont-have-enough-time.html
 -->
+<br />
 
-
-## _What_?
+# _What_?
 
 <!--
 In "Phase One" of dwyl we are building
@@ -146,6 +228,26 @@ of these challenges.
 This list is intended as a guide not a "gospel"._
 -->
 
+dwyls' 
+[mission](https://github.com/dwyl/start-here/blob/6fac8f0e4b9a81cba929eb7e577f22a4a0eb734c/mission.md#what-is-dwyls-mission) 
+is to:
+
+## _Empower people to maximise effectiveness, creativity and happiness._
+
+We believe that by helping people 
+_effectively_ keep track 
+of their progress 
+toward their goals,
+they will naturally be happier. 
+Happiness is almost a _byproduct_ of personal effectiveness!
+
+## "_Happiness is not something ready made. <br />It comes from your own actions._" ~ [Dalai Lama](https://www.goodreads.com/quotes/1263-happines)
+
+By helping people to focus their efforts
+on their highest priority items.
+We are helping people be happy.
+
+
 Our immediate plan is to build a **_single_ app**
 that satisfies _several_ human needs
 while focussing on the theme of "***personal effectiveness***".
@@ -155,6 +257,37 @@ containing several features
 that together help the individual
 achieve _all_ of their personal goals
 through a systematic workflow.
+
+
+
+## 1. _Individual_ Person Experience -> [_Single Player_](https://en.wikipedia.org/wiki/Single-player_video_game)
+
+If the App is not _immediately_ useful to an _individual_ person and relies on "network effects" it will be [DOA](https://en.wikipedia.org/wiki/Dead_on_arrival). We need to _optimise_ for the individual _first_ and then once we are able to use the App individually _ourselves_, we can move on to the "Team" experience (see below). 
+
+In the _individual_ person experience, the person uses the dwyl App to:
+
++ **capture** > **brain-dump** everything they have in their head so that they can think clearly (_without a cluttered mind_) and prioritise. 📝 
++ define their **personal goals** so they can be more systematic about achieving them. e.g:
+  + **Health**: **exercise** for (at least) **1 minute** each day so I can get/stay fit ❤️  
+  + **Money**: **save** at least **1%** of my **income** each week/month for a rainy day/retirement 💰
+  + **Family**: spend at least 1 minute of quality time with a family member each day  💑  
+  + **Sleep**: get a _full_ night's restful sleep each night as the foundation for all other goals. 🛌 
+  + **Career**: practice/learn core work **skill(s)** for **1 minute** each day to achieve mastery. 👩‍💻 
+  + etc ... 
+  
+  > There are _many_ areas where people can have life goals. Eventually our app will encourage people to have goals defined for each area of a person's life. We will have an on-boarding questionnaire to guide them, a visualisation of "progress" toward each one of the goals and reminder to review them regularly. All features to be added to the backlog and worked on in due course! For now, **Personas**!! 😉 
++ **categorise** the **`items`** (_of **`text`**_) they brain-dumped into meaningful categories. 
+
+  > ***Ideally*** people should tie each `item` to a specific goal so that it's clear to them _why_ they need to do something or _why_ a particular `item` of information is _relevant_ to them. 
+  > ***However*** we aren't _ever_ going to _force_ any particular "system" on people, if someone wants to use our app just to take random  `plaintext` notes that's 100% OK. We will write Blog posts (_release notes_) for the features we build in the future that will _guide_ people toward having a more systematic approach. e.g: set goals, write everything down, tie all tasks to specific goals, etc. But until we _build_ those features into our App, we _must_ make it _useful_ in `plaintext` mode.
+
++ uses the App to keep themselves "on track" toward their _personal_ goals and gets everything done 
+
+## 2. Small _Team_ Experience -> [_Co-op Mode_](https://en.wikipedia.org/wiki/Cooperative_gameplay)
+ 
+
+## 3. Big Company Experience -> [_MMORPG_](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game)!
+
 
 The @dwyl App Will have the following basic workflow:
 ***Capture, Categorise Complete***.
@@ -233,7 +366,7 @@ See: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/check
 
 
 
-### USP: What is _different_ about the @dwyl App?
+### USP: What is _different_ about the @dwyl App?
 
 A valid/relevant **question** is: what makes the @dwyl App unique?
 i.e. What is our
