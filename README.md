@@ -3,7 +3,7 @@
 ![roadmap-1152x672-flip](https://user-images.githubusercontent.com/194400/27068309-5b379538-5007-11e7-99fb-20f09369c672.jpg)
 
 
-# _Why_?
+# _Why_? 🤷‍♀️
 
 Having a _clear_ **Product Roadmap** is ***essential***
 to help ***everyone*** _focus_
@@ -65,7 +65,7 @@ such as:
 so we can all avoid interrupting/distracting each other during 
 ["Deep Work"](https://www.calnewport.com/books/deep-work)
 6. ***Delegate*** specific tasks 
-to people in one's family/team/organisation
+to people in one's family/team/org
 with built-in tracking to _eliminate_
 ["status update requests"](https://en.wikipedia.org/wiki/Busy_work)
 
@@ -78,7 +78,8 @@ we can use and nothing comes _close_ to solving the problem.
 We have _extensively studied_ the 
 UI/UX 
 of the Closed Source Apps 
-_none_ of them have the workflow (UX) we want
+see: https://github.com/dwyl/product-ux-research
+and _none_ of them have the workflow (UX) we want
 or they focus on the wrong things!
 
 <br />
@@ -209,7 +210,7 @@ the item that _only_ I can do.
 
 ## "_The difference between successful people and really successful people is that really successful people say no to almost everything._" ~ [Warren Buffet](https://medium.com/the-ascent/you-can-do-amazing-things-but-only-if-you-have-time-to-do-them-31c07ab5b04e)
 
-What do _you_ need to (_politely_) say "***no***" to 
+What do _you_ need to (_politely and plainly_) say "***no***" to 
 so you can **focus** on your **goals**?
 
 
@@ -304,8 +305,13 @@ In the _individual_ person experience, the person uses the dwyl App to:
 ## 2. Small _Team_ Experience -> [_Co-op Mode_](https://en.wikipedia.org/wiki/Cooperative_gameplay)
  
 
-## 3. Big Company Experience -> [_MMORPG_](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game)!
+## 3. Big Company/Org Experience -> [_MMORPG_](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game)!
 
+There is no reason why a "Big" company or organisation cannot use the dwyl App.
+
+
+
+<br />
 
 The @dwyl App Will have the following basic workflow:
 ***Capture, Categorise Complete***.
@@ -623,6 +629,11 @@ https://wildbit.com/blog/2016/05/11/how-we-built-a-product-vision-and-roadmap
 
 
 <hr />
+
+
+## Why Open Source?
+
+
 
 ## _Public_?
 
