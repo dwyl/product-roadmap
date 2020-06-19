@@ -188,7 +188,7 @@ The ***system*** to help ourselves and others move towards our
 (life/health/fitness/career/etc.) 
 goals is what we are building.
 We haven't found a catchy one-line phrase
-to summarise the ***system*** we are building. ([`#HelpWanted!]())
+to summarise the ***system*** we are building. ([`#HelpWanted`]())
 Instead we can describe the App as a means 
 to answer the following **10 questions**:
 
@@ -256,11 +256,20 @@ of these challenges.
 This list is intended as a guide not a "gospel"._
 -->
 
-dwyls' 
+dwyl's
 [mission](https://github.com/dwyl/start-here/blob/6fac8f0e4b9a81cba929eb7e577f22a4a0eb734c/mission.md#what-is-dwyls-mission) 
 is to:
 
 ## _Empower people to maximise effectiveness, creativity and happiness._
+
+
+Few people know more about effectiveness 
+than life coach and motivational speaker 
+[Tony Robbins](https://en.wikipedia.org/wiki/Tony_Robbins).
+A quote that guides us in our mission is:
+
+## "_The secret to happiness is one word: progress. <br />Progress equals happiness._" [Tony Robbins](https://www.cnbc.com/2017/10/06/tony-robbins-this-is-the-secret-to-happiness-in-one-word.html)
+
 
 We believe that by helping people 
 _effectively_ keep track 
@@ -353,12 +362,22 @@ toward their _personal_ goals
 and gets everything done.
 
 
+<br />
+
+While we feel the _individual_ experience of the App
+needs to be flawless as we want anyone 
+to be able to use the app in isolation,
+we feel the App becomes _exponentially_ more useful in _teams_.
+
 
 
 <br />
 
 ## 2. Small _Team_ Experience -> [_Co-op Mode_](https://en.wikipedia.org/wiki/Cooperative_gameplay)
  
+
+We feel that our App will be inc
+
 
 ## 3. Big Company/Org Experience -> [_MMORPG_](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game)!
 
@@ -368,7 +387,7 @@ There is no reason why a "Big" company or organisation cannot use the dwyl App.
 
 <br />
 
-## Basic Workflow
+## Basic Workflow
 
 The @dwyl App Will have the following basic workflow:
 ***Capture, Categorise Complete***.
@@ -404,7 +423,8 @@ For the first step (***Capture***),
 we will build an ultra-simple interface
 to allow people to
 input **`palintext`**
-and save it to a backend as **`text`**.
+and save it to a backend as **`text`**
+in one ore more **`items`**.
 For details, please see:
 [`brain-dump.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
 
@@ -445,18 +465,23 @@ we will build a simple checklist system.
 See: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
 
 
-
+<br />
 
 
 ### USP: What is _different_ about the @dwyl App?
 
-A valid/relevant **question** is: what makes the @dwyl App unique?
+A valid/relevant **question** is: 
+what makes the @dwyl App unique?
 i.e. What is our
 ["unique selling point"](https://en.wikipedia.org/wiki/Unique_selling_proposition)?<br />
-The **answer** is: _initially_ it may _appear_ that our App
+The **answer** is: 
+_initially_ it may _appear_ that our App
 does not have much different
-from existing apps that _partially_ solve the personal effectiveness challenge.
+from existing apps that _partially_ solve 
+the personal effectiveness challenge.
+
 The _major_ differences will become apparent in due course:
+
 1. **People Not _Profits_** - We are playing an
 ["***infinite game***"](https://github.com/dwyl/start-here/issues/190)
 where our _mission_ is to
@@ -468,6 +493,7 @@ that is _universally accessible_ to every human being
 that allows _everyone_ a fair opportunity to live their best life.
 We will _cooperate_ with _many_ people/organisations
 to build a comprehensive solution that _anyone_ can use.
+
 2. ***Open Source*** - All of our code will _always_ be ***Open Source***.
 That means anyone can modify/extend/improve it.
 And if people feel we are not doing a good enough job
@@ -487,12 +513,14 @@ you have _no control_ and are _forced_ to use the "new version";
 their way or the highway.
 We are going to _eliminate forced updates_
 by implementing a UX/UI innovation we call Progressive UI.
+
 3. **Progressive UX/UI** - the UX/UI for _each_ person using the app,
 will be _personalised_ to the individual
 based on the features they (_most_) _use_.
 If the person does not _use_ a particular function, they won't _see_ it.
 > Note: This is might not feel relevant during "MVP",
 but it will be an _amazing_ feature once our app has _lots_ of functionality.
+
 4. **Best-in-Class Engineering Practices** -
 Focus on high quality software product
 with best-in-class engineering practices.
@@ -543,15 +571,21 @@ the various project(s) that make up the dwyl app.
 Who should *not* be reading this product roadmap?
 
 Anyone who:
-+ believes the World (_or themself_) "_cannot be improved_.
++ believes the World (_or themself_) "_cannot be improved_".
+If you already have everything in your life figured out, 
+you probably won't be reading this.
+But in case you are Beyonce, 
+just ignore this doc and keep doing what you're already great at!
 + thinks the challenges listed above are "_already solved_"
-by "XYZ Company" ...
+by "XYZ Company" ... 
 + is not _obsessed_ by working on solving a
 _problem_ that benefits all of humanity.
 + does **not _want_ to _learn_** the skills required
 to build something great.
 + is not prepared to
 ["_**work hard every waking hour**_"](https://youtu.be/NU7W7qe2R0A)
+
+<br />
 
 ## When?
 
