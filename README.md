@@ -121,12 +121,12 @@ These are just the ones people most frequently mention.
 
 Even if we don't _say_ the words out loud, 
 we have all _thought_ them at some point. <br />
-We forego doing things we _love_,
+We all forego doing things that we _really_ want/need to do
 because we _feel_ like there isn't enough time. <br />
 
 Whatever your mindset regarding the amount of time you have available
 to do everything you want in life, 
-one thing is certain: 
+one thing is certain: <br />
 without a _systematic_ approach
 we are _all_ ineffective with how we spend/invest our time.
 
@@ -149,6 +149,11 @@ often repeated on social media
 is that they can make us feel _worse_ 
 about our time-management 
 and don't actually _help_ us move _forward_!
+And in the case of the Beyonce quote it's an outright lie.
+She has an _army_ of people helping her get the most out of her day.
+The rest of us don't have personal assitants and entourages of people
+to help us maximise our time. 
+The rest of us need a _system_! 
 
 Each person has their own _reasons_
 for not having enough time,
@@ -196,14 +201,14 @@ that I should be working on **right now**?
 4. Is the **highest priority task** well defined
 5. What should I **_avoid_ doing** now,
 so that I can focus on my highest priority item?
-4. What is the **_smallest_ thing** I can **do** 
+6. What is the **_smallest_ thing** I can **do** 
 to **make progress** toward one of my **goals**?
-5. Am I **_effectively_ communicating** what I'm working on
+7. Am I **_effectively_ communicating** what I'm working on
 with other people so they know when I am **focussing**?
-6. Is there anything **requiring my attention right now** 
+8. Is there anything **requiring my attention right now** 
 that cannot wait until the end 
 of my current highest priority task?
-7. **Who** in my team/family needs me 
+9. **Who** in my team/family needs me 
 in order to make progress 
 on their current (or next) task?
 10. Which task on _my_ list can I _delegate_
@@ -267,8 +272,9 @@ Happiness is almost a _byproduct_ of personal effectiveness!
 ## "_Happiness is not something ready made. <br />It comes from your own actions._" ~ [Dalai Lama](https://www.goodreads.com/quotes/1263-happines)
 
 By helping people to focus their efforts
-on their highest priority items.
-We are helping people be happy.
+on their highest priority items,
+we are helping people be happy. <br />
+That's a mission we can _all_ get on board with!
 
 
 Our immediate plan is to build a **_single_ app**
@@ -281,30 +287,74 @@ that together help the individual
 achieve _all_ of their personal goals
 through a systematic workflow.
 
+<br />
 
 
 ## 1. _Individual_ Person Experience -> [_Single Player_](https://en.wikipedia.org/wiki/Single-player_video_game)
 
-If the App is not _immediately_ useful to an _individual_ person and relies on "network effects" it will be [DOA](https://en.wikipedia.org/wiki/Dead_on_arrival). We need to _optimise_ for the individual _first_ and then once we are able to use the App individually _ourselves_, we can move on to the "Team" experience (see below). 
+If the App is not _immediately_ useful to an _individual_ person 
+and relies on "network effects" it will be 
+[DOA](https://en.wikipedia.org/wiki/Dead_on_arrival).  <br />
+We need to _optimise_ for the individual _first_ 
+and then once we are able to use the App individually _ourselves_, 
+we can move on to the "Team" experience (see below). 
 
 In the _individual_ person experience, the person uses the dwyl App to:
 
-+ **capture** > **brain-dump** everything they have in their head so that they can think clearly (_without a cluttered mind_) and prioritise. 📝 
-+ define their **personal goals** so they can be more systematic about achieving them. e.g:
-  + **Health**: **exercise** for (at least) **1 minute** each day so I can get/stay fit ❤️  
-  + **Money**: **save** at least **1%** of my **income** each week/month for a rainy day/retirement 💰
-  + **Family**: spend at least 1 minute of quality time with a family member each day  💑  
-  + **Sleep**: get a _full_ night's restful sleep each night as the foundation for all other goals. 🛌 
-  + **Career**: practice/learn core work **skill(s)** for **1 minute** each day to achieve mastery. 👩‍💻 
++ **capture** > **brain-dump** everything they have in their head 
+so that they can think clearly (_without a cluttered mind_) and prioritise. 📝 
+
++ define **individual goals** so they can be more systematic about achieving them. 
+e.g:
+  + **Health**: **exercise** for (at least) **1 minute** each day 
+  so I can get/stay fit ❤️  
+  + **Money**: **save** at least **1%** of my **income** each week/month 
+  for a rainy day/retirement 💰
+  + **Family**: spend at least 1 minute of quality time 
+  with a family member each day  💑  
+  + **Sleep**: get a _full_ night's restful sleep 
+  each night as the foundation for all other goals. 🛌 
+  + **Career**: practice/learn core work **skill(s)** for **1 minute** 
+  each day to achieve mastery. 👩‍💻 
   + etc ... 
   
-  > There are _many_ areas where people can have life goals. Eventually our app will encourage people to have goals defined for each area of a person's life. We will have an on-boarding questionnaire to guide them, a visualisation of "progress" toward each one of the goals and reminder to review them regularly. All features to be added to the backlog and worked on in due course! For now, **Personas**!! 😉 
-+ **categorise** the **`items`** (_of **`text`**_) they brain-dumped into meaningful categories. 
+  > There are _many_ areas where people can have life goals. 
+  Eventually our app will encourage people 
+  to have goals defined for each area of a person's life. 
+  We will have an on-boarding questionnaire to guide them, 
+  a visualisation of "progress" toward each one of the goals 
+  and reminder to review them regularly. 
+  All features to be added to the backlog and worked on in due course! 
+  For now, we need the 
+  [**Personas**](https://github.com/dwyl/app/issues/213)
++ **categorise** the **`items`** (_of **`text`**_) 
+they brain-dumped into meaningful categories using `tags`
 
-  > ***Ideally*** people should tie each `item` to a specific goal so that it's clear to them _why_ they need to do something or _why_ a particular `item` of information is _relevant_ to them. 
-  > ***However*** we aren't _ever_ going to _force_ any particular "system" on people, if someone wants to use our app just to take random  `plaintext` notes that's 100% OK. We will write Blog posts (_release notes_) for the features we build in the future that will _guide_ people toward having a more systematic approach. e.g: set goals, write everything down, tie all tasks to specific goals, etc. But until we _build_ those features into our App, we _must_ make it _useful_ in `plaintext` mode.
+  > ***Ideally*** people should tie each `item` 
+  to a specific goal so that it's clear to them 
+  _why_ they need to do something or _why_ 
+  a particular `item` of information is _relevant_ to them. 
+  > ***However*** we aren't _ever_ going to _force_ 
+  any particular "system" on people.
+  If someone wants to use our app just 
+  to take random  `plaintext` notes that's 100% OK. 
+  We will write Blog posts (_product release notes_) 
+  for the features we build in the future 
+  that will _guide_ people toward having 
+  a more systematic approach. 
+  e.g: set goals, write everything down, 
+  tie all tasks to specific goals, etc. 
+  But until we _build_ those features into our App, 
+  we _must_ make it _useful_ in `plaintext` mode.
 
-+ uses the App to keep themselves "on track" toward their _personal_ goals and gets everything done 
++ ***Use*** the App to keep themselves "on track" 
+toward their _personal_ goals 
+and gets everything done.
+
+
+
+
+<br />
 
 ## 2. Small _Team_ Experience -> [_Co-op Mode_](https://en.wikipedia.org/wiki/Cooperative_gameplay)
  
@@ -317,10 +367,13 @@ There is no reason why a "Big" company or organisation cannot use the dwyl App.
 
 <br />
 
+## Basic Workflow
+
 The @dwyl App Will have the following basic workflow:
 ***Capture, Categorise Complete***.
 
-1. ***Capture*** - capture everything that is on your mind in a "brain dump".
+1. ***Capture*** - capture everything that is on your mind 
+in a "brain dump" of one or more `items` of text.
 2. ***Categorise*** - split out blocks of text
   into distinct items and _categorise_ them. <br />
   **a)** What type of info/item is it?
