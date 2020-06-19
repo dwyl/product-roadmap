@@ -325,8 +325,9 @@ e.g:
   a visualisation of "progress" toward each one of the goals 
   and reminder to review them regularly. 
   All features to be added to the backlog and worked on in due course! 
-  For now, we need the 
+  For now, we need the basic
   [**Personas**](https://github.com/dwyl/app/issues/213)
+  for individuals using the App to guide our discussions.
 + **categorise** the **`items`** (_of **`text`**_) 
 they brain-dumped into meaningful categories using `tags`
 
