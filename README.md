@@ -15,7 +15,7 @@ it's _definitely_ not "finished".
 A _good_ product roadmap evolves over time
 in response to _feedback_;
 by definition it's _never_ "complete".
-What you are reading right now is a _snapshot_
+What you are reading is a _snapshot_
 of the roadmap as it is _right now_.
 If you ⭐ (bookmark) the repo 
 and return to it in future, it will _definitely_ be different
@@ -31,7 +31,8 @@ community.
 Please 
 [open an issue](https://github.com/dwyl/product-roadmap/issues)
 if you have any ideas/questions.
-Thanks! ✨ 
+Thanks! ✨ <br />
+
 
 <br />
 
@@ -52,14 +53,16 @@ way to _effectively_ let individuals and/or teams:
 either freeform or using the [OKR](https://en.wikipedia.org/wiki/OKR) framework.
 2. **Capture** everything on one's mind to declutter thoughts 
 and think more clearly/creatively
-3. **Categorise** the plaintext `items` into logical categories using tags
+3. **Categorise** the plaintext `items` into logical categories using `tags`
 (_ideally linked to specific goals_).
 4. **Transform** `items` of text into _actionable_ `items` 
 such as: 
 "Task" (_with context, deadline, progress, dependencies, etc._), 
 "Reminder", 
 "Calendar" (_Meeting, Date, Event, Travel, etc._), 
-"Ingredient" (Shopping list `item`), etc.
+"Ingredient" (Shopping list `item`), etc. 
+We want _complete_ versaility in the `tags` that can be appplied to items
+so that our App can be used for _any_ purpose that helps people organise their lives.
 4. ***Track*** progress on tasks and achieve goals _visually_.
 5. ***Communicate*** with others what task we are focussing on
 so we can all avoid interrupting/distracting each other during 
@@ -78,7 +81,7 @@ we can use and nothing comes _close_ to solving the problem.
 We have _extensively studied_ the 
 UI/UX 
 of the Closed Source Apps 
-see: https://github.com/dwyl/product-ux-research
+see: https://github.com/dwyl/product-ux-research/issues
 and _none_ of them have the workflow (UX) we want
 or they focus on the wrong things!
 
@@ -88,7 +91,7 @@ or they focus on the wrong things!
 
 We are building an App that 
 creates a systematic approach 
-to solve the problem we all face every day:
+to solve the problem we _all_ face every day:
 
 
 ### "_I don't have enough time to_..."
@@ -121,7 +124,7 @@ we have all _thought_ them at some point. <br />
 We forego doing things we _love_,
 because we _feel_ like there isn't enough time. <br />
 
-Whatever your mindset regarding time you have available
+Whatever your mindset regarding the amount of time you have available
 to do everything you want in life, 
 one thing is certain: 
 without a _systematic_ approach
@@ -133,7 +136,7 @@ You may have seen the following quote online:
 
 or 
 
-### "_The bad news is time flies. The good news is you’re the pilot_” ~ Michael Altshuler
+### "_The bad news is time flies. The good news is you’re the pilot_” ~ [Michael Altshuler](https://www.goodreads.com/quotes/144299)
 
 or the most 
 [cliché](https://en.wikipedia.org/wiki/Clich%C3%A9) of all:
@@ -159,11 +162,12 @@ such as watching TV or
 endlessly scrolling through social media apps
 instead of working on their personal goals.
 
+<!--
 > For the single mom with 2 kids and 3 jobs to make ends meet
 who doesn't spend a single _second_ on entertainment,
 our App will _still_ be able to help!
-In fact we have a 
-
+TODO: Create Persona for this person: https://github.com/dwyl/app/issues/213
+-->
 
 The _reason_ most people are _innefective_
 at focussing their energy 
@@ -701,3 +705,39 @@ _Committing to a long-range map implies a fixed/inflexible destination._
 [![HitCount](http://hits.dwyl.com/dwyl/product-roadmap.svg)](http://hits.dwyl.com/dwyl/product-roadmap) -->
 
 
+### Final Note
+
+The purpose of this document is to 
+share the "Vision" for what we are building.
+No map is a _complete_ representation of the world;
+it's just a "model" that allows us to think about it.
+When you open Google Maps on your phone
+it does not show you all the street lights and advertising bilboards.
+It's the same thing with a Software Product Roadmap.
+Including _everything_ would be totally overwhelming to the reader.
+
+Just because a feature is _not_ on this roadmap
+does not mean we have not thought of it.
+In some cases ideas are only in the Backlog: 
+[app/issues](https://github.com/dwyl/app/issues) 
+and are not reflected here.
+In _many_ cases the features/ideas
+are added to and discussed on the backlog
+and never added to Roadmap because 
+they don't _need_ to be on the map.
+
+Our long-term objective is to build a "Platform" for Personal Effectiveness
+that _other_ people can add their own features to. 
+That is not described here 
+because it's too "grandiose" at this stage.
+Instead, that part of our long-term vision
+is summarised as "API". 
+Having a REST+Realtime API will allow
+anone to inteact with their data 
+and build their own UI/UX.
+Building a _Platform_ will allow
+any developer/team to build entire features
+and make them available to the entire base of people using the @dwyl app.
+That's a _much_ bigger undertaking,
+which is why we are not discussing 
+it until we have traction (10K+ people using the app each day).
