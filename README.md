@@ -38,8 +38,10 @@ Thanks! ✨ <br />
 
 ## _Why_ Are We Building An _App_?
 
-If there was an _existing_ (Open Source Cross-platform) system 
-that allowed us to achieve everything we have in mind for the dwyl App,
+If there was an _existing_ 
+(Open Source Cross-platform Real-time Collabroative) 
+system 
+that allowed us to achieve _everything_ we have in mind for the dwyl App,
 we would _use_ it without hesitation.
 Sadly, we have not found any platform 
 that has a
@@ -51,10 +53,15 @@ way to _effectively_ let individuals and/or teams:
 
 1. **Set** **goals** that are ["SMART"](https://en.wikipedia.org/wiki/SMART_criteria)
 either freeform or using the [OKR](https://en.wikipedia.org/wiki/OKR) framework.
-2. **Capture** everything on one's mind to declutter thoughts 
+
+2. **Capture** everything on one's mind 
+as (plaintext) `items`, (voice) `recordings` or `images`
+to declutter thoughts 
 and think more clearly/creatively
-3. **Categorise** the plaintext `items` into logical categories using `tags`
+
+3. **Categorise** the `items` into logical categories using `tags`
 (_ideally linked to specific goals_).
+
 4. **Transform** `items` of text into _actionable_ `items` 
 such as: 
 "Task" (_with context, deadline, progress, dependencies, etc._), 
@@ -63,16 +70,20 @@ such as:
 "Ingredient" (Shopping list `item`), etc. 
 We want _complete_ versaility in the `tags` that can be appplied to items
 so that our App can be used for _any_ purpose that helps people organise their lives.
-4. ***Track*** progress on tasks and achieve goals _visually_.
-5. ***Communicate*** with others what task we are focussing on
+
+5. ***Track*** tasks and goal progress _visually_.
+
+6. ***Communicate*** with others what task we are focussing on
 so we can all avoid interrupting/distracting each other during 
 ["Deep Work"](https://www.calnewport.com/books/deep-work)
-6. ***Delegate*** specific tasks 
+
+7. ***Delegate*** specific tasks 
 to people in one's family/team/org
 with built-in tracking to _eliminate_
 ["status update requests"](https://en.wikipedia.org/wiki/Busy_work)
 
-There are _plenty_ of "productivity" apps that _partially_ solve these problems.
+There are _plenty_ of "productivity" apps 
+that _partially_ solve these problems.
 _Most_ of the Apps you/we can list are Closed Source,
 which rules them out (for us) 
 for the reasons described in "Why Open Source?" (_below_).
@@ -84,6 +95,26 @@ of the Closed Source Apps
 see: https://github.com/dwyl/product-ux-research/issues
 and _none_ of them have the workflow (UX) we want
 or they focus on the wrong things!
+
+[![notion-encourages-busywork](https://user-images.githubusercontent.com/194400/85288902-75077480-b48e-11ea-8b41-75299936985b.png)](https://github.com/dwyl/product-ux-research/issues/5#issuecomment-647495254)
+
+We want to help people focus on the _one_ `task` 
+they need to be doing _right now_,
+and easily hide/show the rest when needed.
+We want to apply both the science and art of distraction-free focus
+we have read about in books such as 
+"Deep Work",
+"Indestractable", 
+"Digital Minimalism",
+"Make Time",
+"Tools of Titans",
+"Hyperfocus"
+and many others.
+The fact is this:
+_none_ of the _existing_ closed source Apps 
+help you to _prioritise_ and _focus_
+on your highest value/impact `items`. 
+We are going to _fix_ that!
 
 <br />
 
