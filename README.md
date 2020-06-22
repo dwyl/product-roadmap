@@ -122,10 +122,14 @@ We are going to _fix_ that!
 
 We are building an App that 
 creates a systematic approach 
-to solve the problem we _all_ face every day:
+to solve the problem we _all_ face every day.
+
+What do you think of when you 
+see/read/hear/think of 
+the following words:
 
 
-### "_I don't have enough time to_..."
+## "_I don't have enough time to_..."
 
 How many times have you heard 
 a friend or family member say these words?
@@ -155,7 +159,8 @@ we have all _thought_ them at some point. <br />
 We all forego doing things that we _really_ want/need to do
 because we _feel_ like there isn't enough time. <br />
 
-Whatever your mindset regarding the amount of time you have available
+Whatever your mindset regarding the amount of time 
+you have available
 to do everything you want in life, 
 one thing is certain: <br />
 without a _systematic_ approach
@@ -185,18 +190,43 @@ She has an _army_ of people helping her get the most out of her day.
 The rest of us don't have personal assitants and entourages of people
 to help us maximise our time. 
 The rest of us need a _system_! 
+<!--
+Whenever you hear a self-proclaimed life coach 
+or time management guru giving _anyone_ 
+advice without providing a system, _run_!
+They are just trying to take your money
+and make you dependent on them.
+You don't need to pay five thousand dollars 
+to attend a week-long semminar on time management.
+You need a _basic_ 7-step system that works
+and you can use for _free_!
+-->
+
 
 Each person has their own _reasons_
 for not having enough time,
 but the universal fact is that
 very few people are living their _best_ life.
 For most people it's not their fault.
-The existing _systems_ for keeping us "on track" are _fundamentally_ broken.
+The existing _systems_ 
+for keeping us "on track" are _fundamentally_ broken.
+The pull of distraction is overwhelming to most people.
+
 Billions of people have been lured into _burning_ time 
 on low-value entertainment activities 
 such as watching TV or 
 endlessly scrolling through social media apps
 instead of working on their personal goals.
+
+> As former Facebook President, 
+[Sean Parker](https://github.com/dwyl/learn-react/issues/23#issuecomment-647521076) 
+put it: 
+Facebook's goal is to <br />
+"_consume as much of your time and conscious attention as possible_". <br />
+> The more time you spend on their platforms
+the more money they all make. <br />
+They don't care that they are _systematically_
+[wasting the lives of millions of people](https://github.com/nelsonic/nelsonic.github.io/issues/779#issuecomment-625188176).
 
 <!--
 > For the single mom with 2 kids and 3 jobs to make ends meet
@@ -205,11 +235,12 @@ our App will _still_ be able to help!
 TODO: Create Persona for this person: https://github.com/dwyl/app/issues/213
 -->
 
-The _reason_ most people are _innefective_
-at focussing their energy 
+The _reason_ most people are _innefective_ at focussing
 on tasks that move them toward a specific goal
 is that they don't have adequate _systems_
-for maximising personal effectiveness.
+for focussing on what matters 
+and maximising personal effectiveness.
+Meanwhile the _system_ Mark & Pals have 
 
 
 ## "_You do not rise to the level of your goals. <br /> You fall to the level of your systems._" <br />~ [James Clear](https://www.goodreads.com/quotes/9536717), Atomic Habits
@@ -229,22 +260,24 @@ to answer the following **10 questions**:
 moving me **towards** one of my **goals**?
 3. What is the **highest priority task** 
 that I should be working on **right now**?
-4. Is the **highest priority task** well defined
-5. What should I **_avoid_ doing** now,
-so that I can focus on my highest priority item?
-6. What is the **_smallest_ thing** I can **do** 
+4. Is the **highest priority task** well defined 
+or does it need more detail before I can start on it?
+5. What is the **_smallest_ thing** I can **do** 
 to **make progress** toward one of my **goals**?
-7. Am I **_effectively_ communicating** what I'm working on
+6. Am I **_effectively_ communicating** what I'm working on
 with other people so they know when I am **focussing**?
-8. Is there anything **requiring my attention right now** 
+7. Is there anything **requiring my attention right now** 
 that cannot wait until the end 
 of my current highest priority task?
-9. **Who** in my team/family needs me 
+8. **Who** in my team/family needs me 
 in order to make progress 
 on their current (or next) task?
-10. Which task on _my_ list can I _delegate_
+9. Which task on _my_ list can I _delegate_
 to someone else so that I can focus on 
 the item that _only_ I can do.
+10. What should I **_avoid_ doing** 
+or say "**no**" to now
+so that I can **focus** on my highest priority item?
 
 <br />
 
@@ -296,8 +329,8 @@ is to:
 
 Few people know more about effectiveness 
 than life coach and motivational speaker 
-[Tony Robbins](https://en.wikipedia.org/wiki/Tony_Robbins).
-A quote that guides us in our mission is:
+[Tony Robbins](https://en.wikipedia.org/wiki/Tony_Robbins). <br />
+A quote of his that guides us in our mission is:
 
 ## "_The secret to happiness is one word: progress. <br />Progress equals happiness._" [Tony Robbins](https://www.cnbc.com/2017/10/06/tony-robbins-this-is-the-secret-to-happiness-in-one-word.html)
 
@@ -305,7 +338,7 @@ A quote that guides us in our mission is:
 We believe that by helping people 
 _effectively_ keep track 
 of their progress 
-toward their goals,
+toward their goals, <br />
 they will naturally be happier. 
 Happiness is almost a _byproduct_ of personal effectiveness!
 
@@ -313,13 +346,14 @@ Happiness is almost a _byproduct_ of personal effectiveness!
 
 By helping people to focus their efforts
 on their highest priority items,
-we are helping people be happy. <br />
+we are helping people be _happy_. <br />
 That's a mission we can _all_ get on board with!
 
 
 Our immediate plan is to build a **_single_ app**
 that satisfies _several_ human needs
 while focussing on the theme of "***personal effectiveness***".
+
 
 The @dwyl App will be a "_hybrid_"
 containing several features
@@ -388,9 +422,18 @@ they brain-dumped into meaningful categories using `tags`
   But until we _build_ those features into our App, 
   we _must_ make it _useful_ in `plaintext` mode.
 
-+ ***Use*** the App to keep themselves "on track" 
-toward their _personal_ goals 
-and gets everything done.
+
++ ***prioritise*** the `items` that need to be done first,
+those that can be differed or delegated.
+
+  > "_If You Don’t Prioritize Your Life, Someone Else Will_". 
+  ~ [Greg McKeown](https://hbr.org/2012/06/how-to-say-no-to-a-controlling), 
+  [Essentialism](https://youtu.be/euJc0UmSik8)
+
+
++ ***Use*** the App to stay "on track" 
+toward _personal_ goals 
+and get the most important things done.
 
 
 <br />
@@ -595,7 +638,11 @@ Who is this product roadmap intended for?
 + _Everyone_ ***contributing*** to
 the various project(s) that make up the dwyl app.
 
-(_provided the **contribution guidelines/workflow** is **respected/followed** to **avoid chaos**_).
+<!--
+(_provided the **contribution guidelines/workflow** 
+is **respected/followed** to **avoid chaos**_).
+-->
+
 
 #### _Who NOT_?
 
@@ -691,6 +738,7 @@ see:
 
 
 <!--
+
 ## Brain Dump of Features
 
 The following list needs to be _organised_:
@@ -744,14 +792,13 @@ and be _frugal_ with bandwidth.
 + [ ] Get "Sign-off" (_Confirmation_) / Feedback on Completed Task
 -->
 
-## Further Reading
-
-+ "How we built a product vision and roadmap":
-https://wildbit.com/blog/2016/05/11/how-we-built-a-product-vision-and-roadmap
-(_a really good read! also image credit!_)
-
-
 <hr />
+
+
+> **Note**: while the App Store might categorise 
+the App we are building as 
+["Productivity"](https://apps.apple.com/us/genre/ios-productivity/id6007),
+we don't refer to it as 
 
 
 ## Why Open Source?
@@ -860,3 +907,12 @@ and make them available to the entire base of people using the @dwyl app.
 That's a _much_ bigger undertaking,
 which is why we are not discussing 
 it until we have traction (10K+ people using the app each day).
+
+<br />
+
+## Further Reading
+
++ "How we built a product vision and roadmap":
+https://wildbit.com/blog/2016/05/11/how-we-built-a-product-vision-and-roadmap
+(_a really good read! also image credit!_)
+
