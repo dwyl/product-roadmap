@@ -11,10 +11,10 @@ on our _collective **goal**_.
 
 > **Note**: this document is a
 ["work-in-progress"](https://en.wiktionary.org/wiki/work_in_progress#Noun),
-it's _definitely_ not "finished".
+it's _definitely_ not "finished". <br />
 A _good_ product roadmap evolves over time
 in response to _feedback_;
-by definition it's _never_ "complete".
+by definition it's _never_ "complete". <br />
 What you are reading is a _snapshot_
 of the roadmap as it is _right now_.
 If you ⭐ (bookmark) the repo 
@@ -22,12 +22,12 @@ and return to it in future, it will _definitely_ be different
 because we update it fairly regularly.
 We use a Git repo so that we (_and anyone `else` in the community_)
 can _track_ the changes/evolution as we 
-[Learn, Build and Measure](http://theleanstartup.com/principles). 
+[Learn, Build and Measure](http://theleanstartup.com/principles). <br />
 We welcome any/all feedback on it 
 _especially_ from people who are `new`
 to the 
 [`@dwyl`](https://github.com/dwyl/start-here#who) 
-community.
+community. <br />
 Please 
 [open an issue](https://github.com/dwyl/product-roadmap/issues)
 if you have any ideas/questions.
@@ -377,6 +377,14 @@ In the _individual_ person experience, the person uses the dwyl App to:
 
 + **capture** > **brain-dump** everything they have in their head 
 so that they can think clearly (_without a cluttered mind_) and prioritise. 📝 
+  
+  > Capturing text (_and later voice memos and images_) as "items" 
+  which can then be categorised/organised using tags 
+  is the most versatile way of storing data.
+  We only need _one_ field or data type (`text`).
+  We can then apply `tags` to an `item` to make it into _anything_ else.
+  And then the UI renders the item with the appropriate UX 
+  for an `item` with the `tag` `"task"`, display a checkbox next to it.
 
 + define **individual goals** so they can be more systematic about achieving them. 
 e.g:
@@ -652,16 +660,13 @@ Anyone who:
 + believes the World (_or themself_) "_cannot be improved_".
 If you already have everything in your life figured out, 
 you probably won't be reading this.
-But in case you are Beyonce, 
-just ignore this doc and keep doing what you're already great at!
 + thinks the challenges listed above are "_already solved_"
 by "XYZ Company" ... 
 + is not _obsessed_ by working on solving a
 _problem_ that benefits all of humanity.
 + does **not _want_ to _learn_** the skills required
-to build something great.
-+ is not prepared to
-["_**work hard every waking hour**_"](https://youtu.be/NU7W7qe2R0A)
+to build something meaningful.
+
 
 <br />
 
