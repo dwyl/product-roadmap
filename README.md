@@ -356,7 +356,7 @@ and be _frugal_ with bandwidth.
     + https://github.com/dwyl/learn-progressive-web-apps
   + [ ] iOS Native App for iDevices (Non-PWA)
 
-  + [ ] Apple Watch UI - while apple watch is _definately **not**_
+  + [ ] Apple Watch UI - while apple watch is _definitely **not**_
   the platform we want to "_win_" the "_wearable tech_"
     + https://github.com/dwyl/learn-apple-watch-development
 
