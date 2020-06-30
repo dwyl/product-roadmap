@@ -1,7 +1,11 @@
+<div align="center">
+
 # Product Roadmap
 
 ![roadmap-1152x672-flip](https://user-images.githubusercontent.com/194400/27068309-5b379538-5007-11e7-99fb-20f09369c672.jpg)
 
+</div>
+<br />
 
 # _Why_? 🤷‍♀️
 
@@ -71,11 +75,13 @@ such as:
 We want _complete_ versaility in the `tags` that can be appplied to items
 so that our App can be used for _any_ purpose that helps people organise their lives.
 
-5. ***Track*** tasks and goal progress _visually_.
+5. ***Track*** tasks and goal **progress _visually_**.
 
 6. ***Communicate*** with others what task we are focussing on
 so we can all avoid interrupting/distracting each other during 
 ["Deep Work"](https://www.calnewport.com/books/deep-work)
+Avoiding the "what you doing" type questions,
+or general interruptions is essential for focus work.
 
 7. ***Delegate*** specific tasks 
 to people in one's family/team/org
@@ -96,7 +102,7 @@ see: https://github.com/dwyl/product-ux-research/issues
 and _none_ of them have the workflow (UX) we want
 or they focus on the wrong things!
 
-[![notion-encourages-busywork](https://user-images.githubusercontent.com/194400/85288902-75077480-b48e-11ea-8b41-75299936985b.png)](https://github.com/dwyl/product-ux-research/issues/5#issuecomment-647495254)
+[![notion-encourages-busywork](https://user-images.githubusercontent.com/194400/85288902-75077480-b48e-11ea-8b41-75299936985b.png)](https://github.com/dwyl/product-ux-research/issues/5#issuecomment-647495254 "Notion encourages busy-work - Click to read")
 
 We want to help people focus on the _one_ `task` 
 they need to be doing _right now_,
@@ -109,188 +115,13 @@ we have read about in books such as
 "Make Time",
 "Tools of Titans",
 "Hyperfocus"
-and many others.
+and _many_ others.
 The fact is this:
 _none_ of the _existing_ closed source Apps 
 help you to _prioritise_ and _focus_
 on your highest value/impact `items`. 
-We are going to _fix_ that!
+We are _fixing_ that!
 
-<br />
-
-## _What Problem_ Are We _Solving_?
-
-We are building an App that 
-creates a systematic approach 
-to solve the problem we _all_ face every day.
-
-What do you think of when you 
-see/read/hear/think of 
-the following words:
-
-
-## "_I don't have enough time to_..."
-
-How many times have you heard 
-a friend or family member say these words?
-
-> "I don't have enough time to:" <br />
-> 1. **`exercise`**
-> 2. **prepare `healthy` food**
-> 3. get a **full night's `sleep`**
-> 4. **`read` a book**
-> 5. **`declutter` and `clean`**
-> 5. **learn a `language`**
-> 6. **learn/practice a `skill`** 
-that will get me the **job** I will **_love_ doing**
-> 7. spend with all my **`family` and `friends`**
-> 8. **meet `new` people**
-> 9. try **`new experiences`**
-> 9. pursue a **`creative hobby`** that brings me **joy**
-> 10. **play a `musical instrument`**
-> 11. go **outdoors and enjoy `nature`**
-> 12. **`travel`**
-
-... the list of things we _think_ we don't have enough time for is _infinite_. <br />
-These are just the ones people most frequently mention.
-
-Even if we don't _say_ the words out loud, 
-we have all _thought_ them at some point. <br />
-We all forego doing things that we _really_ want/need to do
-because we _feel_ like there isn't enough time. <br />
-
-Whatever your mindset regarding the amount of time 
-you have available
-to do everything you want in life, 
-one thing is certain: <br />
-without a _systematic_ approach
-we are _all_ ineffective with how we spend/invest our time.
-
-You may have seen the following quote online:
-
-## "_Lack of direction, not lack of time, is the problem. <br />We all have 24-hour days._" ~ [Zig Ziglar](https://www.goodreads.com/quotes/270489-lack-of-direction-not-lack-of-time-is-the-problem)
-
-or 
-
-### "_The bad news is time flies. The good news is you’re the pilot_” ~ [Michael Altshuler](https://www.goodreads.com/quotes/144299)
-
-or the most 
-[cliché](https://en.wikipedia.org/wiki/Clich%C3%A9) of all:
-
-## "_You have the same number of hours in a day as Beyonce_" ~ [Instagram](https://github.com/dwyl/home/issues/29)
-
-
-The problem with these "motivational" quotes
-often repeated on social media 
-is that they can make us feel _worse_ 
-about our time-management 
-and don't actually _help_ us move _forward_!
-And in the case of the Beyonce quote it's an outright lie.
-She has an _army_ of people helping her get the most out of her day.
-The rest of us don't have personal assitants and entourages of people
-to help us maximise our time. 
-The rest of us need a _system_! 
-<!--
-Whenever you hear a self-proclaimed life coach 
-or time management guru giving _anyone_ 
-advice without providing a system, _run_!
-They are just trying to take your money
-and make you dependent on them.
-You don't need to pay five thousand dollars 
-to attend a week-long semminar on time management.
-You need a _basic_ 7-step system that works
-and you can use for _free_!
--->
-
-
-Each person has their own _reasons_
-for not having enough time,
-but the universal fact is that
-very few people are living their _best_ life.
-For most people it's not their fault.
-The existing _systems_ 
-for keeping us "on track" are _fundamentally_ broken.
-The pull of distraction is overwhelming to most people.
-
-Billions of people have been lured into _burning_ time 
-on low-value entertainment activities 
-such as watching TV or 
-endlessly scrolling through social media apps
-instead of working on their personal goals.
-
-> As former Facebook President, 
-[Sean Parker](https://github.com/dwyl/learn-react/issues/23#issuecomment-647521076) 
-put it: 
-Facebook's goal is to <br />
-"_consume as much of your time and conscious attention as possible_". <br />
-> The more time you spend on their platforms
-the more money they all make. <br />
-They don't care that they are _systematically_
-[wasting the lives of millions of people](https://github.com/nelsonic/nelsonic.github.io/issues/779#issuecomment-625188176).
-
-<!--
-> For the single mom with 2 kids and 3 jobs to make ends meet
-who doesn't spend a single _second_ on entertainment,
-our App will _still_ be able to help!
-TODO: Create Persona for this person: https://github.com/dwyl/app/issues/213
--->
-
-The _reason_ most people are _innefective_ at focussing
-on tasks that move them toward a specific goal
-is that they don't have adequate _systems_
-for focussing on what matters 
-and maximising personal effectiveness.
-Meanwhile the _system_ Mark & Pals have 
-
-
-## "_You do not rise to the level of your goals. <br /> You fall to the level of your systems._" <br />~ [James Clear](https://www.goodreads.com/quotes/9536717), Atomic Habits
-
-
-The ***system*** to help ourselves and others move towards our 
-(life/health/fitness/career/etc.) 
-goals is what we are building.
-We haven't found a catchy one-line phrase
-to summarise the ***system*** we are building. ([`#HelpWanted`]())
-Instead we can describe the App as a means 
-to answer the following **10 questions**:
-
-1. **What** are my **goals** in life? 
-(personal/professional/family/financial/fitness/etc.)
-2. Is what I'm doing **right now** 
-moving me **towards** one of my **goals**?
-3. What is the **highest priority task** 
-that I should be working on **right now**?
-4. Is the **highest priority task** well defined 
-or does it need more detail before I can start on it?
-5. What is the **_smallest_ thing** I can **do** 
-to **make progress** toward one of my **goals**?
-6. Am I **_effectively_ communicating** what I'm working on
-with other people so they know when I am **focussing**?
-7. Is there anything **requiring my attention right now** 
-that cannot wait until the end 
-of my current highest priority task?
-8. **Who** in my team/family needs me 
-in order to make progress 
-on their current (or next) task?
-9. Which task on _my_ list can I _delegate_
-to someone else so that I can focus on 
-the item that _only_ I can do.
-10. What should I **_avoid_ doing** 
-or say "**no**" to now
-so that I can **focus** on my highest priority item?
-
-<br />
-
-## "_The difference between successful people and really successful people is that really successful people say no to almost everything._" ~ [Warren Buffet](https://medium.com/the-ascent/you-can-do-amazing-things-but-only-if-you-have-time-to-do-them-31c07ab5b04e)
-
-What do _you_ need to (_politely and plainly_) say "***no***" to 
-so you can **focus** on your **goals**?
-
-
-<!-- 
-https://zenhabits.net/enough-time
-https://www.lifehack.org/articles/productivity/10-reasons-why-some-people-feel-like-they-dont-have-enough-time.html
--->
 <br />
 
 # _What_?
@@ -363,8 +194,198 @@ through a systematic workflow.
 
 <br />
 
+## _What Problem_ Are We _Solving_?
 
-## 1. _Individual_ Person Experience -> [_Single Player_](https://en.wikipedia.org/wiki/Single-player_video_game)
+We are building an App that 
+creates a systematic approach 
+to solve the problem we _all_ face every day. <br />
+What do you think of when you 
+see/read/hear/think of 
+the following words:
+
+
+## "_I don't have enough time to_..."
+
+How many times have you heard 
+a friend, family member or work colleage 
+say these words?
+
+> "I don't have enough time to:" <br />
+> 1. **`exercise`**
+> 2. **prepare `healthy` food**
+> 3. get a **full night's `sleep`**
+> 4. **`read` a book**
+> 5. **`declutter` and `clean`**
+> 5. **learn a `language`**
+> 6. **learn/practice a `skill`** 
+that will get me the **job** I will **_love_ doing**
+> 7. spend with all my **`family` and `friends`**
+> 8. **meet `new` people**
+> 9. try **`new experiences`**
+> 9. pursue a **`creative hobby`** that brings me **joy**
+> 10. **play a `musical instrument`**
+> 11. go **outdoors and enjoy `nature`**
+> 12. **`travel`**
+
+... the list of things we _think_ we don't have enough time for is _infinite_. <br />
+These are just the ones people most frequently mention.
+
+Even if we don't _say_ the words out loud, 
+we have all _thought_ them at some point. <br />
+We all forego doing things that we _really_ want/need to do
+because we _feel_ like there isn't enough time. <br />
+
+Whatever your mindset regarding the amount of time 
+you have available
+to do everything you want in life, 
+one thing is certain: **without** a **_systematic_ approach**
+we are **_all_ ineffective** in how we spend/invest our **time**.
+
+You may have seen the following quote online:
+
+## "_Lack of direction, not lack of time, is the problem. <br />We all have 24-hour days._" ~ [Zig Ziglar](https://www.goodreads.com/quotes/270489-lack-of-direction-not-lack-of-time-is-the-problem)
+
+or 
+
+### "_The bad news is time flies. The good news is you’re the pilot_” ~ [Michael Altshuler](https://www.goodreads.com/quotes/144299)
+
+or the most 
+[cliché](https://en.wikipedia.org/wiki/Clich%C3%A9) of all:
+
+## "_You have the same number of hours in a day as Beyonce_" ~ [Instagram](https://github.com/dwyl/home/issues/29)
+
+
+The problem with these "motivational" quotes
+often repeated on social media 
+is that they can make us **feel _worse_**
+about our time-management - _**self**_ 
+"**productivity** [***shaming***](https://en.wikipedia.org/wiki/Shame)" -
+and **don't** actually **_help_** us **move _forward_**!
+In the case of the one mentioning Beyonce, it's an outright _lie_.
+**Queen Bey** has an _army_ of people helping her get the most out of her day.
+The rest of us don't have personal assitants and entourages of people
+to help us maximise our time. 
+The rest of us need a _system_!
+<!--
+Whenever you hear a self-proclaimed life coach 
+or time management guru giving _anyone_ 
+advice without providing a system, _run_!
+They are just trying to take your money
+and make you dependent on them.
+You don't need to pay five thousand dollars 
+to attend a week-long semminar on time management.
+You need a _basic_ 7-step system that works
+and you can use for _free_!
+-->
+
+
+Each person has their own _reasons_
+for not having enough time,
+but the universal fact is that
+very few people are living their _best_ life.
+For most people it's not their fault.
+The existing _systems_ 
+for keeping us "on track" are _fundamentally_ broken.
+The pull of distraction is overwhelming to most people.
+
+Billions of people have been lured into _burning_ time 
+on low-value entertainment activities 
+such as watching TV or 
+endlessly scrolling through social media apps
+instead of working on their personal goals.
+
+> As former Facebook President, 
+[Sean Parker](https://github.com/dwyl/learn-react/issues/23#issuecomment-647521076) 
+put it: 
+Facebook's goal is to <br />
+"_consume as much of your time and conscious attention as possible_". <br />
+> The more time you spend on their platforms
+the more money they all make. <br />
+They don't care that they are _systematically_
+[wasting the lives of millions of people](https://github.com/nelsonic/nelsonic.github.io/issues/779#issuecomment-625188176).
+
+<!--
+> For the single mom with 2 kids and 3 jobs to make ends meet
+who doesn't spend a single _second_ on entertainment,
+our App will _still_ be able to help!
+TODO: Create Persona for this person: https://github.com/dwyl/app/issues/213
+-->
+
+The _reason_ most people are _innefective_ at focussing
+on tasks that move them toward a specific goal
+is that they don't have adequate _systems_
+for focussing on what matters 
+and maximising personal effectiveness.
+Meanwhile the _system_ 
+[Mark & Pals](https://github.com/dwyl/learn-react/issues/23) 
+have created has an army of 
+Social/Computer Science PhDs 
+whose job it is to make their time-wasting Apps
+as [psychologically addictive](https://www.theguardian.com/technology/2018/may/08/social-media-copies-gambling-methods-to-create-psychological-cravings) 
+as possible.
+The average person without a systematic approach doesn't stand a _chance_!
+
+### System
+
+
+## "_You do not rise to the level of your goals. <br /> You fall to the level of your systems._" <br />~ [James Clear](https://www.goodreads.com/quotes/9536717), Atomic Habits
+
+
+The ***system*** we are building
+is desgined to help ourselves and others 
+move towards our
+(life/health/fitness/career/etc.) 
+goals is what we are building.
+We haven't found a catchy one-line phrase
+to summarise the ***system*** we are building. ([`#HelpWanted`]())
+Instead we can describe the App as a means 
+to answer the following **10 questions**:
+
+1. **What** are my **goals** in life? 
+(personal/professional/family/financial/fitness/etc.)
+2. Is what I'm doing **right now** 
+moving me **towards** one of my **goals**?
+3. What is the **highest priority task** 
+that I _should_ be working on **right now**?
+4. Is the **highest priority task** well defined 
+or does it need more detail before I can start on it?
+5. What is the **_smallest_ thing** I can **do** 
+to **make progress** toward one of my **goals**?
+6. Am I **_effectively_ communicating** what I'm working on
+with other people so they know when I am **focussing**?
+7. Is there anything **requiring my attention right now** 
+that **_cannot_ wait** until the end 
+of my current highest priority task 
+or focus time interval?
+8. **Who** in my team/family needs me 
+in order to make progress 
+on their current (or next) task?
+9. Which task on _my_ list **can I _delegate_**
+to someone else so that I can focus on 
+the item that _only_ I can do.
+10. What should I **_avoid_ doing** 
+or **say** "**no**" to now
+so that I can **focus** on my highest priority item?
+
+<br />
+
+## "_The difference between successful people and really successful people is that really successful people say no to almost everything._" ~ [Warren Buffet](https://medium.com/the-ascent/you-can-do-amazing-things-but-only-if-you-have-time-to-do-them-31c07ab5b04e)
+
+What do _you_ need to (_politely and plainly_) say "***no***" to 
+so you can **focus** on your **goals**?
+
+
+<!-- 
+https://zenhabits.net/enough-time
+https://www.lifehack.org/articles/productivity/10-reasons-why-some-people-feel-like-they-dont-have-enough-time.html
+-->
+
+<br />
+
+## 3 Stages of Our Roadmap
+
+
+### 1. _Individual_ Person Experience -> [_Single Player_](https://en.wikipedia.org/wiki/Single-player_video_game)
 
 If the App is not _immediately_ useful to an _individual_ person 
 and relies on "network effects" it will be 
@@ -380,7 +401,7 @@ so that they can think clearly (_without a cluttered mind_) and prioritise. 📝
   
   > Capturing text (_and later voice memos and images_) as "items" 
   which can then be categorised/organised using tags 
-  is the most versatile way of storing data.
+  is the most intiuitive and versatile way of storing data.
   We only need _one_ field or data type (`text`).
   We can then apply `tags` to an `item` to make it into _anything_ else.
   And then the UI renders the item with the appropriate UX 
@@ -449,22 +470,34 @@ and get the most important things done.
 While we feel the _individual_ experience of the App
 needs to be flawless as we want anyone 
 to be able to use the app in isolation,
-we feel the App becomes _exponentially_ more useful in _teams_.
+we feel the App becomes _exponentially_ more useful/powerful in _teams_.
 
 
 
 <br />
 
-## 2. Small _Team_ Experience -> [_Co-op Mode_](https://en.wikipedia.org/wiki/Cooperative_gameplay)
+### 2. Small _Team_ Experience -> [_Co-op Mode_](https://en.wikipedia.org/wiki/Cooperative_gameplay)
  
 
-We feel that our App will be inc
+We feel that our App will be _incredibly_ 
+to small "teams" of people who need to collaborate on getting things done.
+Small teams will not be limited to "work" colleagues.
+Rather we will have personas for families, groups of friends and other associations. 
+We will focus on this "team" use-case 
+as soon as we have the basic _individual_ UX working.
+
+> If you are keen on helping us with the Colab features,
+please take a look at our existing backlog: 
+https://github.com/dwyl/app/issues 
+If there is a feature you don't see and want to help us describe, 
+please open an issue!
 
 
 ## 3. Big Company/Org Experience -> [_MMORPG_](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game)!
 
 There is no reason why a "Big" company or organisation cannot use the dwyl App.
-
+But this is not our focus right now. 
+We need to crawl, walk & run before we attempt to _fly_. 
 
 
 <br />
