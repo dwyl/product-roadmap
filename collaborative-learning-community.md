@@ -10,10 +10,6 @@ he asks this "contrarian question":
 as it will make you _think_
 and encourage you
 to _question_ your own _assumptions_ & _biases_.
-> + Full PDF:
-http://gsl.mit.edu/media/programs/south-africa-summer-2015/materials/0to1.pdf
- (150 pages. read it! Peter is easily one of the smartest
-   people in the world!)
 > + Summary/discussion:
 https://fs.blog/2015/11/the-single-best-interview-question-you-can-ask/
 > + Video summary (recap):
@@ -26,7 +22,7 @@ https://www.reddit.com/r/IAmA/comments/2g4g95/peter_thiel_technology_entrepreneu
 This document is our _answer_ to the [question](https://github.com/nelsonic/nelsonic.github.io/issues/231#issuecomment-419693586).
 In short we feel that:
 
-### 1. _Most_ **education** is _fundamentally_ "broken".
+## 1. _Most_ **education** is _fundamentally_ "broken".
 
 Teachers in ***most*** primary, middle and high **schools**
 are forced to "_**teach** to the **test**_".
@@ -110,7 +106,7 @@ it would be a "door stop"!
 We intend to make each lesson "byte sized" and
 allow people to track their progress in a user-friendly way.
 
-### 2. Compairing relative skill/experience levels is _hard_.
+## 2. Comparing relative skill/experience levels is _hard_.
 
 It has _historically_ been
 quite difficult to _measure_ relative skill level
@@ -160,7 +156,7 @@ We have to "start somewhere"; we feel the best place to start
 is with sharing the knowledge we _already_ have.
 See details below in "Collaborative Learning Community".
 
-### 3. **Asking questions** online while learning is _frustrating_!
+## 3. **Asking questions** online while learning is _frustrating_!
 
 Asking questions is a source stress and frustration in many "forums"
 or question/answer sites where beginners often feel _unwelcome_.
@@ -227,7 +223,7 @@ feedback/reinforcement when they ask a question!
 + A tally of the questions they ask should be kept as a "karma score".
 
 
-### 4. Creative technology work is "_unevenly distributed_" by "gatekeepers"
+## 4. Creative technology work is "_unevenly distributed_" by "gatekeepers"
 
 Creative tech work is unfairly distributed
 to people with skills/experience by a handful of "gatekeepers"
@@ -374,7 +370,7 @@ without registration and licensed as creative commons (_non-commercial_).
   the answers become.
 + Questions/Answers should be linked to learning materials.
   + it should be clear at which point in the learning material
-  the question was raised. So the Q/A is _contextual_.
+  the question was raised. So the Q/A _contextual_.
   + Wherever possible questions/answers should be self-contained
   and thus generally applicable. But if the question is _specific_
   to the learning material in question, that's fine too,

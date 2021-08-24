@@ -1,7 +1,7 @@
 # _Capture_
 
 The **_first_ step** in creating
-a **system** of for personal effectiveness
+a **system** for personal effectiveness
 is to help people ***capture***
 _everything_ on their mind. <br />
 Emptying one's mind (_specifically working memory_)
@@ -45,7 +45,7 @@ to have autocompletion and natural language processing
 First we need to have an ultra-basic MVP working.
 
 
-Please see: https://github.com/dwyl/product-roadmap/issues/12
+Please see: https://github.com/dwyl/app/issues/234
 for detail and acceptance criteria.
 
 

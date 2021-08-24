@@ -16,7 +16,7 @@ I will request/try a non-alcoholic version of my favourite drink."
 
 > _**Note**: if we prefer to use an alternative goal-setting framework,
 we will incorporate that into the app with relative ease.
-This is just a starting point.
+This is just a starting point_.
 
 3. Frictionless Capture:
 Make tracking their behaviour/consumption as easy as possible; 2 taps.

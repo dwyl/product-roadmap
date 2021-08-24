@@ -540,6 +540,7 @@ to allow people to
 input **`palintext`**
 and save it to a backend as **`text`**
 in one ore more **`items`**.
+
 For details, please see:
 [`brain-dump.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
 
@@ -550,7 +551,7 @@ in response to feedback from people _using_ the MVP. <br />
 We will add additional methods
 to help people "capture" information.
 e.g:
-+ Linking to external sources of information.
++ Linking to external sources of information
 + Photo/image uploads
   + Optical Character Recognition (OCR)
   + Image/object recognition
@@ -572,13 +573,12 @@ we will need a tagging system that allows people
 to apply textual labels to items.
 The UX for this is still "TBD".
 We will need to sketch it out ahead of sprint planning.
-See: https://github.com/dwyl/product-roadmap/issues/15
+See: https://github.com/dwyl/app/issues/235
 
 
 And finally for the _third_ step, ***Complete***,
 we will build a simple checklist system.
 See: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
-
 
 <br />
 
@@ -587,6 +587,7 @@ See: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/check
 
 A valid/relevant **question** is: 
 what makes the @dwyl App unique?
+
 i.e. What is our
 ["unique selling point"](https://en.wikipedia.org/wiki/Unique_selling_proposition)?<br />
 The **answer** is: 
@@ -633,7 +634,7 @@ by implementing a UX/UI innovation we call Progressive UI.
 will be _personalised_ to the individual
 based on the features they (_most_) _use_.
 If the person does not _use_ a particular function, they won't _see_ it.
-> Note: This is might not feel relevant during "MVP",
+> Note: This might not feel relevant during "MVP",
 but it will be an _amazing_ feature once our app has _lots_ of functionality.
 
 4. **Best-in-Class Engineering Practices** -
@@ -699,9 +700,10 @@ by "XYZ Company" ...
 _problem_ that benefits all of humanity.
 + does **not _want_ to _learn_** the skills required
 to build something meaningful.
-
-
-<br />
+<!-- 
++ is not prepared to
+["_**work hard every waking hour**_"](https://youtu.be/liJbB_0eCTo?t=26)
+-->
 
 ## When?
 
@@ -714,7 +716,8 @@ there are _so many_ useful features we want to build.
 _**Get involved today** and **help us prioritize**
 which **features** get built **next**_!
 
-## How?
+
+## _How_?
 
 If you want to get involved in helping us with the App,
 there are 4 ways to help:
@@ -724,7 +727,7 @@ there are 4 ways to help:
 2. Give us ***feedback*** on the **_existing_ UX**
 `[insert feedback link here!]`
 3. **Read** the
-[issues](https://github.com/dwyl/time/issues?q=label%3A%22help+wanted%22+is%3Aissue+is%3Aopen)
+[issues](https://github.com/dwyl/app/issues?q=label%3A%22help+wanted%22+is%3Aissue+is%3Aopen)
 and help us answer questions if you can.
 4. Write some **`code`**!
 See: https://github.com/dwyl/technology-stack
@@ -732,18 +735,19 @@ See: https://github.com/dwyl/technology-stack
 
 ### Tech & Features Roadmap
 
-
 This list _will_ evolve over time. <br />
+and check them off this list as we go
 We will insert links to specific features
-and check them off this list as we go.
 
 #### MVP Basic Workflow
 
 + [ ] Mobile First UI/UX to **Capture** **`plaintext`**
-+ [ ] Save **`plaintext`** data to Phoenix backend
+  Our _reasoning_ for mobile-first is that
++ [x] Save **`plaintext`** data to Phoenix backend
+  see: [dwyl/app/milestone/2](https://github.com/dwyl/app/milestone/2?closed=1)
 + [ ] Simple UX to **Categorise** (Transform)
 the **`plaintext`** into actionable items. <br />
-UI/UX **`help wanted`**: https://github.com/dwyl/product-roadmap/issues/15
+UI/UX **`help wanted`**: https://github.com/dwyl/app/issues/235
 + [ ] Start working on task (_start timer for item_)
 see: https://github.com/nelsonic/time-mvp-phoenix#create-schemas
 + [ ] Check a task off as done.
@@ -757,12 +761,16 @@ we will do a backlog grooming session to discuss the features/ideas list:
 #### Offline Support
 
 + [ ] Create Progressive Web App using Elm.
-see:
+see: [dwyl/learn-elm#54](https://github.com/dwyl/learn-elm/issues/54)
+and [dwyl/app#254](https://github.com/dwyl/app/issues/254)
 + [ ] Save data on device if offline.
 
 #### Image Capture
 
+
+
 + [ ] Capture (_upload_) images from mobile+web
+
 + [ ] Categorise (_tag_) the images for
 [findability](https://en.wikipedia.org/wiki/Findability).
 
@@ -773,6 +781,14 @@ see:
   + [ ] Associate person record with GitHub username + token.
 + [ ] Associate **`items`** with **`person`**
 
+
+### Audit Logging and Record History
+
++ [ ] We need a way of preserving the history of certain records.
+Phoenix does not offer this by default.
+The Phoenix "CRUD" _overwrites_ records and **`deletes`** data _permanently_,
+this is undesirable if a person ever wants to _undo_ an action.
+See: https://github.com/dwyl/postgres-history-spike/issues/1
 
 
 <!--
@@ -799,7 +815,7 @@ and be _frugal_ with bandwidth.
     + https://github.com/dwyl/learn-progressive-web-apps
   + [ ] iOS Native App for iDevices (Non-PWA)
 
-  + [ ] Apple Watch UI - while apple watch is _definately **not**_
+  + [ ] Apple Watch UI - while apple watch is _definitely **not**_
   the platform we want to "_win_" the "_wearable tech_"
     + https://github.com/dwyl/learn-apple-watch-development
 
