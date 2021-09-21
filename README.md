@@ -401,7 +401,7 @@ so that they can think clearly (_without a cluttered mind_) and prioritise. 📝
   
   > Capturing text (_and later voice memos and images_) as "items" 
   which can then be categorised/organised using tags 
-  is the most intiuitive and versatile way of storing data.
+  is the most intuitive and versatile way of storing data.
   We only need _one_ field or data type (`text`).
   We can then apply `tags` to an `item` to make it into _anything_ else.
   And then the UI renders the item with the appropriate UX 
