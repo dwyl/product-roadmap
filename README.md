@@ -537,7 +537,7 @@ in a "brain dump" of one or more `items` of text.
 For the first step (***Capture***),
 we will build an ultra-simple interface
 to allow people to
-input **`palintext`**
+input **`plaintext`**
 and save it to a backend as **`text`**
 in one ore more **`items`**.
 
