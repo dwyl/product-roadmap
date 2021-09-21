@@ -207,7 +207,7 @@ the following words:
 ## "_I don't have enough time to_..."
 
 How many times have you heard 
-a friend, family member or work colleage 
+a friend, family member or work colleague 
 say these words?
 
 > "I don't have enough time to:" <br />
