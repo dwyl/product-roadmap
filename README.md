@@ -953,7 +953,7 @@ because it's too "grandiose" at this stage.
 Instead, that part of our long-term vision
 is summarised as "API". 
 Having a REST+Realtime API will allow
-anone to inteact with their data 
+anyone to interact with their data 
 and build their own UI/UX.
 Building a _Platform_ will allow
 any developer/team to build entire features
