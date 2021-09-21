@@ -479,7 +479,7 @@ we feel the App becomes _exponentially_ more useful/powerful in _teams_.
 ### 2. Small _Team_ Experience -> [_Co-op Mode_](https://en.wikipedia.org/wiki/Cooperative_gameplay)
  
 
-We feel that our App will be _incredibly_ 
+We feel that our App will be _incredibly_ helpful
 to small "teams" of people who need to collaborate on getting things done.
 Small teams will not be limited to "work" colleagues.
 Rather we will have personas for families, groups of friends and other associations. 
