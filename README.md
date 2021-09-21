@@ -539,7 +539,7 @@ we will build an ultra-simple interface
 to allow people to
 input **`plaintext`**
 and save it to a backend as **`text`**
-in one ore more **`items`**.
+in one or more **`items`**.
 
 For details, please see:
 [`brain-dump.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
