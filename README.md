@@ -332,7 +332,7 @@ The average person without a systematic approach doesn't stand a _chance_!
 
 
 The ***system*** we are building
-is desgined to help ourselves and others 
+is designed to help ourselves and others 
 move towards our
 (life/health/fitness/career/etc.) 
 goals is what we are building.
