@@ -861,7 +861,7 @@ we don't refer to it as
 
 ## _Public_?
 
-From a "commercial" perspective making our
+From a "commercial" perspective, making our
 Product Roadmap `public` _can_ be viewed as
 "_**giving away** all our **secrets**_" by those who follow
 _traditional_ (_competition-focussed_) _capitalism_.
