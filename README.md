@@ -426,7 +426,7 @@ e.g:
   to have goals defined for each area of a person's life. 
   We will have an on-boarding questionnaire to guide them, 
   a visualisation of "progress" toward each one of the goals 
-  and reminder to review them regularly. 
+  and reminders to review them regularly. 
   All features to be added to the backlog and worked on in due course! 
   For now, we need the basic
   [**Personas**](https://github.com/dwyl/app/issues/213)
