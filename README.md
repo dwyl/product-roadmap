@@ -932,7 +932,7 @@ share the "Vision" for what we are building.
 No map is a _complete_ representation of the world;
 it's just a "model" that allows us to think about it.
 When you open Google Maps on your phone
-it does not show you all the street lights and advertising bilboards.
+it does not show you all the street lights and advertising billboards.
 It's the same thing with a Software Product Roadmap.
 Including _everything_ would be totally overwhelming to the reader.
 
