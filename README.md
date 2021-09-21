@@ -72,7 +72,7 @@ such as:
 "Reminder", 
 "Calendar" (_Meeting, Date, Event, Travel, etc._), 
 "Ingredient" (Shopping list `item`), etc. 
-We want _complete_ versaility in the `tags` that can be appplied to items
+We want _complete_ versatility in the `tags` that can be applied to items
 so that our App can be used for _any_ purpose that helps people organise their lives.
 
 5. ***Track*** tasks and goal **progress _visually_**.
