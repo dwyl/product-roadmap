@@ -311,7 +311,7 @@ our App will _still_ be able to help!
 TODO: Create Persona for this person: https://github.com/dwyl/app/issues/213
 -->
 
-The _reason_ most people are _innefective_ at focussing
+The _reason_ most people are _ineffective_ at focussing
 on tasks that move them toward a specific goal
 is that they don't have adequate _systems_
 for focussing on what matters 
