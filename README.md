@@ -43,7 +43,7 @@ Thanks! ✨ <br />
 ## _Why_ Are We Building An _App_?
 
 If there was an _existing_ 
-(Open Source Cross-platform Real-time Collabroative) 
+(Open Source Cross-platform Real-time Collaborative) 
 system 
 that allowed us to achieve _everything_ we have in mind for the dwyl App,
 we would _use_ it without hesitation.
