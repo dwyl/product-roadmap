@@ -263,7 +263,7 @@ about our time-management - _**self**_
 and **don't** actually **_help_** us **move _forward_**!
 In the case of the one mentioning Beyonce, it's an outright _lie_.
 **Queen Bey** has an _army_ of people helping her get the most out of her day.
-The rest of us don't have personal assitants and entourages of people
+The rest of us don't have personal assistants and entourages of people
 to help us maximise our time. 
 The rest of us need a _system_!
 <!--
