@@ -405,7 +405,7 @@ so that they can think clearly (_without a cluttered mind_) and prioritise. 📝
   We only need _one_ field or data type (`text`).
   We can then apply `tags` to an `item` to make it into _anything_ else.
   And then the UI renders the item with the appropriate UX 
-  for an `item` with the `tag` `"task"`, display a checkbox next to it.
+  for an `item` with the `tag` `"task"`, displaying a checkbox next to it.
 
 + define **individual goals** so they can be more systematic about achieving them. 
 e.g:
