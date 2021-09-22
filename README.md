@@ -77,7 +77,7 @@ so that our App can be used for _any_ purpose that helps people organise their l
 
 5. **Track** tasks and goal progress **_visually_**.
 
-6. ***Communicate*** with others what task we are focussing on
+6. **Communicate** with others what task we are focussing on
 so we can all avoid interrupting/distracting each other during 
 ["Deep Work"](https://www.calnewport.com/books/deep-work)
 Avoiding the "what you doing" type questions,
