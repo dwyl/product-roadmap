@@ -75,7 +75,7 @@ such as:
 We want _complete_ versatility in the `tags` that can be applied to items
 so that our App can be used for _any_ purpose that helps people organise their lives.
 
-5. ***Track*** tasks and goal **progress _visually_**.
+5. **Track** tasks and goal progress **_visually_**.
 
 6. ***Communicate*** with others what task we are focussing on
 so we can all avoid interrupting/distracting each other during 
