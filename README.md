@@ -83,7 +83,7 @@ so we can all avoid interrupting/distracting each other during
 Avoiding the "what you doing" type questions,
 or general interruptions is essential for focus work.
 
-7. ***Delegate*** specific tasks 
+7. **Delegate** specific tasks 
 to people in one's family/team/org
 with built-in tracking to _eliminate_
 ["status update requests"](https://en.wikipedia.org/wiki/Busy_work)
