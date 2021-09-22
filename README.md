@@ -672,7 +672,7 @@ but we will draw inspiration from _many_ sources.
 
 
 
-## _Who_?
+# _Who_?
 
 Who is this product roadmap intended for?
 
@@ -705,7 +705,7 @@ to build something meaningful.
 ["_**work hard every waking hour**_"](https://youtu.be/liJbB_0eCTo?t=26)
 -->
 
-## When?
+# _When_?
 
 We started a laying the groundwork for
 building the dwyl app _while_ ago ... <br />
@@ -717,7 +717,7 @@ _**Get involved today** and **help us prioritize**
 which **features** get built **next**_!
 
 
-## _How_?
+# How?
 
 If you want to get involved in helping us with the App,
 there are 4 ways to help:
