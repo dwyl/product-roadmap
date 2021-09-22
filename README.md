@@ -493,7 +493,7 @@ If there is a feature you don't see and want to help us describe,
 please open an issue!
 
 
-## 3. Big Company/Org Experience -> [_MMORPG_](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game)!
+### 3. Big Company/Org Experience -> [_MMORPG_](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game)!
 
 There is no reason why a "Big" company or organisation cannot use the dwyl App.
 But this is not our focus right now. 
