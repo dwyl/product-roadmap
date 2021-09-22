@@ -191,7 +191,7 @@ but it will be an _amazing_ feature once our app has _lots_ of functionality.
 Focus on high quality software product
 with best-in-class engineering practices.
 We are building a robust and reliable app
-with a focus end-to-end testing to ensure a consistent UX
+with a focus on end-to-end testing to ensure a consistent UX
 on as many devices as possible.
 There shouldn't be any surprises or inconsistent UX (_bugs_),
 and if there are, they can be reported and fixed _fast_.
