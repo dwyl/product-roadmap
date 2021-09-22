@@ -592,7 +592,7 @@ i.e. What is our
 ["unique selling point"](https://en.wikipedia.org/wiki/Unique_selling_proposition)?<br />
 The **answer** is: 
 _initially_ it may _appear_ that our App
-does not have much different
+does not differ much
 from existing apps that _partially_ solve 
 the personal effectiveness challenge.
 
