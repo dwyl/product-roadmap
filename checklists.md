@@ -56,7 +56,7 @@ https://www.npr.org/templates/story/story.php?storyId=122226184 <br />
 [Shane Parrish](https://fs.blog/2014/02/the-checklist-manifesto),
 [Malcolm Gladwell](http://atulgawande.com/book/the-checklist-manifesto),
 [Vinod Khosla](https://twitter.com/vkhosla/status/222469073806700544),
-[Bill Gates](https://www.gatesnotes.com/Books/Checklist-Manifesto), etc.
+[Bill Gates](https://www.analogue.network/book/the-checklist-manifesto-wp3t87?u=billgates)
 
 The book details how checklists were developed independently in
 several industries:
@@ -113,15 +113,15 @@ The BBC News article is not very long, this is the _full_ text:
 
 > Deaths after surgery in Scotland have dropped by more than a third,
 research suggests.
-> A study indicated a 37% decrease since 2008,
+A study indicated a 37% decrease since 2008,
 which it attributed to the implementation of a safety checklist.
-<br />
-> The 19-item list - which was created by the World Health Organization - is supposed to encourage teamwork and communication during operations. <br />
-> The death rate fell to 0.46 per 100 procedures between 2000 and 2014, analysis of 6.8m operations showed. <br />
-> Dr Atul Gawande, who introduced the checklist and co-authored the study, published in the British Journal of Surgery, said: "Scotland's health system is to be congratulated for a multi-year effort that has produced some of the largest population-wide reductions in surgical deaths ever documented." <br />
-> Prof Jason Leitch, NHS Scotland's national clinical director, added: "This is a significant study which highlights the reduction in surgical mortality over the last decade. <br />
-> "While there are a number of factors that have contributed to this, it is clear from the research that the introduction of the WHO Surgical Safety Checklist in 2008 has played a key role."
-> The BBC Article is a very similar to:
+The 19-item list - which was created by the World Health Organization - is supposed to encourage teamwork and communication during operations.
+The death rate fell to 0.46 per 100 procedures between 2000 and 2014, analysis of 6.8m operations showed. <br />
+Dr Atul Gawande, who introduced the checklist and co-authored the study, published in the British Journal of Surgery, said: "Scotland's health system is to be congratulated for a multi-year effort that has produced some of the largest population-wide reductions in surgical deaths ever documented."
+Prof Jason Leitch, NHS Scotland's national clinical director, added: "This is a significant study which highlights the reduction in surgical mortality over the last decade.
+"While there are a number of factors that have contributed to this, it is clear from the research that the introduction of the WHO Surgical Safety Checklist in 2008 has played a key role."
+
+The BBC Article is a very similar to:
 https://www.eurekalert.org/pub_releases/2019-04/w-hda041719.php
 <!--
 ![surgical-mortality-checklist](https://user-images.githubusercontent.com/194400/56961132-d661db00-6b4a-11e9-8832-9416c5dcf848.png) -->
@@ -202,16 +202,16 @@ more widespread in more areas of life and society.
 
 
 A good checklist is:
-+ Practical -
++ Practical
 + Concise - focus on the important parts of the task
-+ Speedy - it should not add "overhead" to the task/activity.
++ Speedy - it should not add "overhead" to the task/activity
 + 5–9 items (_though they can be longer when necessary,
   see WHO checklist below_)
-+ 1 page max -
++ 1 page max
 + A clear "Pause Point" where you stop during the completion
-+ _Supplement_ existing knowledge and expertise not _replace_ it.
++ _Supplement_ existing knowledge and expertise not _replace_ it
 + Uses Upper- & Lowercase
-+ _Field-Tested_ in the real world, not theoretical.
++ _Field-Tested_ in the real world, not theoretical
 
 
 
