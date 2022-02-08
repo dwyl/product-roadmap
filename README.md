@@ -158,7 +158,6 @@ is to:
 ## _Empower people to maximise effectiveness, creativity and happiness._
 
 
-Few people know more about effectiveness 
 than life coach and motivational speaker 
 [Tony Robbins](https://en.wikipedia.org/wiki/Tony_Robbins). <br />
 Although Tony Robbins is a somewhat polarising character, we unreservedly agree with this thought:
