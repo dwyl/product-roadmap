@@ -158,7 +158,6 @@ is to:
 ## _Empower people to maximise effectiveness, creativity and happiness._
 
 
-[Tony Robbins](https://en.wikipedia.org/wiki/Tony_Robbins). <br />
 Although Tony Robbins is a somewhat polarising character, we unreservedly agree with this thought:
 
 ## "_The secret to happiness is one word: progress. <br />Progress equals happiness._" [Tony Robbins](https://www.cnbc.com/2017/10/06/tony-robbins-this-is-the-secret-to-happiness-in-one-word.html)
