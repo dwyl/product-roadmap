@@ -161,7 +161,7 @@ is to:
 Few people know more about effectiveness 
 than life coach and motivational speaker 
 [Tony Robbins](https://en.wikipedia.org/wiki/Tony_Robbins). <br />
-A quote of his that guides us in our mission is:
+Although Tony Robbins is a somewhat polarising character, we unreservedly agree with this thought:
 
 ## "_The secret to happiness is one word: progress. <br />Progress equals happiness._" [Tony Robbins](https://www.cnbc.com/2017/10/06/tony-robbins-this-is-the-secret-to-happiness-in-one-word.html)
 
