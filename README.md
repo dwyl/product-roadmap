@@ -336,7 +336,7 @@ move towards our
 (life/health/fitness/career/etc.) 
 goals.
 We haven't found a catchy one-line phrase
-to summarise the ***system*** we are building. ([`#HelpWanted`]())
+to summarise it yet. ([`#HelpWanted`]())
 Instead we can describe the App as a means 
 to answer the following **10 questions**:
 
