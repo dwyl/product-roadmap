@@ -110,7 +110,7 @@ and easily hide/show the rest when needed.
 We want to apply both the science and art of distraction-free focus
 we have read about in books such as 
 "Deep Work",
-"Indestractable", 
+"Indistractable", 
 "Digital Minimalism",
 "Make Time",
 "Tools of Titans",
