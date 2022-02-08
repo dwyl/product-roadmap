@@ -334,7 +334,7 @@ The ***system*** we are building
 is designed to help ourselves and others 
 move towards our
 (life/health/fitness/career/etc.) 
-goals is what we are building.
+goals.
 We haven't found a catchy one-line phrase
 to summarise the ***system*** we are building. ([`#HelpWanted`]())
 Instead we can describe the App as a means 
