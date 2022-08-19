@@ -25,7 +25,7 @@
   - [3 Stages of Our Roadmap](#3-stages-of-our-roadmap)
     - [1. _Individual_ Person Experience -> _Single Player_](#1-individual-person-experience---single-player)
     - [2. Small _Team_ Experience -> _Co-op Mode_](#2-small-team-experience---co-op-mode)
-  - [3. Big Company/Org Experience -> _MMORPG_!](#3-big-companyorg-experience---mmorpg)
+    - [3. Big Company/Org Experience -> _MMORPG_!](#3-big-companyorg-experience---mmorpg)
   - [Basic Workflow](#basic-workflow)
     - [USP: What is _different_ about the @dwyl App?](#usp-what-is-different-about-the-dwyl-app)
       - [Familiar UX?](#familiar-ux)
@@ -38,6 +38,7 @@
       - [Offline Support](#offline-support)
       - [Image Capture](#image-capture)
       - [Authentication](#authentication)
+    - [Audit Logging and Record History](#audit-logging-and-record-history)
   - [Why Open Source?](#why-open-source)
   - [_Public_?](#public)
     - [Why Do So _Few_ Companies Make Their "Road Map" Public?](#why-do-so-few-companies-make-their-road-map-public)
@@ -756,14 +757,10 @@ to build something meaningful.
 ["_**work hard every waking hour**_"](https://youtu.be/liJbB_0eCTo?t=26)
 -->
 
-<<<<<<< HEAD
 
 <br />
 
 # When?
-=======
-# _When_?
->>>>>>> c3493258d0355ba2cb04d4ed61052483f49d5f8b
 
 We started a laying the groundwork for
 building the dwyl app _while_ ago ... <br />
@@ -774,10 +771,6 @@ there are _so many_ useful features we want to build.
 _**Get involved today** and **help us prioritize**
 which **features** get built **next**_!
 
-<<<<<<< HEAD
-=======
-
->>>>>>> c3493258d0355ba2cb04d4ed61052483f49d5f8b
 # How?
 
 If you want to get involved in helping us with the App,
@@ -786,13 +779,8 @@ there are 4 ways to help:
 1. **Please Use** the **_Beta_ App**: 
 [**`mvp.fly.dev`**](https://mvp.fly.dev/)
 2. Give us ***feedback*** on the **_existing_ UX**
-<<<<<<< HEAD
 [**`dwyl/mvp/issues`**](https://github.com/dwyl/mvp/issues)
 1. **Read** the
-=======
-`[insert feedback link here!]`
-3. **Read** the
->>>>>>> c3493258d0355ba2cb04d4ed61052483f49d5f8b
 [issues](https://github.com/dwyl/app/issues?q=label%3A%22help+wanted%22+is%3Aissue+is%3Aopen)
 and help us answer questions if you can.
 4. Write some **`code`**!
