@@ -80,7 +80,7 @@ Thanks! ✨ <br />
 ## _Why_ Are We Building An _App_?
 
 If there was an _existing_ 
-(Open Source Cross-platform Real-time Collabroative) 
+(Open Source Cross-platform Real-time Collaborative) 
 system 
 that allowed us to achieve _everything_ we have in mind for the dwyl App,
 we would _use_ it without hesitation.
@@ -109,18 +109,18 @@ such as:
 "Reminder", 
 "Calendar" (_Meeting, Date, Event, Travel, etc._), 
 "Ingredient" (Shopping list `item`), etc. 
-We want _complete_ versaility in the `tags` that can be appplied to items
+We want _complete_ versatility in the `tags` that can be applied to items
 so that our App can be used for _any_ purpose that helps people organise their lives.
 
-5. ***Track*** tasks and goal **progress _visually_**.
+5. **Track** tasks and goal progress **_visually_**.
 
-6. ***Communicate*** with others what task we are focussing on
+6. **Communicate** with others what task we are focussing on
 so we can all avoid interrupting/distracting each other during 
 ["Deep Work"](https://www.calnewport.com/books/deep-work)
 Avoiding the "what you doing" type questions,
 or general interruptions is essential for focus work.
 
-7. ***Delegate*** specific tasks 
+7. **Delegate** specific tasks 
 to people in one's family/team/org
 with built-in tracking to _eliminate_
 ["status update requests"](https://en.wikipedia.org/wiki/Busy_work)
@@ -147,7 +147,7 @@ and easily hide/show the rest when needed.
 We want to apply both the science and art of distraction-free focus
 we have read about in books such as 
 "Deep Work",
-"Indestractable", 
+"Indistractable", 
 "Digital Minimalism",
 "Make Time",
 "Tools of Titans",
@@ -195,10 +195,7 @@ is to:
 ## _Empower people to maximise effectiveness, creativity and happiness._
 
 
-Few people know more about effectiveness 
-than life coach and motivational speaker 
-[Tony Robbins](https://en.wikipedia.org/wiki/Tony_Robbins). <br />
-A quote of his that guides us in our mission is:
+Although Tony Robbins is a somewhat polarising character, we unreservedly agree with this thought:
 
 ## "_The secret to happiness is one word: progress. <br />Progress equals happiness._" [Tony Robbins](https://www.cnbc.com/2017/10/06/tony-robbins-this-is-the-secret-to-happiness-in-one-word.html)
 
@@ -262,7 +259,7 @@ the following words:
 ## "_I don't have enough time to_..."
 
 How many times have you heard 
-a friend, family member or work colleage 
+a friend, family member or work colleague 
 say these words?
 
 > "I don't have enough time to:" <br />
@@ -316,9 +313,8 @@ is that they can make us **feel _worse_**
 about our time-management - _**self**_ 
 "**productivity** [***shaming***](https://en.wikipedia.org/wiki/Shame)" -
 and **don't** actually **_help_** us **move _forward_**!
-In the case of the one mentioning Beyonce, it's an outright _lie_.
 **Queen Bey** has an _army_ of people helping her get the most out of her day.
-The rest of us don't have personal assitants and entourages of people
+The rest of us don't have personal assistants and entourages of people
 to help us maximise our time. 
 The rest of us need a _system_!
 <!--
@@ -366,7 +362,7 @@ our App will _still_ be able to help!
 TODO: Create Persona for this person: https://github.com/dwyl/app/issues/213
 -->
 
-The _reason_ most people are _innefective_ at focussing
+The _reason_ most people are _ineffective_ at focussing
 on tasks that move them toward a specific goal
 is that they don't have adequate _systems_
 for focussing on what matters 
@@ -387,12 +383,12 @@ The average person without a systematic approach doesn't stand a _chance_!
 
 
 The ***system*** we are building
-is desgined to help ourselves and others 
+is designed to help ourselves and others 
 move towards our
 (life/health/fitness/career/etc.) 
-goals is what we are building.
+goals.
 We haven't found a catchy one-line phrase
-to summarise the ***system*** we are building. ([`#HelpWanted`]())
+to summarise it yet. ([`#HelpWanted`]())
 Instead we can describe the App as a means 
 to answer the following **10 questions**:
 
@@ -456,11 +452,11 @@ so that they can think clearly (_without a cluttered mind_) and prioritise. 📝
   
   > Capturing text (_and later voice memos and images_) as "items" 
   which can then be categorised/organised using tags 
-  is the most intiuitive and versatile way of storing data.
+  is the most intuitive and versatile way of storing data.
   We only need _one_ field or data type (`text`).
   We can then apply `tags` to an `item` to make it into _anything_ else.
   And then the UI renders the item with the appropriate UX 
-  for an `item` with the `tag` `"task"`, display a checkbox next to it.
+  for an `item` with the `tag` `"task"`, displaying a checkbox next to it.
 
 + define **individual goals** so they can be more systematic about achieving them. 
 e.g:
@@ -481,7 +477,7 @@ e.g:
   to have goals defined for each area of a person's life. 
   We will have an on-boarding questionnaire to guide them, 
   a visualisation of "progress" toward each one of the goals 
-  and reminder to review them regularly. 
+  and reminders to review them regularly. 
   All features to be added to the backlog and worked on in due course! 
   For now, we need the basic
   [**Personas**](https://github.com/dwyl/app/issues/213)
@@ -534,7 +530,7 @@ we feel the App becomes _exponentially_ more useful/powerful in _teams_.
 ### 2. Small _Team_ Experience -> [_Co-op Mode_](https://en.wikipedia.org/wiki/Cooperative_gameplay)
  
 
-We feel that our App will be _incredibly_ 
+We feel that our App will be _incredibly_ helpful
 to small "teams" of people who need to collaborate on getting things done.
 Small teams will not be limited to "work" colleagues.
 Rather we will have personas for families, groups of friends and other associations. 
@@ -548,7 +544,7 @@ If there is a feature you don't see and want to help us describe,
 please open an issue!
 
 
-## 3. Big Company/Org Experience -> [_MMORPG_](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game)!
+### 3. Big Company/Org Experience -> [_MMORPG_](https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game)!
 
 There is no reason why a "Big" company or organisation cannot use the dwyl App.
 But this is not our focus right now. 
@@ -592,9 +588,10 @@ in a "brain dump" of one or more `items` of text.
 For the first step (***Capture***),
 we will build an ultra-simple interface
 to allow people to
-input **`palintext`**
+input **`plaintext`**
 and save it to a backend as **`text`**
-in one ore more **`items`**.
+in one or more **`items`**.
+
 For details, please see:
 [`brain-dump.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
 
@@ -605,7 +602,7 @@ in response to feedback from people _using_ the MVP. <br />
 We will add additional methods
 to help people "capture" information.
 e.g:
-+ Linking to external sources of information.
++ Linking to external sources of information
 + Photo/image uploads
   + Optical Character Recognition (OCR)
   + Image/object recognition
@@ -627,13 +624,12 @@ we will need a tagging system that allows people
 to apply textual labels to items.
 The UX for this is still "TBD".
 We will need to sketch it out ahead of sprint planning.
-See: https://github.com/dwyl/product-roadmap/issues/15
+See: https://github.com/dwyl/app/issues/235
 
 
 And finally for the _third_ step, ***Complete***,
 we will build a simple checklist system.
 See: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/checklists.md)
-
 
 <br />
 
@@ -642,11 +638,12 @@ See: [`checklists.md`](https://github.com/dwyl/product-roadmap/blob/master/check
 
 A valid/relevant **question** is: 
 what makes the @dwyl App unique?
+
 i.e. What is our
 ["unique selling point"](https://en.wikipedia.org/wiki/Unique_selling_proposition)?<br />
 The **answer** is: 
 _initially_ it may _appear_ that our App
-does not have much different
+does not differ much
 from existing apps that _partially_ solve 
 the personal effectiveness challenge.
 
@@ -688,14 +685,14 @@ by implementing a UX/UI innovation we call Progressive UI.
 will be _personalised_ to the individual
 based on the features they (_most_) _use_.
 If the person does not _use_ a particular function, they won't _see_ it.
-> Note: This is might not feel relevant during "MVP",
+> Note: This might not feel relevant during "MVP",
 but it will be an _amazing_ feature once our app has _lots_ of functionality.
 
 4. **Best-in-Class Engineering Practices** -
 Focus on high quality software product
 with best-in-class engineering practices.
 We are building a robust and reliable app
-with a focus end-to-end testing to ensure a consistent UX
+with a focus on end-to-end testing to ensure a consistent UX
 on as many devices as possible.
 There shouldn't be any surprises or inconsistent UX (_bugs_),
 and if there are, they can be reported and fixed _fast_.
@@ -754,11 +751,19 @@ by "XYZ Company" ...
 _problem_ that benefits all of humanity.
 + does **not _want_ to _learn_** the skills required
 to build something meaningful.
+<!-- 
++ is not prepared to
+["_**work hard every waking hour**_"](https://youtu.be/liJbB_0eCTo?t=26)
+-->
 
+<<<<<<< HEAD
 
 <br />
 
 # When?
+=======
+# _When_?
+>>>>>>> c3493258d0355ba2cb04d4ed61052483f49d5f8b
 
 We started a laying the groundwork for
 building the dwyl app _while_ ago ... <br />
@@ -769,6 +774,10 @@ there are _so many_ useful features we want to build.
 _**Get involved today** and **help us prioritize**
 which **features** get built **next**_!
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c3493258d0355ba2cb04d4ed61052483f49d5f8b
 # How?
 
 If you want to get involved in helping us with the App,
@@ -777,8 +786,13 @@ there are 4 ways to help:
 1. **Please Use** the **_Beta_ App**: 
 [**`mvp.fly.dev`**](https://mvp.fly.dev/)
 2. Give us ***feedback*** on the **_existing_ UX**
+<<<<<<< HEAD
 [**`dwyl/mvp/issues`**](https://github.com/dwyl/mvp/issues)
 1. **Read** the
+=======
+`[insert feedback link here!]`
+3. **Read** the
+>>>>>>> c3493258d0355ba2cb04d4ed61052483f49d5f8b
 [issues](https://github.com/dwyl/app/issues?q=label%3A%22help+wanted%22+is%3Aissue+is%3Aopen)
 and help us answer questions if you can.
 4. Write some **`code`**!
@@ -787,18 +801,19 @@ See: https://github.com/dwyl/technology-stack
 
 ### Tech & Features Roadmap
 
-
 This list _will_ evolve over time. <br />
+and check them off this list as we go
 We will insert links to specific features
-and check them off this list as we go.
 
 #### MVP Basic Workflow
 
 + [ ] Mobile First UI/UX to **Capture** **`plaintext`**
-+ [ ] Save **`plaintext`** data to Phoenix backend
+  Our _reasoning_ for mobile-first is that
++ [x] Save **`plaintext`** data to Phoenix backend
+  see: [dwyl/app/milestone/2](https://github.com/dwyl/app/milestone/2?closed=1)
 + [ ] Simple UX to **Categorise** (Transform)
 the **`plaintext`** into actionable items. <br />
-UI/UX **`help wanted`**: https://github.com/dwyl/product-roadmap/issues/15
+UI/UX **`help wanted`**: https://github.com/dwyl/app/issues/235
 + [ ] Start working on task (_start timer for item_)
 see: https://github.com/nelsonic/time-mvp-phoenix#create-schemas
 + [ ] Check a task off as done.
@@ -812,12 +827,16 @@ we will do a backlog grooming session to discuss the features/ideas list:
 #### Offline Support
 
 + [ ] Create Progressive Web App using Elm.
-see:
+see: [dwyl/learn-elm#54](https://github.com/dwyl/learn-elm/issues/54)
+and [dwyl/app#254](https://github.com/dwyl/app/issues/254)
 + [ ] Save data on device if offline.
 
 #### Image Capture
 
+
+
 + [ ] Capture (_upload_) images from mobile+web
+
 + [ ] Categorise (_tag_) the images for
 [findability](https://en.wikipedia.org/wiki/Findability).
 
@@ -828,6 +847,14 @@ see:
   + [ ] Associate person record with GitHub username + token.
 + [ ] Associate **`items`** with **`person`**
 
+
+### Audit Logging and Record History
+
++ [ ] We need a way of preserving the history of certain records.
+Phoenix does not offer this by default.
+The Phoenix "CRUD" _overwrites_ records and **`deletes`** data _permanently_,
+this is undesirable if a person ever wants to _undo_ an action.
+See: https://github.com/dwyl/postgres-history-spike/issues/1
 
 
 <!--
@@ -854,7 +881,7 @@ and be _frugal_ with bandwidth.
     + https://github.com/dwyl/learn-progressive-web-apps
   + [ ] iOS Native App for iDevices (Non-PWA)
 
-  + [ ] Apple Watch UI - while apple watch is _definately **not**_
+  + [ ] Apple Watch UI - while apple watch is _definitely **not**_
   the platform we want to "_win_" the "_wearable tech_"
     + https://github.com/dwyl/learn-apple-watch-development
 
@@ -900,7 +927,7 @@ we don't refer to it as
 
 ## _Public_?
 
-From a "commercial" perspective making our
+From a "commercial" perspective, making our
 Product Roadmap `public` _can_ be viewed as
 "_**giving away** all our **secrets**_" by those who follow
 _traditional_ (_competition-focussed_) _capitalism_.
@@ -971,7 +998,7 @@ share the "Vision" for what we are building.
 No map is a _complete_ representation of the world;
 it's just a "model" that allows us to think about it.
 When you open Google Maps on your phone
-it does not show you all the street lights and advertising bilboards.
+it does not show you all the street lights and advertising billboards.
 It's the same thing with a Software Product Roadmap.
 Including _everything_ would be totally overwhelming to the reader.
 
@@ -992,7 +1019,7 @@ because it's too "grandiose" at this stage.
 Instead, that part of our long-term vision
 is summarised as "API". 
 Having a REST+Realtime API will allow
-anone to inteact with their data 
+anyone to interact with their data 
 and build their own UI/UX.
 Building a _Platform_ will allow
 any developer/team to build entire features
