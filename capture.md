@@ -1,16 +1,18 @@
+<div align="center">
+
 # _Capture_
 
 The **_first_ step** in creating
-a **system** of for personal effectiveness
+a **system** of for **personal effectiveness**
 is to help people ***capture***
 _everything_ on their mind. <br />
 Emptying one's mind (_specifically working memory_)
-of everything that is occupying space and processing power
+of everything that is occupying space and processing power <br />
 is _essential_ for gaining focus
 on the _one_ most important priority.
 This step is often referred to as a "brain dump".
 
-<div align="center">
+
     <a href="https://github.com/dwyl/product-roadmap/issues/12">
         <img src="https://user-images.githubusercontent.com/194400/68108635-3497be00-fee0-11e9-83f0-6a56ecc99623.jpg" width="500">
     </a>
@@ -20,19 +22,19 @@ we definitely need a better one. If you want to help with this,
 please open an issue: github.com/dwyl/product-roadmap/issues/new -->
 
 
-> A brain dump is the act of writing down everything
-that is on your mind so that you don't forget it
+> A **brain dump** is the act of **writing down _everything_**
+that is **on your mind** so that you **don't forget** it
 and to clear your brain to **focus** on **one thing**
 instead of being distracted by many things.
-https://anniemueller.com/brain-dump-noun-1
+[anniemueller.com/brain-dump](https://anniemueller.com/brain-dump-noun-1)
 
 ## Free Text Input
 
 The first feature we need to build
 is a way of capturing all thoughts
-on one's mind.
+on one's mind. <br />
 Thankfully this is just a matter
-of capturing free text (_using a **`textarea`** element_)
+of capturing free text (_using a **`textarea`** element_) <br />
 and safely storing it as **`text`** in Postgres.
 
 Figma wireframe: https://www.figma.com/proto/WrpkKGJNYZbeCzMRDVtvQLbC/dwyl-app
@@ -40,7 +42,8 @@ Figma wireframe: https://www.figma.com/proto/WrpkKGJNYZbeCzMRDVtvQLbC/dwyl-app
 ![capture-plaintext](https://user-images.githubusercontent.com/194400/68241788-3c05b700-0007-11ea-941b-0fd58962ad03.png)
 
 We can/will evolve this text input
-to have autocompletion and natural language processing
+to have rich text (formatting),
+autocompletion and natural language processing
 (_to detect the kinds of items being typed_).
 First we need to have an ultra-basic MVP working.
 

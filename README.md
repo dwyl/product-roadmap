@@ -7,6 +7,43 @@
 </div>
 <br />
 
+- [Product Roadmap](#product-roadmap)
+- [_Why_? 🤷‍♀️](#why-️)
+  - [_Why_ Are We Building An _App_?](#why-are-we-building-an-app)
+- [_What_?](#what)
+  - [_Empower people to maximise effectiveness, creativity and happiness._](#empower-people-to-maximise-effectiveness-creativity-and-happiness)
+  - ["_The secret to happiness is one word: progress. <br />Progress equals happiness._" Tony Robbins](#the-secret-to-happiness-is-one-word-progress-progress-equals-happiness-tony-robbins)
+  - ["_Happiness is not something ready made. <br />It comes from your own actions._" ~ Dalai Lama](#happiness-is-not-something-ready-made-it-comes-from-your-own-actions--dalai-lama)
+  - [_What Problem_ Are We _Solving_?](#what-problem-are-we-solving)
+  - ["_I don't have enough time to_..."](#i-dont-have-enough-time-to)
+  - ["_Lack of direction, not lack of time, is the problem. <br />We all have 24-hour days._" ~ Zig Ziglar](#lack-of-direction-not-lack-of-time-is-the-problem-we-all-have-24-hour-days--zig-ziglar)
+    - ["_The bad news is time flies. The good news is you’re the pilot_” ~ Michael Altshuler](#the-bad-news-is-time-flies-the-good-news-is-youre-the-pilot--michael-altshuler)
+  - ["_You have the same number of hours in a day as Beyonce_" ~ Instagram](#you-have-the-same-number-of-hours-in-a-day-as-beyonce--instagram)
+    - [System](#system)
+  - ["_You do not rise to the level of your goals. <br /> You fall to the level of your systems._" <br />~ James Clear, Atomic Habits](#you-do-not-rise-to-the-level-of-your-goals--you-fall-to-the-level-of-your-systems--james-clear-atomic-habits)
+  - ["_The difference between successful people and really successful people is that really successful people say no to almost everything._" ~ Warren Buffet](#the-difference-between-successful-people-and-really-successful-people-is-that-really-successful-people-say-no-to-almost-everything--warren-buffet)
+  - [3 Stages of Our Roadmap](#3-stages-of-our-roadmap)
+    - [1. _Individual_ Person Experience -> _Single Player_](#1-individual-person-experience---single-player)
+    - [2. Small _Team_ Experience -> _Co-op Mode_](#2-small-team-experience---co-op-mode)
+  - [3. Big Company/Org Experience -> _MMORPG_!](#3-big-companyorg-experience---mmorpg)
+  - [Basic Workflow](#basic-workflow)
+    - [USP: What is _different_ about the @dwyl App?](#usp-what-is-different-about-the-dwyl-app)
+      - [Familiar UX?](#familiar-ux)
+- [_Who_?](#who)
+  - [_Who NOT_?](#who-not)
+- [When?](#when)
+- [How?](#how)
+    - [Tech & Features Roadmap](#tech--features-roadmap)
+      - [MVP Basic Workflow](#mvp-basic-workflow)
+      - [Offline Support](#offline-support)
+      - [Image Capture](#image-capture)
+      - [Authentication](#authentication)
+  - [Why Open Source?](#why-open-source)
+  - [_Public_?](#public)
+    - [Why Do So _Few_ Companies Make Their "Road Map" Public?](#why-do-so-few-companies-make-their-road-map-public)
+    - [Final Note](#final-note)
+  - [Further Reading](#further-reading)
+
 # _Why_? 🤷‍♀️
 
 Having a _clear_ **Product Roadmap** is ***essential***
@@ -181,9 +218,12 @@ we are helping people be _happy_. <br />
 That's a mission we can _all_ get on board with!
 
 
-Our immediate plan is to build a **_single_ app**
+Our immediate plan 
+is to build a 
+**_single_ app**
 that satisfies _several_ human needs
-while focussing on the theme of "***personal effectiveness***".
+while focussing on the theme of 
+"***personal effectiveness***".
 
 
 The @dwyl App will be a "_hybrid_"
@@ -198,12 +238,27 @@ through a systematic workflow.
 
 We are building an App that 
 creates a systematic approach 
-to solve the problem we _all_ face every day. <br />
+to solve the problem we _all_ face every day: <br />
+
+1. **_Staying_ focussed** on highest priority `item`.
+2. **_Capturing_ everything** 
+   that comes in to one's mind/inbox/messages/etc.
+   but **not allowing** it to **_distract_ us**
+   from what we are **_currently_ working on**.
+3. **_Prioritising_ regularly** to ensure that
+   nothing important is forgotten 
+   and we aren't wasting time on low-priority/value `items`.
+4. **_Sharing_** our list 
+   with relevant people 
+   in our **team/family**
+   so they are aware of what we are thinking.
+5. **Knowing** what **_other_ people** 
+   in our **team/family** are **working on**
+   so that we **_never_ interrupt their flow**.
+
 What do you think of when you 
 see/read/hear/think of 
 the following words:
-
-
 ## "_I don't have enough time to_..."
 
 How many times have you heard 
@@ -671,7 +726,7 @@ but we will draw inspiration from _many_ sources.
 
 
 
-## _Who_?
+# _Who_?
 
 Who is this product roadmap intended for?
 
@@ -685,7 +740,7 @@ is **respected/followed** to **avoid chaos**_).
 -->
 
 
-#### _Who NOT_?
+## _Who NOT_?
 
 Who should *not* be reading this product roadmap?
 
@@ -703,7 +758,7 @@ to build something meaningful.
 
 <br />
 
-## When?
+# When?
 
 We started a laying the groundwork for
 building the dwyl app _while_ ago ... <br />
@@ -714,17 +769,17 @@ there are _so many_ useful features we want to build.
 _**Get involved today** and **help us prioritize**
 which **features** get built **next**_!
 
-## How?
+# How?
 
 If you want to get involved in helping us with the App,
 there are 4 ways to help:
 
-1. **Use** the **_Beta_ App**!
-`[insert app link here!]`
+1. **Please Use** the **_Beta_ App**: 
+[**`mvp.fly.dev`**](https://mvp.fly.dev/)
 2. Give us ***feedback*** on the **_existing_ UX**
-`[insert feedback link here!]`
-3. **Read** the
-[issues](https://github.com/dwyl/time/issues?q=label%3A%22help+wanted%22+is%3Aissue+is%3Aopen)
+[**`dwyl/mvp/issues`**](https://github.com/dwyl/mvp/issues)
+1. **Read** the
+[issues](https://github.com/dwyl/app/issues?q=label%3A%22help+wanted%22+is%3Aissue+is%3Aopen)
 and help us answer questions if you can.
 4. Write some **`code`**!
 See: https://github.com/dwyl/technology-stack
