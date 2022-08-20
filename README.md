@@ -64,7 +64,7 @@ and return to it in future, it will _definitely_ be different
 because we update it fairly regularly.
 We use a Git repo so that we (_and anyone `else` in the community_)
 can _track_ the changes/evolution as we 
-[Learn, Build and Measure](http://theleanstartup.com/principles). <br />
+[Learn, Build and Measure](https://theleanstartup.com/principles). <br />
 We welcome any/all feedback on it 
 _especially_ from people who are `new`
 to the 
@@ -964,7 +964,7 @@ a more **collaborative culture**_.
 + _**Fear** that members of their **own team** will leave
 and "**steal**" their **secrets**; <br />
 this does
-[happen](http://mashable.com/2017/05/20/uber-vs-google-waymo-self-driving-car-wars-get-nasty)
+[happen](https://mashable.com/2017/05/20/uber-vs-google-waymo-self-driving-car-wars-get-nasty)
 but only because the knowledge is **not** shared openly_.
 
 + _**Uncertainty** about the **future** of their **product/industry**._ <br />
@@ -973,11 +973,6 @@ _Committing to a long-range map implies a fixed/inflexible destination._
 + _**Doubt** in their **own ability** to **deliver** the plan_.
 
 <br /><hr />
-
-
-
-<!--
-[![HitCount](http://hits.dwyl.com/dwyl/product-roadmap.svg)](http://hits.dwyl.com/dwyl/product-roadmap) -->
 
 
 ### Final Note
@@ -1025,3 +1020,4 @@ it until we have traction (10K+ people using the app each day).
 https://wildbit.com/blog/2016/05/11/how-we-built-a-product-vision-and-roadmap
 (_a really good read! also image credit!_)
 
+[![HitCount](https://hits.dwyl.com/dwyl/product-roadmap.svg)](https://hits.dwyl.com/dwyl/product-roadmap)
