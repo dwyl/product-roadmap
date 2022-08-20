@@ -220,7 +220,7 @@ Our immediate plan
 is to build a 
 **_single_ app**
 that satisfies _several_ human needs
-while focussing on the theme of 
+focussed on the theme of 
 "***personal effectiveness***".
 
 
@@ -238,7 +238,7 @@ We are building an App that
 creates a systematic approach 
 to solve the problem we _all_ face every day: <br />
 
-1. **_Staying_ focussed** on highest priority `item`.
+1. **_Staying_ focussed** on the highest priority `item`.
 2. **_Capturing_ everything** 
    that comes in to one's mind/inbox/messages/etc.
    but **not allowing** it to **_distract_ us**
@@ -246,6 +246,7 @@ to solve the problem we _all_ face every day: <br />
 3. **_Prioritising_ regularly** to ensure that
    nothing important is forgotten 
    and we aren't wasting time on low-priority/value `items`.
+   See: [dwyl/app/issues/283](https://github.com/dwyl/app/issues/283) 
 4. **_Sharing_** our list 
    with relevant people 
    in our **team/family**
