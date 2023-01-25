@@ -12,16 +12,11 @@
   - [_Why_ Are We Building An _App_?](#why-are-we-building-an-app)
 - [_What_?](#what)
   - [_Empower people to maximise effectiveness, creativity and happiness._](#empower-people-to-maximise-effectiveness-creativity-and-happiness)
-  - ["_The secret to happiness is one word: progress. Progress equals happiness._" Tony Robbins](#the-secret-to-happiness-is-one-word-progress-progress-equals-happiness-tony-robbins)
-  - ["_Happiness is not something ready made. It comes from your own actions._" ~ Dalai Lama](#happiness-is-not-something-ready-made-it-comes-from-your-own-actions--dalai-lama)
   - [_What Problem_ Are We _Solving_?](#what-problem-are-we-solving)
   - ["_I don't have enough time to_..."](#i-dont-have-enough-time-to)
-  - ["_Lack of direction, not lack of time, is the problem. We all have 24-hour days._" ~ Zig Ziglar](#lack-of-direction-not-lack-of-time-is-the-problem-we-all-have-24-hour-days--zig-ziglar)
     - ["_The bad news is time flies. The good news is you’re the pilot_” ~ Michael Altshuler](#the-bad-news-is-time-flies-the-good-news-is-youre-the-pilot--michael-altshuler)
   - ["_You have the same number of hours in a day as Beyonce_" ~ Instagram](#you-have-the-same-number-of-hours-in-a-day-as-beyonce--instagram)
     - [System](#system)
-  - ["_You do not rise to the level of your goals.  You fall to the level of your systems._" ~ James Clear, Atomic Habits](#you-do-not-rise-to-the-level-of-your-goals--you-fall-to-the-level-of-your-systems--james-clear-atomic-habits)
-  - ["_The difference between successful people and really successful people is that really successful people say no to almost everything._" ~ Warren Buffet](#the-difference-between-successful-people-and-really-successful-people-is-that-really-successful-people-say-no-to-almost-everything--warren-buffet)
   - [3 Stages of Our Roadmap](#3-stages-of-our-roadmap)
     - [1. _Individual_ Person Experience -\> _Single Player_](#1-individual-person-experience---single-player)
     - [2. Small _Team_ Experience -\> _Co-op Mode_](#2-small-team-experience---co-op-mode)
@@ -199,7 +194,8 @@ is to:
 
 Although Tony Robbins is a somewhat polarising character, we unreservedly agree with this thought:
 
-## "_The secret to happiness is one word: progress. <br />Progress equals happiness._" [Tony Robbins](https://www.cnbc.com/2017/10/06/tony-robbins-this-is-the-secret-to-happiness-in-one-word.html)
+"_The secret to happiness is one word: progress. <br />Progress equals happiness._" 
+~ [Tony Robbins](https://www.cnbc.com/2017/10/06/tony-robbins-this-is-the-secret-to-happiness-in-one-word.html)
 
 
 We believe that by helping people 
@@ -209,7 +205,8 @@ toward their goals, <br />
 they will naturally be happier. 
 Happiness is almost a _byproduct_ of personal effectiveness!
 
-## "_Happiness is not something ready made. <br />It comes from your own actions._" ~ [Dalai Lama](https://www.goodreads.com/quotes/1263-happines)
+"_Happiness is not something ready made. <br />It comes from your own actions._" 
+~ [Dalai Lama](https://www.goodreads.com/quotes/1263-happines)
 
 By helping people to focus their efforts
 on their highest priority items,
@@ -298,7 +295,11 @@ we are **_all_ ineffective** in how we spend/invest our **time**.
 
 You may have seen the following quote online:
 
-## "_Lack of direction, not lack of time, is the problem. <br />We all have 24-hour days._" ~ [Zig Ziglar](https://www.goodreads.com/quotes/270489-lack-of-direction-not-lack-of-time-is-the-problem)
+"_Lack of direction, 
+not lack of time, 
+is the problem. <br />
+We all have 24-hour days._" 
+~ [Zig Ziglar](https://www.goodreads.com/quotes/270489-lack-of-direction-not-lack-of-time-is-the-problem)
 
 or 
 
@@ -382,7 +383,9 @@ The average person without a systematic approach doesn't stand a _chance_!
 ### System
 
 
-## "_You do not rise to the level of your goals. <br /> You fall to the level of your systems._" <br />~ [James Clear](https://www.goodreads.com/quotes/9536717), Atomic Habits
+"_You do not rise to the level of your goals. <br /> 
+You fall to the level of your systems._" <br />
+~ [James Clear](https://www.goodreads.com/quotes/9536717), Atomic Habits
 
 
 The ***system*** we are building
@@ -423,7 +426,7 @@ so that I can **focus** on my highest priority item?
 
 <br />
 
-## "_The difference between successful people and really successful people is that really successful people say no to almost everything._" ~ [Warren Buffet](https://medium.com/the-ascent/you-can-do-amazing-things-but-only-if-you-have-time-to-do-them-31c07ab5b04e)
+"_The difference between successful people and really successful people is that really successful people say no to almost everything._" ~ [Warren Buffet](https://medium.com/the-ascent/you-can-do-amazing-things-but-only-if-you-have-time-to-do-them-31c07ab5b04e)
 
 What do _you_ need to (_politely and plainly_) say "***no***" to 
 so you can **focus** on your **goals**?
@@ -606,7 +609,7 @@ We will add additional methods
 to help people "capture" information.
 e.g:
 + Linking to external sources of information
-+ Photonelson notime personae uploads
++ Photo/image uploads
   + Optical Character Recognition (OCR)
   + Image/object recognition
 + Voice/audio recording
@@ -1042,6 +1045,6 @@ it until we have traction (10K+ people using the app each day).
 
 + "How we built a product vision and roadmap":
 https://wildbit.com/blog/2016/05/11/how-we-built-a-product-vision-and-roadmap
-(_a really good read! alsonelson notime personae credit!_)
+(_a really good read! also image credit!_)
 
 [![HitCount](https://hits.dwyl.com/dwyl/product-roadmap.svg)](https://hits.dwyl.com/dwyl/product-roadmap)
