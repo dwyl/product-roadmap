@@ -12,28 +12,29 @@
   - [_Why_ Are We Building An _App_?](#why-are-we-building-an-app)
 - [_What_?](#what)
   - [_Empower people to maximise effectiveness, creativity and happiness._](#empower-people-to-maximise-effectiveness-creativity-and-happiness)
-  - ["_The secret to happiness is one word: progress. <br />Progress equals happiness._" Tony Robbins](#the-secret-to-happiness-is-one-word-progress-progress-equals-happiness-tony-robbins)
-  - ["_Happiness is not something ready made. <br />It comes from your own actions._" ~ Dalai Lama](#happiness-is-not-something-ready-made-it-comes-from-your-own-actions--dalai-lama)
+  - ["_The secret to happiness is one word: progress. Progress equals happiness._" Tony Robbins](#the-secret-to-happiness-is-one-word-progress-progress-equals-happiness-tony-robbins)
+  - ["_Happiness is not something ready made. It comes from your own actions._" ~ Dalai Lama](#happiness-is-not-something-ready-made-it-comes-from-your-own-actions--dalai-lama)
   - [_What Problem_ Are We _Solving_?](#what-problem-are-we-solving)
   - ["_I don't have enough time to_..."](#i-dont-have-enough-time-to)
-  - ["_Lack of direction, not lack of time, is the problem. <br />We all have 24-hour days._" ~ Zig Ziglar](#lack-of-direction-not-lack-of-time-is-the-problem-we-all-have-24-hour-days--zig-ziglar)
+  - ["_Lack of direction, not lack of time, is the problem. We all have 24-hour days._" ~ Zig Ziglar](#lack-of-direction-not-lack-of-time-is-the-problem-we-all-have-24-hour-days--zig-ziglar)
     - ["_The bad news is time flies. The good news is you’re the pilot_” ~ Michael Altshuler](#the-bad-news-is-time-flies-the-good-news-is-youre-the-pilot--michael-altshuler)
   - ["_You have the same number of hours in a day as Beyonce_" ~ Instagram](#you-have-the-same-number-of-hours-in-a-day-as-beyonce--instagram)
     - [System](#system)
-  - ["_You do not rise to the level of your goals. <br /> You fall to the level of your systems._" <br />~ James Clear, Atomic Habits](#you-do-not-rise-to-the-level-of-your-goals--you-fall-to-the-level-of-your-systems--james-clear-atomic-habits)
+  - ["_You do not rise to the level of your goals.  You fall to the level of your systems._" ~ James Clear, Atomic Habits](#you-do-not-rise-to-the-level-of-your-goals--you-fall-to-the-level-of-your-systems--james-clear-atomic-habits)
   - ["_The difference between successful people and really successful people is that really successful people say no to almost everything._" ~ Warren Buffet](#the-difference-between-successful-people-and-really-successful-people-is-that-really-successful-people-say-no-to-almost-everything--warren-buffet)
   - [3 Stages of Our Roadmap](#3-stages-of-our-roadmap)
-    - [1. _Individual_ Person Experience -> _Single Player_](#1-individual-person-experience---single-player)
-    - [2. Small _Team_ Experience -> _Co-op Mode_](#2-small-team-experience---co-op-mode)
-    - [3. Big Company/Org Experience -> _MMORPG_!](#3-big-companyorg-experience---mmorpg)
+    - [1. _Individual_ Person Experience -\> _Single Player_](#1-individual-person-experience---single-player)
+    - [2. Small _Team_ Experience -\> _Co-op Mode_](#2-small-team-experience---co-op-mode)
+    - [3. Big Company/Org Experience -\> _MMORPG_!](#3-big-companyorg-experience---mmorpg)
   - [Basic Workflow](#basic-workflow)
     - [USP: What is _different_ about the @dwyl App?](#usp-what-is-different-about-the-dwyl-app)
       - [Familiar UX?](#familiar-ux)
 - [_Who_?](#who)
+  - [_Real_ `People` Personas](#real-people-personas)
   - [_Who NOT_?](#who-not)
 - [When?](#when)
 - [How?](#how)
-    - [Tech & Features Roadmap](#tech--features-roadmap)
+    - [Tech \& Features Roadmap](#tech--features-roadmap)
       - [MVP Basic Workflow](#mvp-basic-workflow)
       - [Offline Support](#offline-support)
       - [Image Capture](#image-capture)
@@ -605,7 +606,7 @@ We will add additional methods
 to help people "capture" information.
 e.g:
 + Linking to external sources of information
-+ Photo/image uploads
++ Photonelson notime personae uploads
   + Optical Character Recognition (OCR)
   + Image/object recognition
 + Voice/audio recording
@@ -738,6 +739,29 @@ the various project(s) that make up the dwyl app.
 is **respected/followed** to **avoid chaos**_).
 -->
 
+## _Real_ `People` Personas
+
+<img width="1504" alt="busy working mum persona" 
+  src="https://user-images.githubusercontent.com/194400/214538321-b80e762e-e6f7-4507-bf52-b52500d8d874.png">
+
+<img width="1536" alt="nelson notime persona" 
+  src="https://user-images.githubusercontent.com/194400/214541196-0580e31c-579e-46e3-be44-24611859750c.png">
+
+
+As you can tell, 
+these `people` are not only _real_
+they are "***us***"!!
+[@iteles](https://github.com/iteles)
+& 
+[@nelsonic](https://github.com/nelsonic)
+We are _building_ the `App` that we need for _ourselves_!
+
+If you have a similar pain in your life.
+Join us!
+Create a persona: 
+[dwyl/process-handbook/**personas**](https://github.com/dwyl/process-handbook/tree/main/personas)
+
+<br />
 
 ## _Who NOT_?
 
@@ -1018,6 +1042,6 @@ it until we have traction (10K+ people using the app each day).
 
 + "How we built a product vision and roadmap":
 https://wildbit.com/blog/2016/05/11/how-we-built-a-product-vision-and-roadmap
-(_a really good read! also image credit!_)
+(_a really good read! alsonelson notime personae credit!_)
 
 [![HitCount](https://hits.dwyl.com/dwyl/product-roadmap.svg)](https://hits.dwyl.com/dwyl/product-roadmap)
